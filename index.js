@@ -8,7 +8,7 @@ function parseFile (file) {
 
 	data = data.replace(/[^]*Final results:/gm, '');
 	
-	var ret = [];
+	var ret = {};
 
 	var match = regex.exec(data);
 
@@ -17,8 +17,17 @@ function parseFile (file) {
 		o.sat = match[1];
 		o.type = match[2];
 		o.event = match[3];
-		o.date = new Date(match[4] + " GMT").getTime();
-		ret.push(o);
+		var date = new Date(match[4] + " GMT");
+		o.date = date.getTime();
+		
+		var idx = date.toISOString().slice(0,10).replace(/-/g,"");
+		
+		if(!ret[idx]) {
+			ret[idx] = [];
+		}
+		
+		ret[idx].push(o);
+		
 		match = regex.exec(data);
 	}
 	
