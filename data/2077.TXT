@@ -1,0 +1,2320 @@
+sat 1: Ecl start: 30 Dec 2076 15:23
+sat 1: Occ end  : 30 Dec 2076 18:36
+sat 2: Sha start: 31 Dec 2076  0:30
+sat 2: Tra start: 31 Dec 2076  2:40
+sat 2: Sha end  : 31 Dec 2076  2:52
+sat 2: Tra end  : 31 Dec 2076  4:59
+sat 1: Sha start: 31 Dec 2076 12:43
+sat 1: Tra start: 31 Dec 2076 13:48
+sat 1: Sha end  : 31 Dec 2076 14:54
+sat 1: Tra end  : 31 Dec 2076 15:58
+sat 3: Ecl start: 31 Dec 2076 19:47
+sat 3: Ecl end  : 31 Dec 2076 21:53
+sat 3: Occ start:  1 Jan 2077  0:13
+sat 3: Occ end  :  1 Jan 2077  2:12
+sat 1: Ecl start:  1 Jan 2077  9:51
+sat 1: Occ end  :  1 Jan 2077 13:06
+sat 2: Ecl start:  1 Jan 2077 19:38
+sat 2: Occ end  :  2 Jan 2077  0:09
+sat 1: Sha start:  2 Jan 2077  7:12
+sat 1: Tra start:  2 Jan 2077  8:17
+sat 1: Sha end  :  2 Jan 2077  9:22
+sat 1: Tra end  :  2 Jan 2077 10:27
+sat 1: Ecl start:  3 Jan 2077  4:19
+sat 1: Occ end  :  3 Jan 2077  7:35
+sat 2: Sha start:  3 Jan 2077 13:48
+sat 2: Tra start:  3 Jan 2077 16:02
+sat 2: Sha end  :  3 Jan 2077 16:09
+sat 2: Tra end  :  3 Jan 2077 18:20
+sat 1: Sha start:  4 Jan 2077  1:40
+sat 1: Tra start:  4 Jan 2077  2:47
+sat 1: Sha end  :  4 Jan 2077  3:50
+sat 1: Tra end  :  4 Jan 2077  4:56
+sat 3: Sha start:  4 Jan 2077  9:59
+sat 3: Sha end  :  4 Jan 2077 12:05
+sat 3: Tra start:  4 Jan 2077 14:31
+sat 3: Tra end  :  4 Jan 2077 16:29
+sat 1: Ecl start:  4 Jan 2077 22:48
+sat 1: Occ end  :  5 Jan 2077  2:04
+sat 2: Ecl start:  5 Jan 2077  8:56
+sat 2: Occ end  :  5 Jan 2077 13:30
+sat 1: Sha start:  5 Jan 2077 20:08
+sat 1: Tra start:  5 Jan 2077 21:16
+sat 1: Sha end  :  5 Jan 2077 22:19
+sat 1: Tra end  :  5 Jan 2077 23:25
+sat 1: Ecl start:  6 Jan 2077 17:16
+sat 1: Occ end  :  6 Jan 2077 20:33
+sat 2: Sha start:  7 Jan 2077  3:04
+sat 2: Tra start:  7 Jan 2077  5:22
+sat 2: Sha end  :  7 Jan 2077  5:26
+sat 2: Tra end  :  7 Jan 2077  7:40
+sat 1: Sha start:  7 Jan 2077 14:37
+sat 1: Tra start:  7 Jan 2077 15:45
+sat 1: Sha end  :  7 Jan 2077 16:47
+sat 1: Tra end  :  7 Jan 2077 17:54
+sat 3: Ecl start:  7 Jan 2077 23:44
+sat 3: Ecl end  :  8 Jan 2077  1:49
+sat 3: Occ start:  8 Jan 2077  4:25
+sat 3: Occ end  :  8 Jan 2077  6:22
+sat 1: Ecl start:  8 Jan 2077 11:44
+sat 1: Occ end  :  8 Jan 2077 15:02
+sat 2: Ecl start:  8 Jan 2077 22:12
+sat 2: Occ end  :  9 Jan 2077  2:50
+sat 1: Sha start:  9 Jan 2077  9:05
+sat 1: Tra start:  9 Jan 2077 10:14
+sat 1: Sha end  :  9 Jan 2077 11:15
+sat 1: Tra end  :  9 Jan 2077 12:23
+sat 1: Ecl start: 10 Jan 2077  6:12
+sat 1: Occ end  : 10 Jan 2077  9:31
+sat 2: Sha start: 10 Jan 2077 16:22
+sat 2: Tra start: 10 Jan 2077 18:43
+sat 2: Sha end  : 10 Jan 2077 18:43
+sat 2: Tra end  : 10 Jan 2077 21:00
+sat 1: Sha start: 11 Jan 2077  3:33
+sat 1: Tra start: 11 Jan 2077  4:43
+sat 1: Sha end  : 11 Jan 2077  5:43
+sat 1: Tra end  : 11 Jan 2077  6:52
+sat 3: Sha start: 11 Jan 2077 13:56
+sat 3: Sha end  : 11 Jan 2077 16:01
+sat 3: Tra start: 11 Jan 2077 18:42
+sat 3: Tra end  : 11 Jan 2077 20:37
+sat 1: Ecl start: 12 Jan 2077  0:41
+sat 1: Occ end  : 12 Jan 2077  4:00
+sat 2: Ecl start: 12 Jan 2077 11:30
+sat 2: Ecl end  : 12 Jan 2077 13:51
+sat 2: Occ start: 12 Jan 2077 13:53
+sat 2: Occ end  : 12 Jan 2077 16:09
+sat 1: Sha start: 12 Jan 2077 22:02
+sat 1: Tra start: 12 Jan 2077 23:12
+sat 1: Sha end  : 13 Jan 2077  0:12
+sat 1: Tra end  : 13 Jan 2077  1:21
+sat 1: Ecl start: 13 Jan 2077 19:09
+sat 1: Occ end  : 13 Jan 2077 22:29
+sat 2: Sha start: 14 Jan 2077  5:39
+sat 2: Sha end  : 14 Jan 2077  8:00
+sat 2: Tra start: 14 Jan 2077  8:03
+sat 2: Tra end  : 14 Jan 2077 10:19
+sat 1: Sha start: 14 Jan 2077 16:30
+sat 1: Tra start: 14 Jan 2077 17:41
+sat 1: Sha end  : 14 Jan 2077 18:40
+sat 1: Tra end  : 14 Jan 2077 19:50
+sat 3: Ecl start: 15 Jan 2077  3:42
+sat 3: Ecl end  : 15 Jan 2077  5:47
+sat 3: Occ start: 15 Jan 2077  8:36
+sat 3: Occ end  : 15 Jan 2077 10:29
+sat 1: Ecl start: 15 Jan 2077 13:37
+sat 1: Occ end  : 15 Jan 2077 16:58
+sat 2: Ecl start: 16 Jan 2077  0:47
+sat 2: Ecl end  : 16 Jan 2077  3:08
+sat 2: Occ start: 16 Jan 2077  3:12
+sat 2: Occ end  : 16 Jan 2077  5:28
+sat 1: Sha start: 16 Jan 2077 10:58
+sat 1: Tra start: 16 Jan 2077 12:10
+sat 1: Sha end  : 16 Jan 2077 13:08
+sat 1: Tra end  : 16 Jan 2077 14:19
+sat 1: Ecl start: 17 Jan 2077  8:06
+sat 1: Occ end  : 17 Jan 2077 11:27
+sat 2: Sha start: 17 Jan 2077 18:56
+sat 2: Sha end  : 17 Jan 2077 21:17
+sat 2: Tra start: 17 Jan 2077 21:23
+sat 2: Tra end  : 17 Jan 2077 23:39
+sat 1: Sha start: 18 Jan 2077  5:26
+sat 1: Tra start: 18 Jan 2077  6:39
+sat 1: Sha end  : 18 Jan 2077  7:37
+sat 1: Tra end  : 18 Jan 2077  8:48
+sat 3: Sha start: 18 Jan 2077 17:53
+sat 3: Sha end  : 18 Jan 2077 19:58
+sat 3: Tra start: 18 Jan 2077 22:49
+sat 3: Tra end  : 19 Jan 2077  0:42
+sat 1: Ecl start: 19 Jan 2077  2:34
+sat 1: Occ end  : 19 Jan 2077  5:56
+sat 2: Ecl start: 19 Jan 2077 14:04
+sat 2: Ecl end  : 19 Jan 2077 16:25
+sat 2: Occ start: 19 Jan 2077 16:31
+sat 2: Occ end  : 19 Jan 2077 18:47
+sat 1: Sha start: 19 Jan 2077 23:55
+sat 1: Tra start: 20 Jan 2077  1:07
+sat 1: Sha end  : 20 Jan 2077  2:05
+sat 1: Tra end  : 20 Jan 2077  3:16
+sat 1: Ecl start: 20 Jan 2077 21:02
+sat 1: Occ end  : 21 Jan 2077  0:24
+sat 2: Sha start: 21 Jan 2077  8:13
+sat 2: Sha end  : 21 Jan 2077 10:34
+sat 2: Tra start: 21 Jan 2077 10:42
+sat 2: Tra end  : 21 Jan 2077 12:58
+sat 1: Sha start: 21 Jan 2077 18:23
+sat 1: Tra start: 21 Jan 2077 19:36
+sat 1: Sha end  : 21 Jan 2077 20:33
+sat 1: Tra end  : 21 Jan 2077 21:45
+sat 3: Ecl start: 22 Jan 2077  7:39
+sat 3: Ecl end  : 22 Jan 2077  9:44
+sat 3: Occ start: 22 Jan 2077 12:42
+sat 3: Occ end  : 22 Jan 2077 14:33
+sat 1: Ecl start: 22 Jan 2077 15:30
+sat 1: Occ end  : 22 Jan 2077 18:53
+sat 2: Ecl start: 23 Jan 2077  3:21
+sat 2: Ecl end  : 23 Jan 2077  5:42
+sat 2: Occ start: 23 Jan 2077  5:50
+sat 2: Occ end  : 23 Jan 2077  8:05
+sat 1: Sha start: 23 Jan 2077 12:51
+sat 1: Tra start: 23 Jan 2077 14:05
+sat 1: Sha end  : 23 Jan 2077 15:01
+sat 1: Tra end  : 23 Jan 2077 16:14
+sat 1: Ecl start: 24 Jan 2077  9:59
+sat 1: Occ end  : 24 Jan 2077 13:22
+sat 2: Sha start: 24 Jan 2077 21:30
+sat 2: Sha end  : 24 Jan 2077 23:51
+sat 2: Tra start: 25 Jan 2077  0:01
+sat 2: Tra end  : 25 Jan 2077  2:16
+sat 1: Sha start: 25 Jan 2077  7:19
+sat 1: Tra start: 25 Jan 2077  8:33
+sat 1: Sha end  : 25 Jan 2077  9:30
+sat 1: Tra end  : 25 Jan 2077 10:42
+sat 3: Sha start: 25 Jan 2077 21:50
+sat 3: Sha end  : 25 Jan 2077 23:55
+sat 3: Tra start: 26 Jan 2077  2:54
+sat 1: Ecl start: 26 Jan 2077  4:27
+sat 3: Tra end  : 26 Jan 2077  4:43
+sat 1: Occ end  : 26 Jan 2077  7:50
+sat 2: Ecl start: 26 Jan 2077 16:38
+sat 2: Ecl end  : 26 Jan 2077 18:59
+sat 2: Occ start: 26 Jan 2077 19:08
+sat 2: Occ end  : 26 Jan 2077 21:23
+sat 1: Sha start: 27 Jan 2077  1:48
+sat 1: Tra start: 27 Jan 2077  3:02
+sat 1: Sha end  : 27 Jan 2077  3:58
+sat 1: Tra end  : 27 Jan 2077  5:11
+sat 1: Ecl start: 27 Jan 2077 22:55
+sat 1: Occ end  : 28 Jan 2077  2:19
+sat 2: Sha start: 28 Jan 2077 10:47
+sat 2: Sha end  : 28 Jan 2077 13:08
+sat 2: Tra start: 28 Jan 2077 13:19
+sat 2: Tra end  : 28 Jan 2077 15:34
+sat 1: Sha start: 28 Jan 2077 20:16
+sat 1: Tra start: 28 Jan 2077 21:30
+sat 1: Sha end  : 28 Jan 2077 22:26
+sat 1: Tra end  : 28 Jan 2077 23:39
+sat 3: Ecl start: 29 Jan 2077 11:37
+sat 3: Ecl end  : 29 Jan 2077 13:41
+sat 3: Occ start: 29 Jan 2077 16:45
+sat 1: Ecl start: 29 Jan 2077 17:24
+sat 3: Occ end  : 29 Jan 2077 18:32
+sat 1: Occ end  : 29 Jan 2077 20:47
+sat 2: Ecl start: 30 Jan 2077  5:55
+sat 2: Ecl end  : 30 Jan 2077  8:15
+sat 2: Occ start: 30 Jan 2077  8:25
+sat 2: Occ end  : 30 Jan 2077 10:40
+sat 1: Sha start: 30 Jan 2077 14:44
+sat 1: Tra start: 30 Jan 2077 15:59
+sat 1: Sha end  : 30 Jan 2077 16:54
+sat 1: Tra end  : 30 Jan 2077 18:07
+sat 1: Ecl start: 31 Jan 2077 11:52
+sat 1: Occ end  : 31 Jan 2077 15:15
+sat 2: Sha start:  1 Feb 2077  0:05
+sat 2: Sha end  :  1 Feb 2077  2:26
+sat 2: Tra start:  1 Feb 2077  2:37
+sat 2: Tra end  :  1 Feb 2077  4:52
+sat 1: Sha start:  1 Feb 2077  9:13
+sat 1: Tra start:  1 Feb 2077 10:27
+sat 1: Sha end  :  1 Feb 2077 11:23
+sat 1: Tra end  :  1 Feb 2077 12:36
+sat 3: Sha start:  2 Feb 2077  1:48
+sat 3: Sha end  :  2 Feb 2077  3:52
+sat 1: Ecl start:  2 Feb 2077  6:20
+sat 3: Tra start:  2 Feb 2077  6:55
+sat 3: Tra end  :  2 Feb 2077  8:41
+sat 1: Occ end  :  2 Feb 2077  9:44
+sat 2: Ecl start:  2 Feb 2077 19:12
+sat 2: Ecl end  :  2 Feb 2077 21:32
+sat 2: Occ start:  2 Feb 2077 21:43
+sat 2: Occ end  :  2 Feb 2077 23:57
+sat 1: Sha start:  3 Feb 2077  3:41
+sat 1: Tra start:  3 Feb 2077  4:55
+sat 1: Sha end  :  3 Feb 2077  5:51
+sat 1: Tra end  :  3 Feb 2077  7:04
+sat 1: Ecl start:  4 Feb 2077  0:48
+sat 1: Occ end  :  4 Feb 2077  4:12
+sat 2: Sha start:  4 Feb 2077 13:22
+sat 2: Sha end  :  4 Feb 2077 15:42
+sat 2: Tra start:  4 Feb 2077 15:54
+sat 2: Tra end  :  4 Feb 2077 18:09
+sat 1: Sha start:  4 Feb 2077 22:09
+sat 1: Tra start:  4 Feb 2077 23:23
+sat 1: Sha end  :  5 Feb 2077  0:19
+sat 1: Tra end  :  5 Feb 2077  1:32
+sat 3: Ecl start:  5 Feb 2077 15:34
+sat 3: Ecl end  :  5 Feb 2077 17:37
+sat 1: Ecl start:  5 Feb 2077 19:17
+sat 3: Occ start:  5 Feb 2077 20:44
+sat 3: Occ end  :  5 Feb 2077 22:27
+sat 1: Occ end  :  5 Feb 2077 22:40
+sat 2: Ecl start:  6 Feb 2077  8:28
+sat 2: Ecl end  :  6 Feb 2077 10:49
+sat 2: Occ start:  6 Feb 2077 10:59
+sat 2: Occ end  :  6 Feb 2077 13:13
+sat 1: Sha start:  6 Feb 2077 16:37
+sat 1: Tra start:  6 Feb 2077 17:51
+sat 1: Sha end  :  6 Feb 2077 18:47
+sat 1: Tra end  :  6 Feb 2077 20:00
+sat 1: Ecl start:  7 Feb 2077 13:45
+sat 1: Occ end  :  7 Feb 2077 17:08
+sat 2: Sha start:  8 Feb 2077  2:39
+sat 2: Sha end  :  8 Feb 2077  5:00
+sat 2: Tra start:  8 Feb 2077  5:12
+sat 2: Tra end  :  8 Feb 2077  7:25
+sat 1: Sha start:  8 Feb 2077 11:06
+sat 1: Tra start:  8 Feb 2077 12:20
+sat 1: Sha end  :  8 Feb 2077 13:15
+sat 1: Tra end  :  8 Feb 2077 14:28
+sat 3: Sha start:  9 Feb 2077  5:46
+sat 3: Sha end  :  9 Feb 2077  7:49
+sat 1: Ecl start:  9 Feb 2077  8:13
+sat 3: Tra start:  9 Feb 2077 10:52
+sat 1: Occ end  :  9 Feb 2077 11:36
+sat 3: Tra end  :  9 Feb 2077 12:35
+sat 2: Ecl start:  9 Feb 2077 21:45
+sat 2: Ecl end  : 10 Feb 2077  0:06
+sat 2: Occ start: 10 Feb 2077  0:15
+sat 2: Occ end  : 10 Feb 2077  2:28
+sat 1: Sha start: 10 Feb 2077  5:34
+sat 1: Tra start: 10 Feb 2077  6:48
+sat 1: Sha end  : 10 Feb 2077  7:44
+sat 1: Tra end  : 10 Feb 2077  8:56
+sat 1: Ecl start: 11 Feb 2077  2:42
+sat 1: Occ end  : 11 Feb 2077  6:05
+sat 2: Sha start: 11 Feb 2077 15:56
+sat 2: Sha end  : 11 Feb 2077 18:17
+sat 2: Tra start: 11 Feb 2077 18:28
+sat 2: Tra end  : 11 Feb 2077 20:41
+sat 1: Sha start: 12 Feb 2077  0:02
+sat 1: Tra start: 12 Feb 2077  1:15
+sat 1: Sha end  : 12 Feb 2077  2:12
+sat 1: Tra end  : 12 Feb 2077  3:24
+sat 3: Ecl start: 12 Feb 2077 19:31
+sat 1: Ecl start: 12 Feb 2077 21:10
+sat 3: Ecl end  : 12 Feb 2077 21:34
+sat 1: Occ end  : 13 Feb 2077  0:32
+sat 3: Occ start: 13 Feb 2077  0:38
+sat 3: Occ end  : 13 Feb 2077  2:18
+sat 2: Ecl start: 13 Feb 2077 11:02
+sat 2: Ecl end  : 13 Feb 2077 13:22
+sat 2: Occ start: 13 Feb 2077 13:30
+sat 2: Occ end  : 13 Feb 2077 15:43
+sat 1: Sha start: 13 Feb 2077 18:30
+sat 1: Tra start: 13 Feb 2077 19:43
+sat 1: Sha end  : 13 Feb 2077 20:40
+sat 1: Tra end  : 13 Feb 2077 21:52
+sat 1: Ecl start: 14 Feb 2077 15:38
+sat 1: Occ end  : 14 Feb 2077 19:00
+sat 2: Sha start: 15 Feb 2077  5:14
+sat 2: Sha end  : 15 Feb 2077  7:35
+sat 2: Tra start: 15 Feb 2077  7:44
+sat 2: Tra end  : 15 Feb 2077  9:57
+sat 1: Sha start: 15 Feb 2077 12:59
+sat 1: Tra start: 15 Feb 2077 14:11
+sat 1: Sha end  : 15 Feb 2077 15:08
+sat 1: Tra end  : 15 Feb 2077 16:19
+sat 3: Sha start: 16 Feb 2077  9:43
+sat 1: Ecl start: 16 Feb 2077 10:07
+sat 3: Sha end  : 16 Feb 2077 11:46
+sat 1: Occ end  : 16 Feb 2077 13:28
+sat 3: Tra start: 16 Feb 2077 14:44
+sat 3: Tra end  : 16 Feb 2077 16:24
+sat 2: Ecl start: 17 Feb 2077  0:19
+sat 2: Ecl end  : 17 Feb 2077  2:39
+sat 2: Occ start: 17 Feb 2077  2:45
+sat 2: Occ end  : 17 Feb 2077  4:57
+sat 1: Sha start: 17 Feb 2077  7:27
+sat 1: Tra start: 17 Feb 2077  8:39
+sat 1: Sha end  : 17 Feb 2077  9:37
+sat 1: Tra end  : 17 Feb 2077 10:47
+sat 1: Ecl start: 18 Feb 2077  4:35
+sat 1: Occ end  : 18 Feb 2077  7:56
+sat 2: Sha start: 18 Feb 2077 18:31
+sat 2: Sha end  : 18 Feb 2077 20:52
+sat 2: Tra start: 18 Feb 2077 20:59
+sat 2: Tra end  : 18 Feb 2077 23:12
+sat 1: Sha start: 19 Feb 2077  1:55
+sat 1: Tra start: 19 Feb 2077  3:07
+sat 1: Sha end  : 19 Feb 2077  4:05
+sat 1: Tra end  : 19 Feb 2077  5:15
+sat 1: Ecl start: 19 Feb 2077 23:03
+sat 3: Ecl start: 19 Feb 2077 23:29
+sat 3: Ecl end  : 20 Feb 2077  1:31
+sat 1: Occ end  : 20 Feb 2077  2:24
+sat 3: Occ start: 20 Feb 2077  4:29
+sat 3: Occ end  : 20 Feb 2077  6:06
+sat 2: Ecl start: 20 Feb 2077 13:36
+sat 2: Ecl end  : 20 Feb 2077 15:55
+sat 2: Occ start: 20 Feb 2077 15:59
+sat 2: Occ end  : 20 Feb 2077 18:11
+sat 1: Sha start: 20 Feb 2077 20:23
+sat 1: Tra start: 20 Feb 2077 21:34
+sat 1: Sha end  : 20 Feb 2077 22:33
+sat 1: Tra end  : 20 Feb 2077 23:42
+sat 1: Ecl start: 21 Feb 2077 17:32
+sat 1: Occ end  : 21 Feb 2077 20:51
+sat 2: Sha start: 22 Feb 2077  7:49
+sat 2: Sha end  : 22 Feb 2077 10:09
+sat 2: Tra start: 22 Feb 2077 10:15
+sat 2: Tra end  : 22 Feb 2077 12:27
+sat 1: Sha start: 22 Feb 2077 14:52
+sat 1: Tra start: 22 Feb 2077 16:02
+sat 1: Sha end  : 22 Feb 2077 17:01
+sat 1: Tra end  : 22 Feb 2077 18:10
+sat 1: Ecl start: 23 Feb 2077 12:00
+sat 3: Sha start: 23 Feb 2077 13:40
+sat 1: Occ end  : 23 Feb 2077 15:19
+sat 3: Sha end  : 23 Feb 2077 15:43
+sat 3: Tra start: 23 Feb 2077 18:32
+sat 3: Tra end  : 23 Feb 2077 20:09
+sat 2: Ecl start: 24 Feb 2077  2:52
+sat 2: Ecl end  : 24 Feb 2077  5:11
+sat 2: Occ start: 24 Feb 2077  5:13
+sat 2: Occ end  : 24 Feb 2077  7:24
+sat 1: Sha start: 24 Feb 2077  9:20
+sat 1: Tra start: 24 Feb 2077 10:29
+sat 1: Sha end  : 24 Feb 2077 11:30
+sat 1: Tra end  : 24 Feb 2077 12:37
+sat 1: Ecl start: 25 Feb 2077  6:28
+sat 1: Occ end  : 25 Feb 2077  9:46
+sat 2: Sha start: 25 Feb 2077 21:06
+sat 2: Sha end  : 25 Feb 2077 23:26
+sat 2: Tra start: 25 Feb 2077 23:29
+sat 2: Tra end  : 26 Feb 2077  1:41
+sat 1: Sha start: 26 Feb 2077  3:48
+sat 1: Tra start: 26 Feb 2077  4:57
+sat 1: Sha end  : 26 Feb 2077  5:58
+sat 1: Tra end  : 26 Feb 2077  7:04
+sat 1: Ecl start: 27 Feb 2077  0:57
+sat 3: Ecl start: 27 Feb 2077  3:27
+sat 1: Occ end  : 27 Feb 2077  4:14
+sat 3: Ecl end  : 27 Feb 2077  5:29
+sat 3: Occ start: 27 Feb 2077  8:15
+sat 3: Occ end  : 27 Feb 2077  9:49
+sat 2: Ecl start: 27 Feb 2077 16:08
+sat 2: Occ end  : 27 Feb 2077 20:37
+sat 1: Sha start: 27 Feb 2077 22:16
+sat 1: Tra start: 27 Feb 2077 23:24
+sat 1: Sha end  : 28 Feb 2077  0:26
+sat 1: Tra end  : 28 Feb 2077  1:32
+sat 1: Ecl start: 28 Feb 2077 19:25
+sat 1: Occ end  : 28 Feb 2077 22:41
+sat 2: Sha start:  1 Mar 2077 10:24
+sat 2: Tra start:  1 Mar 2077 12:43
+sat 2: Sha end  :  1 Mar 2077 12:44
+sat 2: Tra end  :  1 Mar 2077 14:54
+sat 1: Sha start:  1 Mar 2077 16:45
+sat 1: Tra start:  1 Mar 2077 17:51
+sat 1: Sha end  :  1 Mar 2077 18:54
+sat 1: Tra end  :  1 Mar 2077 19:59
+sat 1: Ecl start:  2 Mar 2077 13:53
+sat 1: Occ end  :  2 Mar 2077 17:08
+sat 3: Sha start:  2 Mar 2077 17:37
+sat 3: Sha end  :  2 Mar 2077 19:39
+sat 3: Tra start:  2 Mar 2077 22:14
+sat 3: Tra end  :  2 Mar 2077 23:49
+sat 2: Ecl start:  3 Mar 2077  5:25
+sat 2: Occ end  :  3 Mar 2077  9:49
+sat 1: Sha start:  3 Mar 2077 11:13
+sat 1: Tra start:  3 Mar 2077 12:18
+sat 1: Sha end  :  3 Mar 2077 13:22
+sat 1: Tra end  :  3 Mar 2077 14:26
+sat 1: Ecl start:  4 Mar 2077  8:22
+sat 1: Occ end  :  4 Mar 2077 11:36
+sat 2: Sha start:  4 Mar 2077 23:41
+sat 2: Tra start:  5 Mar 2077  1:56
+sat 2: Sha end  :  5 Mar 2077  2:01
+sat 2: Tra end  :  5 Mar 2077  4:07
+sat 1: Sha start:  5 Mar 2077  5:41
+sat 1: Tra start:  5 Mar 2077  6:45
+sat 1: Sha end  :  5 Mar 2077  7:51
+sat 1: Tra end  :  5 Mar 2077  8:53
+sat 1: Ecl start:  6 Mar 2077  2:50
+sat 1: Occ end  :  6 Mar 2077  6:03
+sat 3: Ecl start:  6 Mar 2077  7:25
+sat 3: Ecl end  :  6 Mar 2077  9:27
+sat 3: Occ start:  6 Mar 2077 11:56
+sat 3: Occ end  :  6 Mar 2077 13:28
+sat 2: Ecl start:  6 Mar 2077 18:42
+sat 2: Occ end  :  6 Mar 2077 23:01
+sat 1: Sha start:  7 Mar 2077  0:09
+sat 1: Tra start:  7 Mar 2077  1:13
+sat 1: Sha end  :  7 Mar 2077  2:19
+sat 1: Tra end  :  7 Mar 2077  3:20
+sat 1: Ecl start:  7 Mar 2077 21:18
+sat 1: Occ end  :  8 Mar 2077  0:30
+sat 2: Sha start:  8 Mar 2077 12:59
+sat 2: Tra start:  8 Mar 2077 15:09
+sat 2: Sha end  :  8 Mar 2077 15:19
+sat 2: Tra end  :  8 Mar 2077 17:20
+sat 1: Sha start:  8 Mar 2077 18:38
+sat 1: Tra start:  8 Mar 2077 19:40
+sat 1: Sha end  :  8 Mar 2077 20:47
+sat 1: Tra end  :  8 Mar 2077 21:47
+sat 1: Ecl start:  9 Mar 2077 15:47
+sat 1: Occ end  :  9 Mar 2077 18:57
+sat 3: Sha start:  9 Mar 2077 21:34
+sat 3: Sha end  :  9 Mar 2077 23:36
+sat 3: Tra start: 10 Mar 2077  1:52
+sat 3: Tra end  : 10 Mar 2077  3:24
+sat 2: Ecl start: 10 Mar 2077  7:58
+sat 2: Occ end  : 10 Mar 2077 12:12
+sat 1: Sha start: 10 Mar 2077 13:06
+sat 1: Tra start: 10 Mar 2077 14:06
+sat 1: Sha end  : 10 Mar 2077 15:15
+sat 1: Tra end  : 10 Mar 2077 16:14
+sat 1: Ecl start: 11 Mar 2077 10:15
+sat 1: Occ end  : 11 Mar 2077 13:24
+sat 2: Sha start: 12 Mar 2077  2:17
+sat 2: Tra start: 12 Mar 2077  4:21
+sat 2: Sha end  : 12 Mar 2077  4:37
+sat 2: Tra end  : 12 Mar 2077  6:32
+sat 1: Sha start: 12 Mar 2077  7:34
+sat 1: Tra start: 12 Mar 2077  8:33
+sat 1: Sha end  : 12 Mar 2077  9:44
+sat 1: Tra end  : 12 Mar 2077 10:41
+sat 1: Ecl start: 13 Mar 2077  4:44
+sat 1: Occ end  : 13 Mar 2077  7:51
+sat 3: Ecl start: 13 Mar 2077 11:23
+sat 3: Ecl end  : 13 Mar 2077 13:24
+sat 3: Occ start: 13 Mar 2077 15:33
+sat 3: Occ end  : 13 Mar 2077 17:02
+sat 2: Ecl start: 13 Mar 2077 21:15
+sat 2: Occ end  : 14 Mar 2077  1:23
+sat 1: Sha start: 14 Mar 2077  2:02
+sat 1: Tra start: 14 Mar 2077  3:00
+sat 1: Sha end  : 14 Mar 2077  4:12
+sat 1: Tra end  : 14 Mar 2077  5:08
+sat 1: Ecl start: 14 Mar 2077 23:12
+sat 1: Occ end  : 15 Mar 2077  2:18
+sat 2: Sha start: 15 Mar 2077 15:35
+sat 2: Tra start: 15 Mar 2077 17:33
+sat 2: Sha end  : 15 Mar 2077 17:55
+sat 2: Tra end  : 15 Mar 2077 19:43
+sat 1: Sha start: 15 Mar 2077 20:31
+sat 1: Tra start: 15 Mar 2077 21:27
+sat 1: Sha end  : 15 Mar 2077 22:40
+sat 1: Tra end  : 15 Mar 2077 23:34
+sat 1: Ecl start: 16 Mar 2077 17:40
+sat 1: Occ end  : 16 Mar 2077 20:45
+sat 3: Sha start: 17 Mar 2077  1:31
+sat 3: Sha end  : 17 Mar 2077  3:33
+sat 3: Tra start: 17 Mar 2077  5:26
+sat 3: Tra end  : 17 Mar 2077  6:56
+sat 2: Ecl start: 17 Mar 2077 10:32
+sat 2: Occ end  : 17 Mar 2077 14:33
+sat 1: Sha start: 17 Mar 2077 14:59
+sat 1: Tra start: 17 Mar 2077 15:53
+sat 1: Sha end  : 17 Mar 2077 17:08
+sat 1: Tra end  : 17 Mar 2077 18:01
+sat 1: Ecl start: 18 Mar 2077 12:09
+sat 1: Occ end  : 18 Mar 2077 15:11
+sat 2: Sha start: 19 Mar 2077  4:52
+sat 2: Tra start: 19 Mar 2077  6:44
+sat 2: Sha end  : 19 Mar 2077  7:12
+sat 2: Tra end  : 19 Mar 2077  8:54
+sat 1: Sha start: 19 Mar 2077  9:27
+sat 1: Tra start: 19 Mar 2077 10:20
+sat 1: Sha end  : 19 Mar 2077 11:37
+sat 1: Tra end  : 19 Mar 2077 12:28
+sat 1: Ecl start: 20 Mar 2077  6:37
+sat 1: Occ end  : 20 Mar 2077  9:38
+sat 3: Ecl start: 20 Mar 2077 15:20
+sat 3: Ecl end  : 20 Mar 2077 17:22
+sat 3: Occ start: 20 Mar 2077 19:04
+sat 3: Occ end  : 20 Mar 2077 20:31
+sat 2: Ecl start: 20 Mar 2077 23:48
+sat 2: Occ end  : 21 Mar 2077  3:43
+sat 1: Sha start: 21 Mar 2077  3:56
+sat 1: Tra start: 21 Mar 2077  4:47
+sat 1: Sha end  : 21 Mar 2077  6:05
+sat 1: Tra end  : 21 Mar 2077  6:54
+sat 1: Ecl start: 22 Mar 2077  1:06
+sat 1: Occ end  : 22 Mar 2077  4:05
+sat 2: Sha start: 22 Mar 2077 18:11
+sat 2: Tra start: 22 Mar 2077 19:55
+sat 2: Sha end  : 22 Mar 2077 20:30
+sat 2: Tra end  : 22 Mar 2077 22:05
+sat 1: Sha start: 22 Mar 2077 22:24
+sat 1: Tra start: 22 Mar 2077 23:13
+sat 1: Sha end  : 23 Mar 2077  0:33
+sat 1: Tra end  : 23 Mar 2077  1:21
+sat 1: Ecl start: 23 Mar 2077 19:34
+sat 1: Occ end  : 23 Mar 2077 22:31
+sat 3: Sha start: 24 Mar 2077  5:29
+sat 3: Sha end  : 24 Mar 2077  7:31
+sat 3: Tra start: 24 Mar 2077  8:56
+sat 3: Tra end  : 24 Mar 2077 10:24
+sat 2: Ecl start: 24 Mar 2077 13:05
+sat 2: Occ end  : 24 Mar 2077 16:52
+sat 1: Sha start: 24 Mar 2077 16:52
+sat 1: Tra start: 24 Mar 2077 17:40
+sat 1: Sha end  : 24 Mar 2077 19:02
+sat 1: Tra end  : 24 Mar 2077 19:47
+sat 1: Ecl start: 25 Mar 2077 14:02
+sat 1: Occ end  : 25 Mar 2077 16:58
+sat 2: Sha start: 26 Mar 2077  7:28
+sat 2: Tra start: 26 Mar 2077  9:04
+sat 2: Sha end  : 26 Mar 2077  9:47
+sat 2: Tra end  : 26 Mar 2077 11:15
+sat 1: Sha start: 26 Mar 2077 11:20
+sat 1: Tra start: 26 Mar 2077 12:06
+sat 1: Sha end  : 26 Mar 2077 13:30
+sat 1: Tra end  : 26 Mar 2077 14:13
+sat 1: Ecl start: 27 Mar 2077  8:31
+sat 1: Occ end  : 27 Mar 2077 11:24
+sat 3: Ecl start: 27 Mar 2077 19:18
+sat 3: Ecl end  : 27 Mar 2077 21:19
+sat 3: Occ start: 27 Mar 2077 22:31
+sat 3: Occ end  : 27 Mar 2077 23:57
+sat 2: Ecl start: 28 Mar 2077  2:21
+sat 1: Sha start: 28 Mar 2077  5:49
+sat 2: Occ end  : 28 Mar 2077  6:01
+sat 1: Tra start: 28 Mar 2077  6:32
+sat 1: Sha end  : 28 Mar 2077  7:58
+sat 1: Tra end  : 28 Mar 2077  8:40
+sat 1: Ecl start: 29 Mar 2077  2:59
+sat 1: Occ end  : 29 Mar 2077  5:51
+sat 2: Sha start: 29 Mar 2077 20:46
+sat 2: Tra start: 29 Mar 2077 22:15
+sat 2: Sha end  : 29 Mar 2077 23:06
+sat 1: Sha start: 30 Mar 2077  0:17
+sat 2: Tra end  : 30 Mar 2077  0:25
+sat 1: Tra start: 30 Mar 2077  0:59
+sat 1: Sha end  : 30 Mar 2077  2:26
+sat 1: Tra end  : 30 Mar 2077  3:06
+sat 1: Ecl start: 30 Mar 2077 21:28
+sat 1: Occ end  : 31 Mar 2077  0:17
+sat 3: Sha start: 31 Mar 2077  9:27
+sat 3: Sha end  : 31 Mar 2077 11:29
+sat 3: Tra start: 31 Mar 2077 12:22
+sat 3: Tra end  : 31 Mar 2077 13:49
+sat 2: Ecl start: 31 Mar 2077 15:38
+sat 1: Sha start: 31 Mar 2077 18:45
+sat 2: Occ end  : 31 Mar 2077 19:09
+sat 1: Tra start: 31 Mar 2077 19:25
+sat 1: Sha end  : 31 Mar 2077 20:55
+sat 1: Tra end  : 31 Mar 2077 21:32
+sat 1: Ecl start:  1 Apr 2077 15:56
+sat 1: Occ end  :  1 Apr 2077 18:43
+sat 2: Sha start:  2 Apr 2077 10:04
+sat 2: Tra start:  2 Apr 2077 11:23
+sat 2: Sha end  :  2 Apr 2077 12:23
+sat 1: Sha start:  2 Apr 2077 13:14
+sat 2: Tra end  :  2 Apr 2077 13:34
+sat 1: Tra start:  2 Apr 2077 13:51
+sat 1: Sha end  :  2 Apr 2077 15:23
+sat 1: Tra end  :  2 Apr 2077 15:58
+sat 1: Ecl start:  3 Apr 2077 10:25
+sat 1: Occ end  :  3 Apr 2077 13:10
+sat 3: Ecl start:  3 Apr 2077 23:15
+sat 3: Ecl end  :  4 Apr 2077  1:16
+sat 3: Occ start:  4 Apr 2077  1:54
+sat 3: Occ end  :  4 Apr 2077  3:20
+sat 2: Ecl start:  4 Apr 2077  4:55
+sat 1: Sha start:  4 Apr 2077  7:42
+sat 2: Occ end  :  4 Apr 2077  8:17
+sat 1: Tra start:  4 Apr 2077  8:17
+sat 1: Sha end  :  4 Apr 2077  9:51
+sat 1: Tra end  :  4 Apr 2077 10:24
+sat 1: Ecl start:  5 Apr 2077  4:53
+sat 1: Occ end  :  5 Apr 2077  7:36
+sat 2: Sha start:  5 Apr 2077 23:22
+sat 2: Tra start:  6 Apr 2077  0:33
+sat 2: Sha end  :  6 Apr 2077  1:41
+sat 1: Sha start:  6 Apr 2077  2:10
+sat 2: Tra end  :  6 Apr 2077  2:43
+sat 1: Tra start:  6 Apr 2077  2:43
+sat 1: Sha end  :  6 Apr 2077  4:20
+sat 1: Tra end  :  6 Apr 2077  4:51
+sat 1: Ecl start:  6 Apr 2077 23:22
+sat 1: Occ end  :  7 Apr 2077  2:02
+sat 3: Sha start:  7 Apr 2077 13:25
+sat 3: Sha end  :  7 Apr 2077 15:26
+sat 3: Tra start:  7 Apr 2077 15:43
+sat 3: Tra end  :  7 Apr 2077 17:11
+sat 2: Ecl start:  7 Apr 2077 18:11
+sat 1: Sha start:  7 Apr 2077 20:39
+sat 1: Tra start:  7 Apr 2077 21:09
+sat 2: Occ end  :  7 Apr 2077 21:25
+sat 1: Sha end  :  7 Apr 2077 22:48
+sat 1: Tra end  :  7 Apr 2077 23:17
+sat 1: Ecl start:  8 Apr 2077 17:50
+sat 1: Occ end  :  8 Apr 2077 20:28
+sat 2: Sha start:  9 Apr 2077 12:40
+sat 2: Tra start:  9 Apr 2077 13:41
+sat 2: Sha end  :  9 Apr 2077 14:59
+sat 1: Sha start:  9 Apr 2077 15:07
+sat 1: Tra start:  9 Apr 2077 15:35
+sat 2: Tra end  :  9 Apr 2077 15:51
+sat 1: Sha end  :  9 Apr 2077 17:16
+sat 1: Tra end  :  9 Apr 2077 17:43
+sat 1: Ecl start: 10 Apr 2077 12:19
+sat 1: Occ end  : 10 Apr 2077 14:54
+sat 3: Ecl start: 11 Apr 2077  3:14
+sat 3: Ecl end  : 11 Apr 2077  5:14
+sat 3: Occ start: 11 Apr 2077  5:15
+sat 3: Occ end  : 11 Apr 2077  6:41
+sat 2: Ecl start: 11 Apr 2077  7:28
+sat 1: Sha start: 11 Apr 2077  9:35
+sat 1: Tra start: 11 Apr 2077 10:01
+sat 2: Occ end  : 11 Apr 2077 10:32
+sat 1: Sha end  : 11 Apr 2077 11:45
+sat 1: Tra end  : 11 Apr 2077 12:09
+sat 1: Ecl start: 12 Apr 2077  6:47
+sat 1: Occ end  : 12 Apr 2077  9:21
+sat 2: Sha start: 13 Apr 2077  1:59
+sat 2: Tra start: 13 Apr 2077  2:50
+sat 1: Sha start: 13 Apr 2077  4:04
+sat 2: Sha end  : 13 Apr 2077  4:17
+sat 1: Tra start: 13 Apr 2077  4:27
+sat 2: Tra end  : 13 Apr 2077  5:00
+sat 1: Sha end  : 13 Apr 2077  6:13
+sat 1: Tra end  : 13 Apr 2077  6:35
+sat 1: Ecl start: 14 Apr 2077  1:16
+sat 1: Occ end  : 14 Apr 2077  3:47
+sat 3: Sha start: 14 Apr 2077 17:22
+sat 3: Tra start: 14 Apr 2077 19:02
+sat 3: Sha end  : 14 Apr 2077 19:23
+sat 3: Tra end  : 14 Apr 2077 20:30
+sat 2: Ecl start: 14 Apr 2077 20:45
+sat 1: Sha start: 14 Apr 2077 22:32
+sat 1: Tra start: 14 Apr 2077 22:53
+sat 2: Occ end  : 14 Apr 2077 23:39
+sat 1: Sha end  : 15 Apr 2077  0:41
+sat 1: Tra end  : 15 Apr 2077  1:01
+sat 1: Ecl start: 15 Apr 2077 19:44
+sat 1: Occ end  : 15 Apr 2077 22:13
+sat 2: Sha start: 16 Apr 2077 15:16
+sat 2: Tra start: 16 Apr 2077 15:57
+sat 1: Sha start: 16 Apr 2077 17:01
+sat 1: Tra start: 16 Apr 2077 17:19
+sat 2: Sha end  : 16 Apr 2077 17:35
+sat 2: Tra end  : 16 Apr 2077 18:08
+sat 1: Sha end  : 16 Apr 2077 19:10
+sat 1: Tra end  : 16 Apr 2077 19:27
+sat 1: Ecl start: 17 Apr 2077 14:13
+sat 1: Occ end  : 17 Apr 2077 16:39
+sat 3: Ecl start: 18 Apr 2077  7:12
+sat 3: Occ end  : 18 Apr 2077 10:00
+sat 2: Ecl start: 18 Apr 2077 10:01
+sat 1: Sha start: 18 Apr 2077 11:29
+sat 1: Tra start: 18 Apr 2077 11:45
+sat 2: Occ end  : 18 Apr 2077 12:46
+sat 1: Sha end  : 18 Apr 2077 13:38
+sat 1: Tra end  : 18 Apr 2077 13:53
+sat 1: Ecl start: 19 Apr 2077  8:41
+sat 1: Occ end  : 19 Apr 2077 11:05
+sat 2: Sha start: 20 Apr 2077  4:35
+sat 2: Tra start: 20 Apr 2077  5:06
+sat 1: Sha start: 20 Apr 2077  5:57
+sat 1: Tra start: 20 Apr 2077  6:11
+sat 2: Sha end  : 20 Apr 2077  6:54
+sat 2: Tra end  : 20 Apr 2077  7:16
+sat 1: Sha end  : 20 Apr 2077  8:06
+sat 1: Tra end  : 20 Apr 2077  8:18
+sat 1: Ecl start: 21 Apr 2077  3:10
+sat 1: Occ end  : 21 Apr 2077  5:31
+sat 3: Sha start: 21 Apr 2077 21:20
+sat 3: Tra start: 21 Apr 2077 22:18
+sat 2: Ecl start: 21 Apr 2077 23:18
+sat 3: Sha end  : 21 Apr 2077 23:20
+sat 3: Tra end  : 21 Apr 2077 23:48
+sat 1: Sha start: 22 Apr 2077  0:26
+sat 1: Tra start: 22 Apr 2077  0:37
+sat 2: Occ end  : 22 Apr 2077  1:53
+sat 1: Sha end  : 22 Apr 2077  2:35
+sat 1: Tra end  : 22 Apr 2077  2:44
+sat 1: Ecl start: 22 Apr 2077 21:38
+sat 1: Occ end  : 22 Apr 2077 23:57
+sat 2: Sha start: 23 Apr 2077 17:53
+sat 2: Tra start: 23 Apr 2077 18:13
+sat 1: Sha start: 23 Apr 2077 18:54
+sat 1: Tra start: 23 Apr 2077 19:03
+sat 2: Sha end  : 23 Apr 2077 20:11
+sat 2: Tra end  : 23 Apr 2077 20:24
+sat 1: Sha end  : 23 Apr 2077 21:03
+sat 1: Tra end  : 23 Apr 2077 21:10
+sat 1: Ecl start: 24 Apr 2077 16:07
+sat 1: Occ end  : 24 Apr 2077 18:23
+sat 3: Ecl start: 25 Apr 2077 11:11
+sat 2: Ecl start: 25 Apr 2077 12:35
+sat 3: Occ end  : 25 Apr 2077 13:18
+sat 1: Sha start: 25 Apr 2077 13:23
+sat 1: Tra start: 25 Apr 2077 13:29
+sat 2: Occ end  : 25 Apr 2077 15:00
+sat 1: Sha end  : 25 Apr 2077 15:32
+sat 1: Tra end  : 25 Apr 2077 15:36
+sat 1: Ecl start: 26 Apr 2077 10:36
+sat 1: Occ end  : 26 Apr 2077 12:49
+sat 2: Sha start: 27 Apr 2077  7:11
+sat 2: Tra start: 27 Apr 2077  7:21
+sat 1: Sha start: 27 Apr 2077  7:51
+sat 1: Tra start: 27 Apr 2077  7:55
+sat 2: Sha end  : 27 Apr 2077  9:30
+sat 2: Tra end  : 27 Apr 2077  9:32
+sat 1: Sha end  : 27 Apr 2077 10:00
+sat 1: Tra end  : 27 Apr 2077 10:02
+sat 1: Ecl start: 28 Apr 2077  5:04
+sat 1: Occ end  : 28 Apr 2077  7:15
+sat 3: Sha start: 29 Apr 2077  1:17
+sat 3: Tra start: 29 Apr 2077  1:33
+sat 2: Ecl start: 29 Apr 2077  1:52
+sat 1: Sha start: 29 Apr 2077  2:19
+sat 1: Tra start: 29 Apr 2077  2:20
+sat 3: Tra end  : 29 Apr 2077  3:05
+sat 3: Sha end  : 29 Apr 2077  3:18
+sat 2: Ecl end  : 29 Apr 2077  4:09
+sat 1: Tra end  : 29 Apr 2077  4:28
+sat 1: Sha end  : 29 Apr 2077  4:29
+sat 1: Occ start: 29 Apr 2077 23:33
+sat 1: Ecl end  : 30 Apr 2077  1:43
+sat 2: Tra start: 30 Apr 2077 20:28
+sat 2: Sha start: 30 Apr 2077 20:29
+sat 1: Tra start: 30 Apr 2077 20:46
+sat 1: Sha start: 30 Apr 2077 20:48
+sat 2: Tra end  : 30 Apr 2077 22:40
+sat 2: Sha end  : 30 Apr 2077 22:48
+sat 1: Tra end  : 30 Apr 2077 22:54
+sat 1: Sha end  : 30 Apr 2077 22:57
+sat 1: Occ start:  1 May 2077 17:59
+sat 1: Ecl end  :  1 May 2077 20:11
+sat 2: Occ start:  2 May 2077 15:02
+sat 3: Occ start:  2 May 2077 15:04
+sat 1: Tra start:  2 May 2077 15:12
+sat 1: Sha start:  2 May 2077 15:16
+sat 3: Ecl end  :  2 May 2077 17:09
+sat 1: Tra end  :  2 May 2077 17:20
+sat 1: Sha end  :  2 May 2077 17:25
+sat 2: Ecl end  :  2 May 2077 17:26
+sat 1: Occ start:  3 May 2077 12:25
+sat 1: Ecl end  :  3 May 2077 14:40
+sat 2: Tra start:  4 May 2077  9:36
+sat 1: Tra start:  4 May 2077  9:38
+sat 1: Sha start:  4 May 2077  9:45
+sat 2: Sha start:  4 May 2077  9:48
+sat 1: Tra end  :  4 May 2077 11:46
+sat 2: Tra end  :  4 May 2077 11:48
+sat 1: Sha end  :  4 May 2077 11:54
+sat 2: Sha end  :  4 May 2077 12:06
+sat 1: Occ start:  5 May 2077  6:51
+sat 1: Ecl end  :  5 May 2077  9:09
+sat 1: Tra start:  6 May 2077  4:04
+sat 2: Occ start:  6 May 2077  4:09
+sat 1: Sha start:  6 May 2077  4:13
+sat 3: Tra start:  6 May 2077  4:48
+sat 3: Sha start:  6 May 2077  5:16
+sat 1: Tra end  :  6 May 2077  6:12
+sat 1: Sha end  :  6 May 2077  6:22
+sat 3: Tra end  :  6 May 2077  6:23
+sat 2: Ecl end  :  6 May 2077  6:43
+sat 3: Sha end  :  6 May 2077  7:16
+sat 1: Occ start:  7 May 2077  1:17
+sat 1: Ecl end  :  7 May 2077  3:37
+sat 1: Tra start:  7 May 2077 22:30
+sat 1: Sha start:  7 May 2077 22:42
+sat 2: Tra start:  7 May 2077 22:44
+sat 2: Sha start:  7 May 2077 23:06
+sat 1: Tra end  :  8 May 2077  0:38
+sat 1: Sha end  :  8 May 2077  0:51
+sat 2: Tra end  :  8 May 2077  0:56
+sat 2: Sha end  :  8 May 2077  1:24
+sat 1: Occ start:  8 May 2077 19:43
+sat 1: Ecl end  :  8 May 2077 22:06
+sat 1: Tra start:  9 May 2077 16:56
+sat 1: Sha start:  9 May 2077 17:10
+sat 2: Occ start:  9 May 2077 17:15
+sat 3: Occ start:  9 May 2077 18:20
+sat 1: Tra end  :  9 May 2077 19:04
+sat 1: Sha end  :  9 May 2077 19:19
+sat 2: Ecl end  :  9 May 2077 20:00
+sat 3: Ecl end  :  9 May 2077 21:08
+sat 1: Occ start: 10 May 2077 14:09
+sat 1: Ecl end  : 10 May 2077 16:35
+sat 1: Tra start: 11 May 2077 11:22
+sat 1: Sha start: 11 May 2077 11:39
+sat 2: Tra start: 11 May 2077 11:52
+sat 2: Sha start: 11 May 2077 12:25
+sat 1: Tra end  : 11 May 2077 13:30
+sat 1: Sha end  : 11 May 2077 13:48
+sat 2: Tra end  : 11 May 2077 14:05
+sat 2: Sha end  : 11 May 2077 14:43
+sat 1: Occ start: 12 May 2077  8:35
+sat 1: Ecl end  : 12 May 2077 11:03
+sat 1: Tra start: 13 May 2077  5:48
+sat 1: Sha start: 13 May 2077  6:07
+sat 2: Occ start: 13 May 2077  6:22
+sat 1: Tra end  : 13 May 2077  7:56
+sat 3: Tra start: 13 May 2077  8:04
+sat 1: Sha end  : 13 May 2077  8:16
+sat 3: Sha start: 13 May 2077  9:14
+sat 2: Ecl end  : 13 May 2077  9:16
+sat 3: Tra end  : 13 May 2077  9:42
+sat 3: Sha end  : 13 May 2077 11:14
+sat 1: Occ start: 14 May 2077  3:01
+sat 1: Ecl end  : 14 May 2077  5:32
+sat 1: Tra start: 15 May 2077  0:14
+sat 1: Sha start: 15 May 2077  0:36
+sat 2: Tra start: 15 May 2077  1:00
+sat 2: Sha start: 15 May 2077  1:43
+sat 1: Tra end  : 15 May 2077  2:22
+sat 1: Sha end  : 15 May 2077  2:45
+sat 2: Tra end  : 15 May 2077  3:13
+sat 2: Sha end  : 15 May 2077  4:01
+sat 1: Occ start: 15 May 2077 21:27
+sat 1: Ecl end  : 16 May 2077  0:01
+sat 1: Tra start: 16 May 2077 18:40
+sat 1: Sha start: 16 May 2077 19:04
+sat 2: Occ start: 16 May 2077 19:29
+sat 1: Tra end  : 16 May 2077 20:48
+sat 1: Sha end  : 16 May 2077 21:13
+sat 3: Occ start: 16 May 2077 21:36
+sat 2: Ecl end  : 16 May 2077 22:33
+sat 3: Ecl end  : 17 May 2077  1:06
+sat 1: Occ start: 17 May 2077 15:54
+sat 1: Ecl end  : 17 May 2077 18:29
+sat 1: Tra start: 18 May 2077 13:06
+sat 1: Sha start: 18 May 2077 13:33
+sat 2: Tra start: 18 May 2077 14:08
+sat 2: Sha start: 18 May 2077 15:02
+sat 1: Tra end  : 18 May 2077 15:14
+sat 1: Sha end  : 18 May 2077 15:42
+sat 2: Tra end  : 18 May 2077 16:22
+sat 2: Sha end  : 18 May 2077 17:20
+sat 1: Occ start: 19 May 2077 10:20
+sat 1: Ecl end  : 19 May 2077 12:58
+sat 1: Tra start: 20 May 2077  7:32
+sat 1: Sha start: 20 May 2077  8:01
+sat 2: Occ start: 20 May 2077  8:37
+sat 1: Tra end  : 20 May 2077  9:40
+sat 1: Sha end  : 20 May 2077 10:10
+sat 3: Tra start: 20 May 2077 11:23
+sat 2: Ecl end  : 20 May 2077 11:50
+sat 3: Tra end  : 20 May 2077 13:04
+sat 3: Sha start: 20 May 2077 13:13
+sat 3: Sha end  : 20 May 2077 15:13
+sat 1: Occ start: 21 May 2077  4:46
+sat 1: Ecl end  : 21 May 2077  7:27
+sat 1: Tra start: 22 May 2077  1:59
+sat 1: Sha start: 22 May 2077  2:30
+sat 2: Tra start: 22 May 2077  3:17
+sat 1: Tra end  : 22 May 2077  4:07
+sat 2: Sha start: 22 May 2077  4:20
+sat 1: Sha end  : 22 May 2077  4:39
+sat 2: Tra end  : 22 May 2077  5:31
+sat 2: Sha end  : 22 May 2077  6:38
+sat 1: Occ start: 22 May 2077 23:13
+sat 1: Ecl end  : 23 May 2077  1:55
+sat 1: Tra start: 23 May 2077 20:25
+sat 1: Sha start: 23 May 2077 20:58
+sat 2: Occ start: 23 May 2077 21:44
+sat 1: Tra end  : 23 May 2077 22:33
+sat 1: Sha end  : 23 May 2077 23:07
+sat 3: Occ start: 24 May 2077  0:54
+sat 2: Ecl end  : 24 May 2077  1:07
+sat 3: Occ end  : 24 May 2077  2:37
+sat 3: Ecl start: 24 May 2077  3:05
+sat 3: Ecl end  : 24 May 2077  5:04
+sat 1: Occ start: 24 May 2077 17:39
+sat 1: Ecl end  : 24 May 2077 20:24
+sat 1: Tra start: 25 May 2077 14:51
+sat 1: Sha start: 25 May 2077 15:27
+sat 2: Tra start: 25 May 2077 16:26
+sat 1: Tra end  : 25 May 2077 16:59
+sat 1: Sha end  : 25 May 2077 17:36
+sat 2: Sha start: 25 May 2077 17:39
+sat 2: Tra end  : 25 May 2077 18:41
+sat 2: Sha end  : 25 May 2077 19:57
+sat 1: Occ start: 26 May 2077 12:05
+sat 1: Ecl end  : 26 May 2077 14:53
+sat 1: Tra start: 27 May 2077  9:18
+sat 1: Sha start: 27 May 2077  9:55
+sat 2: Occ start: 27 May 2077 10:52
+sat 1: Tra end  : 27 May 2077 11:26
+sat 1: Sha end  : 27 May 2077 12:04
+sat 2: Ecl end  : 27 May 2077 14:24
+sat 3: Tra start: 27 May 2077 14:42
+sat 3: Tra end  : 27 May 2077 16:28
+sat 3: Sha start: 27 May 2077 17:11
+sat 3: Sha end  : 27 May 2077 19:11
+sat 1: Occ start: 28 May 2077  6:32
+sat 1: Ecl end  : 28 May 2077  9:21
+sat 1: Tra start: 29 May 2077  3:44
+sat 1: Sha start: 29 May 2077  4:24
+sat 2: Tra start: 29 May 2077  5:35
+sat 1: Tra end  : 29 May 2077  5:52
+sat 1: Sha end  : 29 May 2077  6:33
+sat 2: Sha start: 29 May 2077  6:57
+sat 2: Tra end  : 29 May 2077  7:51
+sat 2: Sha end  : 29 May 2077  9:15
+sat 1: Occ start: 30 May 2077  0:58
+sat 1: Ecl end  : 30 May 2077  3:50
+sat 1: Tra start: 30 May 2077 22:10
+sat 1: Sha start: 30 May 2077 22:52
+sat 2: Occ start: 31 May 2077  0:01
+sat 1: Tra end  : 31 May 2077  0:19
+sat 1: Sha end  : 31 May 2077  1:01
+sat 2: Ecl end  : 31 May 2077  3:41
+sat 3: Occ start: 31 May 2077  4:16
+sat 3: Occ end  : 31 May 2077  6:03
+sat 3: Ecl start: 31 May 2077  7:04
+sat 3: Ecl end  : 31 May 2077  9:03
+sat 1: Occ start: 31 May 2077 19:25
+sat 1: Ecl end  : 31 May 2077 22:19
+sat 1: Tra start:  1 Jun 2077 16:37
+sat 1: Sha start:  1 Jun 2077 17:21
+sat 2: Tra start:  1 Jun 2077 18:45
+sat 1: Tra end  :  1 Jun 2077 18:45
+sat 1: Sha end  :  1 Jun 2077 19:30
+sat 2: Sha start:  1 Jun 2077 20:16
+sat 2: Tra end  :  1 Jun 2077 21:01
+sat 2: Sha end  :  1 Jun 2077 22:34
+sat 1: Occ start:  2 Jun 2077 13:52
+sat 1: Ecl end  :  2 Jun 2077 16:47
+sat 1: Tra start:  3 Jun 2077 11:03
+sat 1: Sha start:  3 Jun 2077 11:50
+sat 2: Occ start:  3 Jun 2077 13:10
+sat 1: Tra end  :  3 Jun 2077 13:12
+sat 1: Sha end  :  3 Jun 2077 13:59
+sat 2: Ecl end  :  3 Jun 2077 16:58
+sat 3: Tra start:  3 Jun 2077 18:06
+sat 3: Tra end  :  3 Jun 2077 19:55
+sat 3: Sha start:  3 Jun 2077 21:10
+sat 3: Sha end  :  3 Jun 2077 23:09
+sat 1: Occ start:  4 Jun 2077  8:19
+sat 1: Ecl end  :  4 Jun 2077 11:16
+sat 1: Tra start:  5 Jun 2077  5:30
+sat 1: Sha start:  5 Jun 2077  6:18
+sat 1: Tra end  :  5 Jun 2077  7:39
+sat 2: Tra start:  5 Jun 2077  7:55
+sat 1: Sha end  :  5 Jun 2077  8:27
+sat 2: Sha start:  5 Jun 2077  9:34
+sat 2: Tra end  :  5 Jun 2077 10:12
+sat 2: Sha end  :  5 Jun 2077 11:52
+sat 1: Occ start:  6 Jun 2077  2:45
+sat 1: Ecl end  :  6 Jun 2077  5:45
+sat 1: Tra start:  6 Jun 2077 23:57
+sat 1: Sha start:  7 Jun 2077  0:47
+sat 1: Tra end  :  7 Jun 2077  2:05
+sat 2: Occ start:  7 Jun 2077  2:19
+sat 1: Sha end  :  7 Jun 2077  2:56
+sat 2: Ecl end  :  7 Jun 2077  6:16
+sat 3: Occ start:  7 Jun 2077  7:41
+sat 3: Occ end  :  7 Jun 2077  9:32
+sat 3: Ecl start:  7 Jun 2077 11:03
+sat 3: Ecl end  :  7 Jun 2077 13:02
+sat 1: Occ start:  7 Jun 2077 21:12
+sat 1: Ecl end  :  8 Jun 2077  0:14
+sat 1: Tra start:  8 Jun 2077 18:24
+sat 1: Sha start:  8 Jun 2077 19:15
+sat 1: Tra end  :  8 Jun 2077 20:32
+sat 2: Tra start:  8 Jun 2077 21:06
+sat 1: Sha end  :  8 Jun 2077 21:24
+sat 2: Sha start:  8 Jun 2077 22:53
+sat 2: Tra end  :  8 Jun 2077 23:23
+sat 2: Sha end  :  9 Jun 2077  1:11
+sat 1: Occ start:  9 Jun 2077 15:39
+sat 1: Ecl end  :  9 Jun 2077 18:42
+sat 1: Tra start: 10 Jun 2077 12:50
+sat 1: Sha start: 10 Jun 2077 13:44
+sat 1: Tra end  : 10 Jun 2077 14:59
+sat 2: Occ start: 10 Jun 2077 15:29
+sat 1: Sha end  : 10 Jun 2077 15:53
+sat 2: Ecl end  : 10 Jun 2077 19:33
+sat 3: Tra start: 10 Jun 2077 21:32
+sat 3: Tra end  : 10 Jun 2077 23:25
+sat 3: Sha start: 11 Jun 2077  1:08
+sat 3: Sha end  : 11 Jun 2077  3:08
+sat 1: Occ start: 11 Jun 2077 10:06
+sat 1: Ecl end  : 11 Jun 2077 13:11
+sat 1: Tra start: 12 Jun 2077  7:17
+sat 1: Sha start: 12 Jun 2077  8:12
+sat 1: Tra end  : 12 Jun 2077  9:26
+sat 2: Tra start: 12 Jun 2077 10:17
+sat 1: Sha end  : 12 Jun 2077 10:22
+sat 2: Sha start: 12 Jun 2077 12:11
+sat 2: Tra end  : 12 Jun 2077 12:35
+sat 2: Sha end  : 12 Jun 2077 14:29
+sat 1: Occ start: 13 Jun 2077  4:33
+sat 1: Ecl end  : 13 Jun 2077  7:40
+sat 1: Tra start: 14 Jun 2077  1:44
+sat 1: Sha start: 14 Jun 2077  2:41
+sat 1: Tra end  : 14 Jun 2077  3:53
+sat 2: Occ start: 14 Jun 2077  4:40
+sat 1: Sha end  : 14 Jun 2077  4:50
+sat 2: Ecl end  : 14 Jun 2077  8:50
+sat 3: Occ start: 14 Jun 2077 11:11
+sat 3: Occ end  : 14 Jun 2077 13:06
+sat 3: Ecl start: 14 Jun 2077 15:03
+sat 3: Ecl end  : 14 Jun 2077 17:02
+sat 1: Occ start: 14 Jun 2077 23:00
+sat 1: Ecl end  : 15 Jun 2077  2:09
+sat 1: Tra start: 15 Jun 2077 20:11
+sat 1: Sha start: 15 Jun 2077 21:10
+sat 1: Tra end  : 15 Jun 2077 22:20
+sat 1: Sha end  : 15 Jun 2077 23:19
+sat 2: Tra start: 15 Jun 2077 23:30
+sat 2: Sha start: 16 Jun 2077  1:30
+sat 2: Tra end  : 16 Jun 2077  1:48
+sat 2: Sha end  : 16 Jun 2077  3:47
+sat 1: Occ start: 16 Jun 2077 17:28
+sat 1: Ecl end  : 16 Jun 2077 20:37
+sat 1: Tra start: 17 Jun 2077 14:38
+sat 1: Sha start: 17 Jun 2077 15:38
+sat 1: Tra end  : 17 Jun 2077 16:47
+sat 1: Sha end  : 17 Jun 2077 17:47
+sat 2: Occ start: 17 Jun 2077 17:51
+sat 2: Ecl end  : 17 Jun 2077 22:07
+sat 3: Tra start: 18 Jun 2077  1:03
+sat 3: Tra end  : 18 Jun 2077  3:00
+sat 3: Sha start: 18 Jun 2077  5:06
+sat 3: Sha end  : 18 Jun 2077  7:06
+sat 1: Occ start: 18 Jun 2077 11:55
+sat 1: Ecl end  : 18 Jun 2077 15:06
+sat 1: Tra start: 19 Jun 2077  9:06
+sat 1: Sha start: 19 Jun 2077 10:07
+sat 1: Tra end  : 19 Jun 2077 11:15
+sat 1: Sha end  : 19 Jun 2077 12:16
+sat 2: Tra start: 19 Jun 2077 12:42
+sat 2: Sha start: 19 Jun 2077 14:48
+sat 2: Tra end  : 19 Jun 2077 15:00
+sat 2: Sha end  : 19 Jun 2077 17:06
+sat 1: Occ start: 20 Jun 2077  6:22
+sat 1: Ecl end  : 20 Jun 2077  9:35
+sat 1: Tra start: 21 Jun 2077  3:33
+sat 1: Sha start: 21 Jun 2077  4:36
+sat 1: Tra end  : 21 Jun 2077  5:42
+sat 1: Sha end  : 21 Jun 2077  6:45
+sat 2: Occ start: 21 Jun 2077  7:02
+sat 2: Ecl end  : 21 Jun 2077 11:25
+sat 3: Occ start: 21 Jun 2077 14:45
+sat 3: Occ end  : 21 Jun 2077 16:43
+sat 3: Ecl start: 21 Jun 2077 19:02
+sat 3: Ecl end  : 21 Jun 2077 21:01
+sat 1: Occ start: 22 Jun 2077  0:50
+sat 1: Ecl end  : 22 Jun 2077  4:04
+sat 1: Tra start: 22 Jun 2077 22:00
+sat 1: Sha start: 22 Jun 2077 23:04
+sat 1: Tra end  : 23 Jun 2077  0:09
+sat 1: Sha end  : 23 Jun 2077  1:13
+sat 2: Tra start: 23 Jun 2077  1:55
+sat 2: Sha start: 23 Jun 2077  4:07
+sat 2: Tra end  : 23 Jun 2077  4:14
+sat 2: Sha end  : 23 Jun 2077  6:24
+sat 1: Occ start: 23 Jun 2077 19:17
+sat 1: Ecl end  : 23 Jun 2077 22:32
+sat 1: Tra start: 24 Jun 2077 16:28
+sat 1: Sha start: 24 Jun 2077 17:33
+sat 1: Tra end  : 24 Jun 2077 18:37
+sat 1: Sha end  : 24 Jun 2077 19:42
+sat 2: Occ start: 24 Jun 2077 20:14
+sat 2: Ecl end  : 25 Jun 2077  0:42
+sat 3: Tra start: 25 Jun 2077  4:39
+sat 3: Tra end  : 25 Jun 2077  6:39
+sat 3: Sha start: 25 Jun 2077  9:05
+sat 3: Sha end  : 25 Jun 2077 11:05
+sat 1: Occ start: 25 Jun 2077 13:45
+sat 1: Ecl end  : 25 Jun 2077 17:01
+sat 1: Tra start: 26 Jun 2077 10:55
+sat 1: Sha start: 26 Jun 2077 12:02
+sat 1: Tra end  : 26 Jun 2077 13:04
+sat 1: Sha end  : 26 Jun 2077 14:11
+sat 2: Tra start: 26 Jun 2077 15:08
+sat 2: Sha start: 26 Jun 2077 17:25
+sat 2: Tra end  : 26 Jun 2077 17:27
+sat 2: Sha end  : 26 Jun 2077 19:43
+sat 1: Occ start: 27 Jun 2077  8:12
+sat 1: Ecl end  : 27 Jun 2077 11:30
+sat 1: Tra start: 28 Jun 2077  5:23
+sat 1: Sha start: 28 Jun 2077  6:30
+sat 1: Tra end  : 28 Jun 2077  7:32
+sat 1: Sha end  : 28 Jun 2077  8:39
+sat 2: Occ start: 28 Jun 2077  9:27
+sat 2: Ecl end  : 28 Jun 2077 13:59
+sat 3: Occ start: 28 Jun 2077 18:23
+sat 3: Occ end  : 28 Jun 2077 20:24
+sat 3: Ecl start: 28 Jun 2077 23:01
+sat 3: Ecl end  : 29 Jun 2077  1:00
+sat 1: Occ start: 29 Jun 2077  2:40
+sat 1: Ecl end  : 29 Jun 2077  5:59
+sat 1: Tra start: 29 Jun 2077 23:50
+sat 1: Sha start: 30 Jun 2077  0:59
+sat 1: Tra end  : 30 Jun 2077  2:00
+sat 1: Sha end  : 30 Jun 2077  3:08
+sat 2: Tra start: 30 Jun 2077  4:23
+sat 2: Tra end  : 30 Jun 2077  6:42
+sat 2: Sha start: 30 Jun 2077  6:44
+sat 2: Sha end  : 30 Jun 2077  9:01
+sat 1: Occ start: 30 Jun 2077 21:08
+sat 1: Ecl end  :  1 Jul 2077  0:28
+sat 1: Tra start:  1 Jul 2077 18:18
+sat 1: Sha start:  1 Jul 2077 19:28
+sat 1: Tra end  :  1 Jul 2077 20:27
+sat 1: Sha end  :  1 Jul 2077 21:37
+sat 2: Occ start:  1 Jul 2077 22:40
+sat 2: Occ end  :  2 Jul 2077  0:59
+sat 2: Ecl start:  2 Jul 2077  1:00
+sat 2: Ecl end  :  2 Jul 2077  3:17
+sat 3: Tra start:  2 Jul 2077  8:19
+sat 3: Tra end  :  2 Jul 2077 10:23
+sat 3: Sha start:  2 Jul 2077 13:04
+sat 3: Sha end  :  2 Jul 2077 15:04
+sat 1: Occ start:  2 Jul 2077 15:36
+sat 1: Ecl end  :  2 Jul 2077 18:56
+sat 1: Tra start:  3 Jul 2077 12:46
+sat 1: Sha start:  3 Jul 2077 13:56
+sat 1: Tra end  :  3 Jul 2077 14:55
+sat 1: Sha end  :  3 Jul 2077 16:05
+sat 2: Tra start:  3 Jul 2077 17:37
+sat 2: Tra end  :  3 Jul 2077 19:57
+sat 2: Sha start:  3 Jul 2077 20:02
+sat 2: Sha end  :  3 Jul 2077 22:20
+sat 1: Occ start:  4 Jul 2077 10:03
+sat 1: Ecl end  :  4 Jul 2077 13:25
+sat 1: Tra start:  5 Jul 2077  7:13
+sat 1: Sha start:  5 Jul 2077  8:25
+sat 1: Tra end  :  5 Jul 2077  9:23
+sat 1: Sha end  :  5 Jul 2077 10:34
+sat 2: Occ start:  5 Jul 2077 11:54
+sat 2: Occ end  :  5 Jul 2077 14:13
+sat 2: Ecl start:  5 Jul 2077 14:18
+sat 2: Ecl end  :  5 Jul 2077 16:34
+sat 3: Occ start:  5 Jul 2077 22:05
+sat 3: Occ end  :  6 Jul 2077  0:10
+sat 3: Ecl start:  6 Jul 2077  3:00
+sat 1: Occ start:  6 Jul 2077  4:31
+sat 3: Ecl end  :  6 Jul 2077  4:59
+sat 1: Ecl end  :  6 Jul 2077  7:54
+sat 1: Tra start:  7 Jul 2077  1:41
+sat 1: Sha start:  7 Jul 2077  2:54
+sat 1: Tra end  :  7 Jul 2077  3:51
+sat 1: Sha end  :  7 Jul 2077  5:03
+sat 2: Tra start:  7 Jul 2077  6:52
+sat 2: Tra end  :  7 Jul 2077  9:13
+sat 2: Sha start:  7 Jul 2077  9:21
+sat 2: Sha end  :  7 Jul 2077 11:38
+sat 1: Occ start:  7 Jul 2077 22:59
+sat 1: Ecl end  :  8 Jul 2077  2:23
+sat 1: Tra start:  8 Jul 2077 20:09
+sat 1: Sha start:  8 Jul 2077 21:22
+sat 1: Tra end  :  8 Jul 2077 22:19
+sat 1: Sha end  :  8 Jul 2077 23:31
+sat 2: Occ start:  9 Jul 2077  1:08
+sat 2: Occ end  :  9 Jul 2077  3:28
+sat 2: Ecl start:  9 Jul 2077  3:35
+sat 2: Ecl end  :  9 Jul 2077  5:52
+sat 3: Tra start:  9 Jul 2077 12:05
+sat 3: Tra end  :  9 Jul 2077 14:11
+sat 3: Sha start:  9 Jul 2077 17:04
+sat 1: Occ start:  9 Jul 2077 17:28
+sat 3: Sha end  :  9 Jul 2077 19:04
+sat 1: Ecl end  :  9 Jul 2077 20:51
+sat 1: Tra start: 10 Jul 2077 14:37
+sat 1: Sha start: 10 Jul 2077 15:51
+sat 1: Tra end  : 10 Jul 2077 16:47
+sat 1: Sha end  : 10 Jul 2077 18:00
+sat 2: Tra start: 10 Jul 2077 20:08
+sat 2: Tra end  : 10 Jul 2077 22:28
+sat 2: Sha start: 10 Jul 2077 22:40
+sat 2: Sha end  : 11 Jul 2077  0:57
+sat 1: Occ start: 11 Jul 2077 11:56
+sat 1: Ecl end  : 11 Jul 2077 15:20
+sat 1: Tra start: 12 Jul 2077  9:05
+sat 1: Sha start: 12 Jul 2077 10:20
+sat 1: Tra end  : 12 Jul 2077 11:15
+sat 1: Sha end  : 12 Jul 2077 12:29
+sat 2: Occ start: 12 Jul 2077 14:23
+sat 2: Occ end  : 12 Jul 2077 16:43
+sat 2: Ecl start: 12 Jul 2077 16:53
+sat 2: Ecl end  : 12 Jul 2077 19:09
+sat 3: Occ start: 13 Jul 2077  1:52
+sat 3: Occ end  : 13 Jul 2077  3:59
+sat 1: Occ start: 13 Jul 2077  6:24
+sat 3: Ecl start: 13 Jul 2077  6:59
+sat 3: Ecl end  : 13 Jul 2077  8:58
+sat 1: Ecl end  : 13 Jul 2077  9:49
+sat 1: Tra start: 14 Jul 2077  3:34
+sat 1: Sha start: 14 Jul 2077  4:48
+sat 1: Tra end  : 14 Jul 2077  5:43
+sat 1: Sha end  : 14 Jul 2077  6:57
+sat 2: Tra start: 14 Jul 2077  9:24
+sat 2: Tra end  : 14 Jul 2077 11:45
+sat 2: Sha start: 14 Jul 2077 11:59
+sat 2: Sha end  : 14 Jul 2077 14:16
+sat 1: Occ start: 15 Jul 2077  0:52
+sat 1: Ecl end  : 15 Jul 2077  4:18
+sat 1: Tra start: 15 Jul 2077 22:02
+sat 1: Sha start: 15 Jul 2077 23:17
+sat 1: Tra end  : 16 Jul 2077  0:12
+sat 1: Sha end  : 16 Jul 2077  1:26
+sat 2: Occ start: 16 Jul 2077  3:39
+sat 2: Occ end  : 16 Jul 2077  5:59
+sat 2: Ecl start: 16 Jul 2077  6:10
+sat 2: Ecl end  : 16 Jul 2077  8:27
+sat 3: Tra start: 16 Jul 2077 15:54
+sat 3: Tra end  : 16 Jul 2077 18:03
+sat 1: Occ start: 16 Jul 2077 19:21
+sat 3: Sha start: 16 Jul 2077 21:03
+sat 1: Ecl end  : 16 Jul 2077 22:47
+sat 3: Sha end  : 16 Jul 2077 23:03
+sat 1: Tra start: 17 Jul 2077 16:30
+sat 1: Sha start: 17 Jul 2077 17:46
+sat 1: Tra end  : 17 Jul 2077 18:40
+sat 1: Sha end  : 17 Jul 2077 19:55
+sat 2: Tra start: 17 Jul 2077 22:41
+sat 2: Tra end  : 18 Jul 2077  1:02
+sat 2: Sha start: 18 Jul 2077  1:17
+sat 2: Sha end  : 18 Jul 2077  3:34
+sat 1: Occ start: 18 Jul 2077 13:49
+sat 1: Ecl end  : 18 Jul 2077 17:15
+sat 1: Tra start: 19 Jul 2077 10:58
+sat 1: Sha start: 19 Jul 2077 12:14
+sat 1: Tra end  : 19 Jul 2077 13:08
+sat 1: Sha end  : 19 Jul 2077 14:24
+sat 2: Occ start: 19 Jul 2077 16:55
+sat 2: Occ end  : 19 Jul 2077 19:15
+sat 2: Ecl start: 19 Jul 2077 19:28
+sat 2: Ecl end  : 19 Jul 2077 21:45
+sat 3: Occ start: 20 Jul 2077  5:45
+sat 3: Occ end  : 20 Jul 2077  7:53
+sat 1: Occ start: 20 Jul 2077  8:18
+sat 3: Ecl start: 20 Jul 2077 10:59
+sat 1: Ecl end  : 20 Jul 2077 11:44
+sat 3: Ecl end  : 20 Jul 2077 12:58
+sat 1: Tra start: 21 Jul 2077  5:27
+sat 1: Sha start: 21 Jul 2077  6:43
+sat 1: Tra end  : 21 Jul 2077  7:37
+sat 1: Sha end  : 21 Jul 2077  8:52
+sat 2: Tra start: 21 Jul 2077 11:58
+sat 2: Tra end  : 21 Jul 2077 14:20
+sat 2: Sha start: 21 Jul 2077 14:36
+sat 2: Sha end  : 21 Jul 2077 16:52
+sat 1: Occ start: 22 Jul 2077  2:46
+sat 1: Ecl end  : 22 Jul 2077  6:13
+sat 1: Tra start: 22 Jul 2077 23:55
+sat 1: Sha start: 23 Jul 2077  1:12
+sat 1: Tra end  : 23 Jul 2077  2:05
+sat 1: Sha end  : 23 Jul 2077  3:21
+sat 2: Occ start: 23 Jul 2077  6:11
+sat 2: Occ end  : 23 Jul 2077  8:32
+sat 2: Ecl start: 23 Jul 2077  8:46
+sat 2: Ecl end  : 23 Jul 2077 11:02
+sat 3: Tra start: 23 Jul 2077 19:48
+sat 1: Occ start: 23 Jul 2077 21:15
+sat 3: Tra end  : 23 Jul 2077 21:58
+sat 1: Ecl end  : 24 Jul 2077  0:42
+sat 3: Sha start: 24 Jul 2077  1:01
+sat 3: Sha end  : 24 Jul 2077  3:01
+sat 1: Tra start: 24 Jul 2077 18:24
+sat 1: Sha start: 24 Jul 2077 19:41
+sat 1: Tra end  : 24 Jul 2077 20:34
+sat 1: Sha end  : 24 Jul 2077 21:50
+sat 2: Tra start: 25 Jul 2077  1:16
+sat 2: Tra end  : 25 Jul 2077  3:38
+sat 2: Sha start: 25 Jul 2077  3:54
+sat 2: Sha end  : 25 Jul 2077  6:10
+sat 1: Occ start: 25 Jul 2077 15:43
+sat 1: Ecl end  : 25 Jul 2077 19:10
+sat 1: Tra start: 26 Jul 2077 12:52
+sat 1: Sha start: 26 Jul 2077 14:09
+sat 1: Tra end  : 26 Jul 2077 15:02
+sat 1: Sha end  : 26 Jul 2077 16:18
+sat 2: Occ start: 26 Jul 2077 19:29
+sat 2: Occ end  : 26 Jul 2077 21:50
+sat 2: Ecl start: 26 Jul 2077 22:04
+sat 2: Ecl end  : 27 Jul 2077  0:20
+sat 3: Occ start: 27 Jul 2077  9:41
+sat 1: Occ start: 27 Jul 2077 10:12
+sat 3: Occ end  : 27 Jul 2077 11:52
+sat 1: Ecl end  : 27 Jul 2077 13:39
+sat 3: Ecl start: 27 Jul 2077 14:58
+sat 3: Ecl end  : 27 Jul 2077 16:57
+sat 1: Tra start: 28 Jul 2077  7:21
+sat 1: Sha start: 28 Jul 2077  8:38
+sat 1: Tra end  : 28 Jul 2077  9:31
+sat 1: Sha end  : 28 Jul 2077 10:47
+sat 2: Tra start: 28 Jul 2077 14:35
+sat 2: Tra end  : 28 Jul 2077 16:56
+sat 2: Sha start: 28 Jul 2077 17:12
+sat 2: Sha end  : 28 Jul 2077 19:29
+sat 1: Occ start: 29 Jul 2077  4:41
+sat 1: Ecl end  : 29 Jul 2077  8:08
+sat 1: Tra start: 30 Jul 2077  1:50
+sat 1: Sha start: 30 Jul 2077  3:07
+sat 1: Tra end  : 30 Jul 2077  4:00
+sat 1: Sha end  : 30 Jul 2077  5:16
+sat 2: Occ start: 30 Jul 2077  8:46
+sat 2: Occ end  : 30 Jul 2077 11:07
+sat 2: Ecl start: 30 Jul 2077 11:21
+sat 2: Ecl end  : 30 Jul 2077 13:38
+sat 1: Occ start: 30 Jul 2077 23:10
+sat 3: Tra start: 30 Jul 2077 23:45
+sat 3: Tra end  : 31 Jul 2077  1:58
+sat 1: Ecl end  : 31 Jul 2077  2:37
+sat 3: Sha start: 31 Jul 2077  5:00
+sat 3: Sha end  : 31 Jul 2077  7:00
+sat 1: Tra start: 31 Jul 2077 20:19
+sat 1: Sha start: 31 Jul 2077 21:35
+sat 1: Tra end  : 31 Jul 2077 22:29
+sat 1: Sha end  : 31 Jul 2077 23:45
+sat 2: Tra start:  1 Aug 2077  3:53
+sat 2: Tra end  :  1 Aug 2077  6:15
+sat 2: Sha start:  1 Aug 2077  6:30
+sat 2: Sha end  :  1 Aug 2077  8:47
+sat 1: Occ start:  1 Aug 2077 17:39
+sat 1: Ecl end  :  1 Aug 2077 21:05
+sat 1: Tra start:  2 Aug 2077 14:48
+sat 1: Sha start:  2 Aug 2077 16:04
+sat 1: Tra end  :  2 Aug 2077 16:58
+sat 1: Sha end  :  2 Aug 2077 18:13
+sat 2: Occ start:  2 Aug 2077 22:04
+sat 2: Occ end  :  3 Aug 2077  0:26
+sat 2: Ecl start:  3 Aug 2077  0:39
+sat 2: Ecl end  :  3 Aug 2077  2:56
+sat 1: Occ start:  3 Aug 2077 12:08
+sat 3: Occ start:  3 Aug 2077 13:42
+sat 1: Ecl end  :  3 Aug 2077 15:34
+sat 3: Occ end  :  3 Aug 2077 15:54
+sat 3: Ecl start:  3 Aug 2077 18:58
+sat 3: Ecl end  :  3 Aug 2077 20:58
+sat 1: Tra start:  4 Aug 2077  9:16
+sat 1: Sha start:  4 Aug 2077 10:33
+sat 1: Tra end  :  4 Aug 2077 11:27
+sat 1: Sha end  :  4 Aug 2077 12:42
+sat 2: Tra start:  4 Aug 2077 17:13
+sat 2: Tra end  :  4 Aug 2077 19:34
+sat 2: Sha start:  4 Aug 2077 19:49
+sat 2: Sha end  :  4 Aug 2077 22:05
+sat 1: Occ start:  5 Aug 2077  6:37
+sat 1: Ecl end  :  5 Aug 2077 10:03
+sat 1: Tra start:  6 Aug 2077  3:45
+sat 1: Sha start:  6 Aug 2077  5:02
+sat 1: Tra end  :  6 Aug 2077  5:56
+sat 1: Sha end  :  6 Aug 2077  7:11
+sat 2: Occ start:  6 Aug 2077 11:23
+sat 2: Occ end  :  6 Aug 2077 13:44
+sat 2: Ecl start:  6 Aug 2077 13:57
+sat 2: Ecl end  :  6 Aug 2077 16:13
+sat 1: Occ start:  7 Aug 2077  1:06
+sat 3: Tra start:  7 Aug 2077  3:47
+sat 1: Ecl end  :  7 Aug 2077  4:32
+sat 3: Tra end  :  7 Aug 2077  6:01
+sat 3: Sha start:  7 Aug 2077  8:59
+sat 3: Sha end  :  7 Aug 2077 10:59
+sat 1: Tra start:  7 Aug 2077 22:14
+sat 1: Sha start:  7 Aug 2077 23:30
+sat 1: Tra end  :  8 Aug 2077  0:25
+sat 1: Sha end  :  8 Aug 2077  1:39
+sat 2: Tra start:  8 Aug 2077  6:32
+sat 2: Tra end  :  8 Aug 2077  8:54
+sat 2: Sha start:  8 Aug 2077  9:07
+sat 2: Sha end  :  8 Aug 2077 11:23
+sat 1: Occ start:  8 Aug 2077 19:35
+sat 1: Ecl end  :  8 Aug 2077 23:01
+sat 1: Tra start:  9 Aug 2077 16:43
+sat 1: Sha start:  9 Aug 2077 17:59
+sat 1: Tra end  :  9 Aug 2077 18:54
+sat 1: Sha end  :  9 Aug 2077 20:08
+sat 2: Occ start: 10 Aug 2077  0:42
+sat 2: Occ end  : 10 Aug 2077  3:04
+sat 2: Ecl start: 10 Aug 2077  3:15
+sat 2: Ecl end  : 10 Aug 2077  5:31
+sat 1: Occ start: 10 Aug 2077 14:04
+sat 1: Ecl end  : 10 Aug 2077 17:29
+sat 3: Occ start: 10 Aug 2077 17:46
+sat 3: Occ end  : 10 Aug 2077 20:00
+sat 3: Ecl start: 10 Aug 2077 22:57
+sat 3: Ecl end  : 11 Aug 2077  0:57
+sat 1: Tra start: 11 Aug 2077 11:13
+sat 1: Sha start: 11 Aug 2077 12:28
+sat 1: Tra end  : 11 Aug 2077 13:23
+sat 1: Sha end  : 11 Aug 2077 14:37
+sat 2: Tra start: 11 Aug 2077 19:52
+sat 2: Tra end  : 11 Aug 2077 22:14
+sat 2: Sha start: 11 Aug 2077 22:25
+sat 2: Sha end  : 12 Aug 2077  0:42
+sat 1: Occ start: 12 Aug 2077  8:33
+sat 1: Ecl end  : 12 Aug 2077 11:58
+sat 1: Tra start: 13 Aug 2077  5:42
+sat 1: Sha start: 13 Aug 2077  6:56
+sat 1: Tra end  : 13 Aug 2077  7:52
+sat 1: Sha end  : 13 Aug 2077  9:06
+sat 2: Occ start: 13 Aug 2077 14:02
+sat 2: Occ end  : 13 Aug 2077 16:23
+sat 2: Ecl start: 13 Aug 2077 16:33
+sat 2: Ecl end  : 13 Aug 2077 18:49
+sat 1: Occ start: 14 Aug 2077  3:03
+sat 1: Ecl end  : 14 Aug 2077  6:27
+sat 3: Tra start: 14 Aug 2077  7:53
+sat 3: Tra end  : 14 Aug 2077 10:07
+sat 3: Sha start: 14 Aug 2077 12:58
+sat 3: Sha end  : 14 Aug 2077 14:58
+sat 1: Tra start: 15 Aug 2077  0:11
+sat 1: Sha start: 15 Aug 2077  1:25
+sat 1: Tra end  : 15 Aug 2077  2:21
+sat 1: Sha end  : 15 Aug 2077  3:34
+sat 2: Tra start: 15 Aug 2077  9:12
+sat 2: Tra end  : 15 Aug 2077 11:34
+sat 2: Sha start: 15 Aug 2077 11:43
+sat 2: Sha end  : 15 Aug 2077 13:59
+sat 1: Occ start: 15 Aug 2077 21:32
+sat 1: Ecl end  : 16 Aug 2077  0:55
+sat 1: Tra start: 16 Aug 2077 18:40
+sat 1: Sha start: 16 Aug 2077 19:54
+sat 1: Tra end  : 16 Aug 2077 20:51
+sat 1: Sha end  : 16 Aug 2077 22:03
+sat 2: Occ start: 17 Aug 2077  3:22
+sat 2: Occ end  : 17 Aug 2077  5:44
+sat 2: Ecl start: 17 Aug 2077  5:51
+sat 2: Ecl end  : 17 Aug 2077  8:07
+sat 1: Occ start: 17 Aug 2077 16:01
+sat 1: Ecl end  : 17 Aug 2077 19:24
+sat 3: Occ start: 17 Aug 2077 21:53
+sat 3: Occ end  : 18 Aug 2077  0:08
+sat 3: Ecl start: 18 Aug 2077  2:56
+sat 3: Ecl end  : 18 Aug 2077  4:56
+sat 1: Tra start: 18 Aug 2077 13:10
+sat 1: Sha start: 18 Aug 2077 14:23
+sat 1: Tra end  : 18 Aug 2077 15:20
+sat 1: Sha end  : 18 Aug 2077 16:32
+sat 2: Tra start: 18 Aug 2077 22:33
+sat 2: Tra end  : 19 Aug 2077  0:55
+sat 2: Sha start: 19 Aug 2077  1:01
+sat 2: Sha end  : 19 Aug 2077  3:18
+sat 1: Occ start: 19 Aug 2077 10:31
+sat 1: Ecl end  : 19 Aug 2077 13:53
+sat 1: Tra start: 20 Aug 2077  7:39
+sat 1: Sha start: 20 Aug 2077  8:51
+sat 1: Tra end  : 20 Aug 2077  9:49
+sat 1: Sha end  : 20 Aug 2077 11:01
+sat 2: Occ start: 20 Aug 2077 16:42
+sat 2: Occ end  : 20 Aug 2077 19:04
+sat 2: Ecl start: 20 Aug 2077 19:09
+sat 2: Ecl end  : 20 Aug 2077 21:25
+sat 1: Occ start: 21 Aug 2077  5:00
+sat 1: Ecl end  : 21 Aug 2077  8:22
+sat 3: Tra start: 21 Aug 2077 12:01
+sat 3: Tra end  : 21 Aug 2077 14:17
+sat 3: Sha start: 21 Aug 2077 16:57
+sat 3: Sha end  : 21 Aug 2077 18:58
+sat 1: Tra start: 22 Aug 2077  2:08
+sat 1: Sha start: 22 Aug 2077  3:20
+sat 1: Tra end  : 22 Aug 2077  4:19
+sat 1: Sha end  : 22 Aug 2077  5:29
+sat 2: Tra start: 22 Aug 2077 11:54
+sat 2: Tra end  : 22 Aug 2077 14:16
+sat 2: Sha start: 22 Aug 2077 14:19
+sat 2: Sha end  : 22 Aug 2077 16:36
+sat 1: Occ start: 22 Aug 2077 23:29
+sat 1: Ecl end  : 23 Aug 2077  2:50
+sat 1: Tra start: 23 Aug 2077 20:38
+sat 1: Sha start: 23 Aug 2077 21:49
+sat 1: Tra end  : 23 Aug 2077 22:48
+sat 1: Sha end  : 23 Aug 2077 23:58
+sat 2: Occ start: 24 Aug 2077  6:03
+sat 2: Occ end  : 24 Aug 2077  8:25
+sat 2: Ecl start: 24 Aug 2077  8:27
+sat 2: Ecl end  : 24 Aug 2077 10:43
+sat 1: Occ start: 24 Aug 2077 17:59
+sat 1: Ecl end  : 24 Aug 2077 21:19
+sat 3: Occ start: 25 Aug 2077  2:03
+sat 3: Occ end  : 25 Aug 2077  4:19
+sat 3: Ecl start: 25 Aug 2077  6:54
+sat 3: Ecl end  : 25 Aug 2077  8:55
+sat 1: Tra start: 25 Aug 2077 15:07
+sat 1: Sha start: 25 Aug 2077 16:17
+sat 1: Tra end  : 25 Aug 2077 17:18
+sat 1: Sha end  : 25 Aug 2077 18:27
+sat 2: Tra start: 26 Aug 2077  1:15
+sat 2: Tra end  : 26 Aug 2077  3:37
+sat 2: Sha start: 26 Aug 2077  3:37
+sat 2: Sha end  : 26 Aug 2077  5:54
+sat 1: Occ start: 26 Aug 2077 12:29
+sat 1: Ecl end  : 26 Aug 2077 15:48
+sat 1: Tra start: 27 Aug 2077  9:37
+sat 1: Sha start: 27 Aug 2077 10:46
+sat 1: Tra end  : 27 Aug 2077 11:47
+sat 1: Sha end  : 27 Aug 2077 12:56
+sat 2: Occ start: 27 Aug 2077 19:24
+sat 2: Ecl end  : 28 Aug 2077  0:01
+sat 1: Occ start: 28 Aug 2077  6:58
+sat 1: Ecl end  : 28 Aug 2077 10:17
+sat 3: Tra start: 28 Aug 2077 16:14
+sat 3: Tra end  : 28 Aug 2077 18:31
+sat 3: Sha start: 28 Aug 2077 20:57
+sat 3: Sha end  : 28 Aug 2077 22:58
+sat 1: Tra start: 29 Aug 2077  4:07
+sat 1: Sha start: 29 Aug 2077  5:15
+sat 1: Tra end  : 29 Aug 2077  6:17
+sat 1: Sha end  : 29 Aug 2077  7:24
+sat 2: Tra start: 29 Aug 2077 14:37
+sat 2: Sha start: 29 Aug 2077 16:55
+sat 2: Tra end  : 29 Aug 2077 16:59
+sat 2: Sha end  : 29 Aug 2077 19:11
+sat 1: Occ start: 30 Aug 2077  1:28
+sat 1: Ecl end  : 30 Aug 2077  4:45
+sat 1: Tra start: 30 Aug 2077 22:36
+sat 1: Sha start: 30 Aug 2077 23:44
+sat 1: Tra end  : 31 Aug 2077  0:47
+sat 1: Sha end  : 31 Aug 2077  1:53
+sat 2: Occ start: 31 Aug 2077  8:46
+sat 2: Ecl end  : 31 Aug 2077 13:20
+sat 1: Occ start: 31 Aug 2077 19:57
+sat 1: Ecl end  : 31 Aug 2077 23:14
+sat 3: Occ start:  1 Sep 2077  6:16
+sat 3: Occ end  :  1 Sep 2077  8:33
+sat 3: Ecl start:  1 Sep 2077 10:53
+sat 3: Ecl end  :  1 Sep 2077 12:54
+sat 1: Tra start:  1 Sep 2077 17:06
+sat 1: Sha start:  1 Sep 2077 18:12
+sat 1: Tra end  :  1 Sep 2077 19:16
+sat 1: Sha end  :  1 Sep 2077 20:22
+sat 2: Tra start:  2 Sep 2077  3:59
+sat 2: Sha start:  2 Sep 2077  6:13
+sat 2: Tra end  :  2 Sep 2077  6:21
+sat 2: Sha end  :  2 Sep 2077  8:29
+sat 1: Occ start:  2 Sep 2077 14:27
+sat 1: Ecl end  :  2 Sep 2077 17:43
+sat 1: Tra start:  3 Sep 2077 11:36
+sat 1: Sha start:  3 Sep 2077 12:41
+sat 1: Tra end  :  3 Sep 2077 13:46
+sat 1: Sha end  :  3 Sep 2077 14:50
+sat 2: Occ start:  3 Sep 2077 22:08
+sat 2: Ecl end  :  4 Sep 2077  2:37
+sat 1: Occ start:  4 Sep 2077  8:57
+sat 1: Ecl end  :  4 Sep 2077 12:11
+sat 3: Tra start:  4 Sep 2077 20:29
+sat 3: Tra end  :  4 Sep 2077 22:46
+sat 3: Sha start:  5 Sep 2077  0:55
+sat 3: Sha end  :  5 Sep 2077  2:57
+sat 1: Tra start:  5 Sep 2077  6:05
+sat 1: Sha start:  5 Sep 2077  7:10
+sat 1: Tra end  :  5 Sep 2077  8:16
+sat 1: Sha end  :  5 Sep 2077  9:19
+sat 2: Tra start:  5 Sep 2077 17:21
+sat 2: Sha start:  5 Sep 2077 19:31
+sat 2: Tra end  :  5 Sep 2077 19:43
+sat 2: Sha end  :  5 Sep 2077 21:47
+sat 1: Occ start:  6 Sep 2077  3:27
+sat 1: Ecl end  :  6 Sep 2077  6:40
+sat 1: Tra start:  7 Sep 2077  0:35
+sat 1: Sha start:  7 Sep 2077  1:39
+sat 1: Tra end  :  7 Sep 2077  2:46
+sat 1: Sha end  :  7 Sep 2077  3:48
+sat 2: Occ start:  7 Sep 2077 11:30
+sat 2: Ecl end  :  7 Sep 2077 15:56
+sat 1: Occ start:  7 Sep 2077 21:56
+sat 1: Ecl end  :  8 Sep 2077  1:09
+sat 3: Occ start:  8 Sep 2077 10:33
+sat 3: Occ end  :  8 Sep 2077 12:50
+sat 3: Ecl start:  8 Sep 2077 14:52
+sat 3: Ecl end  :  8 Sep 2077 16:53
+sat 1: Tra start:  8 Sep 2077 19:05
+sat 1: Sha start:  8 Sep 2077 20:07
+sat 1: Tra end  :  8 Sep 2077 21:15
+sat 1: Sha end  :  8 Sep 2077 22:17
+sat 2: Tra start:  9 Sep 2077  6:43
+sat 2: Sha start:  9 Sep 2077  8:49
+sat 2: Tra end  :  9 Sep 2077  9:05
+sat 2: Sha end  :  9 Sep 2077 11:05
+sat 1: Occ start:  9 Sep 2077 16:26
+sat 1: Ecl end  :  9 Sep 2077 19:37
+sat 1: Tra start: 10 Sep 2077 13:35
+sat 1: Sha start: 10 Sep 2077 14:36
+sat 1: Tra end  : 10 Sep 2077 15:45
+sat 1: Sha end  : 10 Sep 2077 16:45
+sat 2: Occ start: 11 Sep 2077  0:53
+sat 2: Ecl end  : 11 Sep 2077  5:14
+sat 1: Occ start: 11 Sep 2077 10:56
+sat 1: Ecl end  : 11 Sep 2077 14:06
+sat 3: Tra start: 12 Sep 2077  0:46
+sat 3: Tra end  : 12 Sep 2077  3:03
+sat 3: Sha start: 12 Sep 2077  4:54
+sat 3: Sha end  : 12 Sep 2077  6:56
+sat 1: Tra start: 12 Sep 2077  8:05
+sat 1: Sha start: 12 Sep 2077  9:05
+sat 1: Tra end  : 12 Sep 2077 10:15
+sat 1: Sha end  : 12 Sep 2077 11:14
+sat 2: Tra start: 12 Sep 2077 20:06
+sat 2: Sha start: 12 Sep 2077 22:06
+sat 2: Tra end  : 12 Sep 2077 22:27
+sat 2: Sha end  : 13 Sep 2077  0:23
+sat 1: Occ start: 13 Sep 2077  5:26
+sat 1: Ecl end  : 13 Sep 2077  8:35
+sat 1: Tra start: 14 Sep 2077  2:35
+sat 1: Sha start: 14 Sep 2077  3:33
+sat 1: Tra end  : 14 Sep 2077  4:45
+sat 1: Sha end  : 14 Sep 2077  5:43
+sat 2: Occ start: 14 Sep 2077 14:16
+sat 2: Ecl end  : 14 Sep 2077 18:32
+sat 1: Occ start: 14 Sep 2077 23:56
+sat 1: Ecl end  : 15 Sep 2077  3:03
+sat 3: Occ start: 15 Sep 2077 14:51
+sat 3: Occ end  : 15 Sep 2077 17:09
+sat 3: Ecl start: 15 Sep 2077 18:51
+sat 3: Ecl end  : 15 Sep 2077 20:53
+sat 1: Tra start: 15 Sep 2077 21:05
+sat 1: Sha start: 15 Sep 2077 22:02
+sat 1: Tra end  : 15 Sep 2077 23:15
+sat 1: Sha end  : 16 Sep 2077  0:12
+sat 2: Tra start: 16 Sep 2077  9:29
+sat 2: Sha start: 16 Sep 2077 11:24
+sat 2: Tra end  : 16 Sep 2077 11:50
+sat 2: Sha end  : 16 Sep 2077 13:40
+sat 1: Occ start: 16 Sep 2077 18:26
+sat 1: Ecl end  : 16 Sep 2077 21:32
+sat 1: Tra start: 17 Sep 2077 15:34
+sat 1: Sha start: 17 Sep 2077 16:31
+sat 1: Tra end  : 17 Sep 2077 17:45
+sat 1: Sha end  : 17 Sep 2077 18:40
+sat 2: Occ start: 18 Sep 2077  3:39
+sat 2: Ecl end  : 18 Sep 2077  7:50
+sat 1: Occ start: 18 Sep 2077 12:56
+sat 1: Ecl end  : 18 Sep 2077 16:01
+sat 3: Tra start: 19 Sep 2077  5:05
+sat 3: Tra end  : 19 Sep 2077  7:23
+sat 3: Sha start: 19 Sep 2077  8:53
+sat 1: Tra start: 19 Sep 2077 10:05
+sat 3: Sha end  : 19 Sep 2077 10:54
+sat 1: Sha start: 19 Sep 2077 11:00
+sat 1: Tra end  : 19 Sep 2077 12:15
+sat 1: Sha end  : 19 Sep 2077 13:09
+sat 2: Tra start: 19 Sep 2077 22:52
+sat 2: Sha start: 20 Sep 2077  0:42
+sat 2: Tra end  : 20 Sep 2077  1:13
+sat 2: Sha end  : 20 Sep 2077  2:58
+sat 1: Occ start: 20 Sep 2077  7:26
+sat 1: Ecl end  : 20 Sep 2077 10:29
+sat 1: Tra start: 21 Sep 2077  4:35
+sat 1: Sha start: 21 Sep 2077  5:28
+sat 1: Tra end  : 21 Sep 2077  6:45
+sat 1: Sha end  : 21 Sep 2077  7:38
+sat 2: Occ start: 21 Sep 2077 17:03
+sat 2: Ecl end  : 21 Sep 2077 21:09
+sat 1: Occ start: 22 Sep 2077  1:56
+sat 1: Ecl end  : 22 Sep 2077  4:58
+sat 3: Occ start: 22 Sep 2077 19:13
+sat 3: Occ end  : 22 Sep 2077 21:30
+sat 3: Ecl start: 22 Sep 2077 22:51
+sat 1: Tra start: 22 Sep 2077 23:05
+sat 1: Sha start: 22 Sep 2077 23:57
+sat 3: Ecl end  : 23 Sep 2077  0:52
+sat 1: Tra end  : 23 Sep 2077  1:15
+sat 1: Sha end  : 23 Sep 2077  2:06
+sat 2: Tra start: 23 Sep 2077 12:15
+sat 2: Sha start: 23 Sep 2077 14:00
+sat 2: Tra end  : 23 Sep 2077 14:36
+sat 2: Sha end  : 23 Sep 2077 16:16
+sat 1: Occ start: 23 Sep 2077 20:26
+sat 1: Ecl end  : 23 Sep 2077 23:27
+sat 1: Tra start: 24 Sep 2077 17:35
+sat 1: Sha start: 24 Sep 2077 18:26
+sat 1: Tra end  : 24 Sep 2077 19:45
+sat 1: Sha end  : 24 Sep 2077 20:35
+sat 2: Occ start: 25 Sep 2077  6:27
+sat 2: Ecl end  : 25 Sep 2077 10:27
+sat 1: Occ start: 25 Sep 2077 14:56
+sat 1: Ecl end  : 25 Sep 2077 17:55
+sat 3: Tra start: 26 Sep 2077  9:26
+sat 3: Tra end  : 26 Sep 2077 11:44
+sat 1: Tra start: 26 Sep 2077 12:05
+sat 3: Sha start: 26 Sep 2077 12:51
+sat 1: Sha start: 26 Sep 2077 12:54
+sat 1: Tra end  : 26 Sep 2077 14:16
+sat 3: Sha end  : 26 Sep 2077 14:53
+sat 1: Sha end  : 26 Sep 2077 15:04
+sat 2: Tra start: 27 Sep 2077  1:38
+sat 2: Sha start: 27 Sep 2077  3:17
+sat 2: Tra end  : 27 Sep 2077  3:59
+sat 2: Sha end  : 27 Sep 2077  5:33
+sat 1: Occ start: 27 Sep 2077  9:26
+sat 1: Ecl end  : 27 Sep 2077 12:24
+sat 1: Tra start: 28 Sep 2077  6:35
+sat 1: Sha start: 28 Sep 2077  7:23
+sat 1: Tra end  : 28 Sep 2077  8:46
+sat 1: Sha end  : 28 Sep 2077  9:33
+sat 2: Occ start: 28 Sep 2077 19:51
+sat 2: Ecl end  : 28 Sep 2077 23:45
+sat 1: Occ start: 29 Sep 2077  3:56
+sat 1: Ecl end  : 29 Sep 2077  6:52
+sat 3: Occ start: 29 Sep 2077 23:35
+sat 1: Tra start: 30 Sep 2077  1:05
+sat 1: Sha start: 30 Sep 2077  1:52
+sat 3: Occ end  : 30 Sep 2077  1:53
+sat 3: Ecl start: 30 Sep 2077  2:49
+sat 1: Tra end  : 30 Sep 2077  3:16
+sat 1: Sha end  : 30 Sep 2077  4:01
+sat 3: Ecl end  : 30 Sep 2077  4:51
+sat 2: Tra start: 30 Sep 2077 15:02
+sat 2: Sha start: 30 Sep 2077 16:35
+sat 2: Tra end  : 30 Sep 2077 17:23
+sat 2: Sha end  : 30 Sep 2077 18:51
+sat 1: Occ start: 30 Sep 2077 22:26
+sat 1: Ecl end  :  1 Oct 2077  1:21
+sat 1: Tra start:  1 Oct 2077 19:35
+sat 1: Sha start:  1 Oct 2077 20:20
+sat 1: Tra end  :  1 Oct 2077 21:46
+sat 1: Sha end  :  1 Oct 2077 22:30
+sat 2: Occ start:  2 Oct 2077  9:15
+sat 2: Ecl end  :  2 Oct 2077 13:03
+sat 1: Occ start:  2 Oct 2077 16:56
+sat 1: Ecl end  :  2 Oct 2077 19:50
+sat 3: Tra start:  3 Oct 2077 13:49
+sat 1: Tra start:  3 Oct 2077 14:06
+sat 1: Sha start:  3 Oct 2077 14:49
+sat 3: Tra end  :  3 Oct 2077 16:07
+sat 1: Tra end  :  3 Oct 2077 16:16
+sat 3: Sha start:  3 Oct 2077 16:50
+sat 1: Sha end  :  3 Oct 2077 16:59
+sat 3: Sha end  :  3 Oct 2077 18:53
+sat 2: Tra start:  4 Oct 2077  4:25
+sat 2: Sha start:  4 Oct 2077  5:51
+sat 2: Tra end  :  4 Oct 2077  6:46
+sat 2: Sha end  :  4 Oct 2077  8:07
+sat 1: Occ start:  4 Oct 2077 11:27
+sat 1: Ecl end  :  4 Oct 2077 14:18
+sat 1: Tra start:  5 Oct 2077  8:36
+sat 1: Sha start:  5 Oct 2077  9:18
+sat 1: Tra end  :  5 Oct 2077 10:46
+sat 1: Sha end  :  5 Oct 2077 11:27
+sat 2: Occ start:  5 Oct 2077 22:40
+sat 2: Ecl end  :  6 Oct 2077  2:22
+sat 1: Occ start:  6 Oct 2077  5:57
+sat 1: Ecl end  :  6 Oct 2077  8:47
+sat 1: Tra start:  7 Oct 2077  3:06
+sat 1: Sha start:  7 Oct 2077  3:47
+sat 3: Occ start:  7 Oct 2077  3:59
+sat 1: Tra end  :  7 Oct 2077  5:17
+sat 1: Sha end  :  7 Oct 2077  5:56
+sat 3: Occ end  :  7 Oct 2077  6:17
+sat 3: Ecl start:  7 Oct 2077  6:48
+sat 3: Ecl end  :  7 Oct 2077  8:50
+sat 2: Tra start:  7 Oct 2077 17:49
+sat 2: Sha start:  7 Oct 2077 19:09
+sat 2: Tra end  :  7 Oct 2077 20:10
+sat 2: Sha end  :  7 Oct 2077 21:25
+sat 1: Occ start:  8 Oct 2077  0:27
+sat 1: Ecl end  :  8 Oct 2077  3:15
+sat 1: Tra start:  8 Oct 2077 21:36
+sat 1: Sha start:  8 Oct 2077 22:15
+sat 1: Tra end  :  8 Oct 2077 23:47
+sat 1: Sha end  :  9 Oct 2077  0:25
+sat 2: Occ start:  9 Oct 2077 12:04
+sat 2: Ecl end  :  9 Oct 2077 15:40
+sat 1: Occ start:  9 Oct 2077 18:57
+sat 1: Ecl end  :  9 Oct 2077 21:44
+sat 1: Tra start: 10 Oct 2077 16:07
+sat 1: Sha start: 10 Oct 2077 16:44
+sat 3: Tra start: 10 Oct 2077 18:14
+sat 1: Tra end  : 10 Oct 2077 18:17
+sat 1: Sha end  : 10 Oct 2077 18:53
+sat 3: Tra end  : 10 Oct 2077 20:32
+sat 3: Sha start: 10 Oct 2077 20:49
+sat 3: Sha end  : 10 Oct 2077 22:52
+sat 2: Tra start: 11 Oct 2077  7:13
+sat 2: Sha start: 11 Oct 2077  8:26
+sat 2: Tra end  : 11 Oct 2077  9:34
+sat 2: Sha end  : 11 Oct 2077 10:42
+sat 1: Occ start: 11 Oct 2077 13:27
+sat 1: Ecl end  : 11 Oct 2077 16:13
+sat 1: Tra start: 12 Oct 2077 10:37
+sat 1: Sha start: 12 Oct 2077 11:13
+sat 1: Tra end  : 12 Oct 2077 12:48
+sat 1: Sha end  : 12 Oct 2077 13:22
+sat 2: Occ start: 13 Oct 2077  1:30
+sat 2: Ecl end  : 13 Oct 2077  4:59
+sat 1: Occ start: 13 Oct 2077  7:57
+sat 1: Ecl end  : 13 Oct 2077 10:41
+sat 1: Tra start: 14 Oct 2077  5:07
+sat 1: Sha start: 14 Oct 2077  5:41
+sat 1: Tra end  : 14 Oct 2077  7:18
+sat 1: Sha end  : 14 Oct 2077  7:51
+sat 3: Occ start: 14 Oct 2077  8:24
+sat 3: Occ end  : 14 Oct 2077 10:41
+sat 3: Ecl start: 14 Oct 2077 10:46
+sat 3: Ecl end  : 14 Oct 2077 12:48
+sat 2: Tra start: 14 Oct 2077 20:37
+sat 2: Sha start: 14 Oct 2077 21:43
+sat 2: Tra end  : 14 Oct 2077 22:58
+sat 2: Sha end  : 14 Oct 2077 23:59
+sat 1: Occ start: 15 Oct 2077  2:28
+sat 1: Ecl end  : 15 Oct 2077  5:10
+sat 1: Tra start: 15 Oct 2077 23:38
+sat 1: Sha start: 16 Oct 2077  0:10
+sat 1: Tra end  : 16 Oct 2077  1:48
+sat 1: Sha end  : 16 Oct 2077  2:20
+sat 2: Occ start: 16 Oct 2077 14:54
+sat 2: Ecl end  : 16 Oct 2077 18:17
+sat 1: Occ start: 16 Oct 2077 20:58
+sat 1: Ecl end  : 16 Oct 2077 23:38
+sat 1: Tra start: 17 Oct 2077 18:08
+sat 1: Sha start: 17 Oct 2077 18:39
+sat 1: Tra end  : 17 Oct 2077 20:19
+sat 1: Sha end  : 17 Oct 2077 20:48
+sat 3: Tra start: 17 Oct 2077 22:41
+sat 3: Sha start: 18 Oct 2077  0:48
+sat 3: Tra end  : 18 Oct 2077  0:59
+sat 3: Sha end  : 18 Oct 2077  2:52
+sat 2: Tra start: 18 Oct 2077 10:01
+sat 2: Sha start: 18 Oct 2077 11:01
+sat 2: Tra end  : 18 Oct 2077 12:21
+sat 2: Sha end  : 18 Oct 2077 13:17
+sat 1: Occ start: 18 Oct 2077 15:28
+sat 1: Ecl end  : 18 Oct 2077 18:07
+sat 1: Tra start: 19 Oct 2077 12:38
+sat 1: Sha start: 19 Oct 2077 13:07
+sat 1: Tra end  : 19 Oct 2077 14:49
+sat 1: Sha end  : 19 Oct 2077 15:17
+sat 2: Occ start: 20 Oct 2077  4:20
+sat 2: Ecl end  : 20 Oct 2077  7:35
+sat 1: Occ start: 20 Oct 2077  9:58
+sat 1: Ecl end  : 20 Oct 2077 12:35
+sat 1: Tra start: 21 Oct 2077  7:09
+sat 1: Sha start: 21 Oct 2077  7:36
+sat 1: Tra end  : 21 Oct 2077  9:19
+sat 1: Sha end  : 21 Oct 2077  9:46
+sat 3: Occ start: 21 Oct 2077 12:50
+sat 3: Ecl end  : 21 Oct 2077 16:47
+sat 2: Tra start: 21 Oct 2077 23:24
+sat 2: Sha start: 22 Oct 2077  0:18
+sat 2: Tra end  : 22 Oct 2077  1:45
+sat 2: Sha end  : 22 Oct 2077  2:34
+sat 1: Occ start: 22 Oct 2077  4:29
+sat 1: Ecl end  : 22 Oct 2077  7:04
+sat 1: Tra start: 23 Oct 2077  1:39
+sat 1: Sha start: 23 Oct 2077  2:05
+sat 1: Tra end  : 23 Oct 2077  3:50
+sat 1: Sha end  : 23 Oct 2077  4:14
+sat 2: Occ start: 23 Oct 2077 17:45
+sat 2: Ecl end  : 23 Oct 2077 20:53
+sat 1: Occ start: 23 Oct 2077 22:59
+sat 1: Ecl end  : 24 Oct 2077  1:32
+sat 1: Tra start: 24 Oct 2077 20:09
+sat 1: Sha start: 24 Oct 2077 20:33
+sat 1: Tra end  : 24 Oct 2077 22:20
+sat 1: Sha end  : 24 Oct 2077 22:43
+sat 3: Tra start: 25 Oct 2077  3:07
+sat 3: Sha start: 25 Oct 2077  4:47
+sat 3: Tra end  : 25 Oct 2077  5:25
+sat 3: Sha end  : 25 Oct 2077  6:50
+sat 2: Tra start: 25 Oct 2077 12:48
+sat 2: Sha start: 25 Oct 2077 13:35
+sat 2: Tra end  : 25 Oct 2077 15:09
+sat 2: Sha end  : 25 Oct 2077 15:51
+sat 1: Occ start: 25 Oct 2077 17:29
+sat 1: Ecl end  : 25 Oct 2077 20:01
+sat 1: Tra start: 26 Oct 2077 14:40
+sat 1: Sha start: 26 Oct 2077 15:02
+sat 1: Tra end  : 26 Oct 2077 16:51
+sat 1: Sha end  : 26 Oct 2077 17:12
+sat 2: Occ start: 27 Oct 2077  7:11
+sat 2: Ecl end  : 27 Oct 2077 10:12
+sat 1: Occ start: 27 Oct 2077 11:59
+sat 1: Ecl end  : 27 Oct 2077 14:29
+sat 1: Tra start: 28 Oct 2077  9:10
+sat 1: Sha start: 28 Oct 2077  9:30
+sat 1: Tra end  : 28 Oct 2077 11:21
+sat 1: Sha end  : 28 Oct 2077 11:40
+sat 3: Occ start: 28 Oct 2077 17:17
+sat 3: Ecl end  : 28 Oct 2077 20:46
+sat 2: Tra start: 29 Oct 2077  2:13
+sat 2: Sha start: 29 Oct 2077  2:52
+sat 2: Tra end  : 29 Oct 2077  4:33
+sat 2: Sha end  : 29 Oct 2077  5:08
+sat 1: Occ start: 29 Oct 2077  6:30
+sat 1: Ecl end  : 29 Oct 2077  8:58
+sat 1: Tra start: 30 Oct 2077  3:41
+sat 1: Sha start: 30 Oct 2077  3:59
+sat 1: Tra end  : 30 Oct 2077  5:51
+sat 1: Sha end  : 30 Oct 2077  6:09
+sat 2: Occ start: 30 Oct 2077 20:36
+sat 2: Ecl end  : 30 Oct 2077 23:30
+sat 1: Occ start: 31 Oct 2077  1:00
+sat 1: Ecl end  : 31 Oct 2077  3:26
+sat 1: Tra start: 31 Oct 2077 22:11
+sat 1: Sha start: 31 Oct 2077 22:28
+sat 1: Tra end  :  1 Nov 2077  0:22
+sat 1: Sha end  :  1 Nov 2077  0:38
+sat 3: Tra start:  1 Nov 2077  7:35
+sat 3: Sha start:  1 Nov 2077  8:45
+sat 3: Tra end  :  1 Nov 2077  9:52
+sat 3: Sha end  :  1 Nov 2077 10:49
+sat 2: Tra start:  1 Nov 2077 15:37
+sat 2: Sha start:  1 Nov 2077 16:09
+sat 2: Tra end  :  1 Nov 2077 17:57
+sat 2: Sha end  :  1 Nov 2077 18:25
+sat 1: Occ start:  1 Nov 2077 19:30
+sat 1: Ecl end  :  1 Nov 2077 21:55
+sat 1: Tra start:  2 Nov 2077 16:41
+sat 1: Sha start:  2 Nov 2077 16:56
+sat 1: Tra end  :  2 Nov 2077 18:52
+sat 1: Sha end  :  2 Nov 2077 19:06
+sat 2: Occ start:  3 Nov 2077 10:02
+sat 2: Ecl end  :  3 Nov 2077 12:49
+sat 1: Occ start:  3 Nov 2077 14:00
+sat 1: Ecl end  :  3 Nov 2077 16:23
+sat 1: Tra start:  4 Nov 2077 11:12
+sat 1: Sha start:  4 Nov 2077 11:25
+sat 1: Tra end  :  4 Nov 2077 13:23
+sat 1: Sha end  :  4 Nov 2077 13:35
+sat 3: Occ start:  4 Nov 2077 21:45
+sat 3: Ecl end  :  5 Nov 2077  0:45
+sat 2: Tra start:  5 Nov 2077  5:01
+sat 2: Sha start:  5 Nov 2077  5:26
+sat 2: Tra end  :  5 Nov 2077  7:21
+sat 2: Sha end  :  5 Nov 2077  7:42
+sat 1: Occ start:  5 Nov 2077  8:31
+sat 1: Ecl end  :  5 Nov 2077 10:52
+sat 1: Tra start:  6 Nov 2077  5:42
+sat 1: Sha start:  6 Nov 2077  5:54
+sat 1: Tra end  :  6 Nov 2077  7:53
+sat 1: Sha end  :  6 Nov 2077  8:03
+sat 2: Occ start:  6 Nov 2077 23:28
+sat 2: Ecl end  :  7 Nov 2077  2:07
+sat 1: Occ start:  7 Nov 2077  3:01
+sat 1: Ecl end  :  7 Nov 2077  5:20
+sat 1: Tra start:  8 Nov 2077  0:13
+sat 1: Sha start:  8 Nov 2077  0:22
+sat 1: Tra end  :  8 Nov 2077  2:23
+sat 1: Sha end  :  8 Nov 2077  2:32
+sat 3: Tra start:  8 Nov 2077 12:02
+sat 3: Sha start:  8 Nov 2077 12:43
+sat 3: Tra end  :  8 Nov 2077 14:20
+sat 3: Sha end  :  8 Nov 2077 14:48
+sat 2: Tra start:  8 Nov 2077 18:25
+sat 2: Sha start:  8 Nov 2077 18:43
+sat 2: Tra end  :  8 Nov 2077 20:45
+sat 2: Sha end  :  8 Nov 2077 20:59
+sat 1: Occ start:  8 Nov 2077 21:31
+sat 1: Ecl end  :  8 Nov 2077 23:49
+sat 1: Tra start:  9 Nov 2077 18:43
+sat 1: Sha start:  9 Nov 2077 18:51
+sat 1: Tra end  :  9 Nov 2077 20:54
+sat 1: Sha end  :  9 Nov 2077 21:01
+sat 2: Occ start: 10 Nov 2077 12:54
+sat 2: Ecl end  : 10 Nov 2077 15:26
+sat 1: Occ start: 10 Nov 2077 16:01
+sat 1: Ecl end  : 10 Nov 2077 18:17
+sat 1: Tra start: 11 Nov 2077 13:14
+sat 1: Sha start: 11 Nov 2077 13:19
+sat 1: Tra end  : 11 Nov 2077 15:24
+sat 1: Sha end  : 11 Nov 2077 15:29
+sat 3: Occ start: 12 Nov 2077  2:14
+sat 3: Ecl end  : 12 Nov 2077  4:44
+sat 2: Tra start: 12 Nov 2077  7:49
+sat 2: Sha start: 12 Nov 2077  8:00
+sat 2: Tra end  : 12 Nov 2077 10:09
+sat 2: Sha end  : 12 Nov 2077 10:16
+sat 1: Occ start: 12 Nov 2077 10:32
+sat 1: Ecl end  : 12 Nov 2077 12:46
+sat 1: Tra start: 13 Nov 2077  7:44
+sat 1: Sha start: 13 Nov 2077  7:48
+sat 1: Tra end  : 13 Nov 2077  9:55
+sat 1: Sha end  : 13 Nov 2077  9:58
+sat 2: Occ start: 14 Nov 2077  2:19
+sat 2: Ecl end  : 14 Nov 2077  4:44
+sat 1: Occ start: 14 Nov 2077  5:02
+sat 1: Ecl end  : 14 Nov 2077  7:14
+sat 1: Tra start: 15 Nov 2077  2:14
+sat 1: Sha start: 15 Nov 2077  2:17
+sat 1: Tra end  : 15 Nov 2077  4:25
+sat 1: Sha end  : 15 Nov 2077  4:27
+sat 3: Tra start: 15 Nov 2077 16:30
+sat 3: Sha start: 15 Nov 2077 16:41
+sat 3: Sha end  : 15 Nov 2077 18:46
+sat 3: Tra end  : 15 Nov 2077 18:47
+sat 2: Tra start: 15 Nov 2077 21:13
+sat 2: Sha start: 15 Nov 2077 21:17
+sat 1: Occ start: 15 Nov 2077 23:32
+sat 2: Tra end  : 15 Nov 2077 23:33
+sat 2: Sha end  : 15 Nov 2077 23:33
+sat 1: Ecl end  : 16 Nov 2077  1:43
+sat 1: Tra start: 16 Nov 2077 20:45
+sat 1: Sha start: 16 Nov 2077 20:45
+sat 1: Sha end  : 16 Nov 2077 22:55
+sat 1: Tra end  : 16 Nov 2077 22:56
+sat 2: Occ start: 17 Nov 2077 15:45
+sat 1: Ecl start: 17 Nov 2077 18:02
+sat 2: Occ end  : 17 Nov 2077 18:06
+sat 1: Occ end  : 17 Nov 2077 20:12
+sat 1: Sha start: 18 Nov 2077 15:14
+sat 1: Tra start: 18 Nov 2077 15:15
+sat 1: Sha end  : 18 Nov 2077 17:24
+sat 1: Tra end  : 18 Nov 2077 17:26
+sat 3: Ecl start: 19 Nov 2077  6:38
+sat 3: Occ end  : 19 Nov 2077  8:59
+sat 2: Sha start: 19 Nov 2077 10:34
+sat 2: Tra start: 19 Nov 2077 10:38
+sat 1: Ecl start: 19 Nov 2077 12:30
+sat 2: Sha end  : 19 Nov 2077 12:50
+sat 2: Tra end  : 19 Nov 2077 12:57
+sat 1: Occ end  : 19 Nov 2077 14:43
+sat 1: Sha start: 20 Nov 2077  9:42
+sat 1: Tra start: 20 Nov 2077  9:46
+sat 1: Sha end  : 20 Nov 2077 11:52
+sat 1: Tra end  : 20 Nov 2077 11:56
+sat 2: Ecl start: 21 Nov 2077  5:04
+sat 1: Ecl start: 21 Nov 2077  6:59
+sat 2: Occ end  : 21 Nov 2077  7:31
+sat 1: Occ end  : 21 Nov 2077  9:13
+sat 1: Sha start: 22 Nov 2077  4:11
+sat 1: Tra start: 22 Nov 2077  4:16
+sat 1: Sha end  : 22 Nov 2077  6:21
+sat 1: Tra end  : 22 Nov 2077  6:27
+sat 3: Sha start: 22 Nov 2077 20:40
+sat 3: Tra start: 22 Nov 2077 20:59
+sat 3: Sha end  : 22 Nov 2077 22:45
+sat 3: Tra end  : 22 Nov 2077 23:16
+sat 2: Sha start: 22 Nov 2077 23:51
+sat 2: Tra start: 23 Nov 2077  0:02
+sat 1: Ecl start: 23 Nov 2077  1:27
+sat 2: Sha end  : 23 Nov 2077  2:07
+sat 2: Tra end  : 23 Nov 2077  2:21
+sat 1: Occ end  : 23 Nov 2077  3:43
+sat 1: Sha start: 23 Nov 2077 22:40
+sat 1: Tra start: 23 Nov 2077 22:47
+sat 1: Sha end  : 24 Nov 2077  0:49
+sat 1: Tra end  : 24 Nov 2077  0:57
+sat 2: Ecl start: 24 Nov 2077 18:22
+sat 1: Ecl start: 24 Nov 2077 19:56
+sat 2: Occ end  : 24 Nov 2077 20:58
+sat 1: Occ end  : 24 Nov 2077 22:13
+sat 1: Sha start: 25 Nov 2077 17:08
+sat 1: Tra start: 25 Nov 2077 17:17
+sat 1: Sha end  : 25 Nov 2077 19:18
+sat 1: Tra end  : 25 Nov 2077 19:28
+sat 3: Ecl start: 26 Nov 2077 10:35
+sat 2: Sha start: 26 Nov 2077 13:08
+sat 2: Tra start: 26 Nov 2077 13:26
+sat 3: Occ end  : 26 Nov 2077 13:26
+sat 1: Ecl start: 26 Nov 2077 14:24
+sat 2: Sha end  : 26 Nov 2077 15:24
+sat 2: Tra end  : 26 Nov 2077 15:45
+sat 1: Occ end  : 26 Nov 2077 16:43
+sat 1: Sha start: 27 Nov 2077 11:37
+sat 1: Tra start: 27 Nov 2077 11:47
+sat 1: Sha end  : 27 Nov 2077 13:47
+sat 1: Tra end  : 27 Nov 2077 13:58
+sat 2: Ecl start: 28 Nov 2077  7:40
+sat 1: Ecl start: 28 Nov 2077  8:52
+sat 2: Occ end  : 28 Nov 2077 10:23
+sat 1: Occ end  : 28 Nov 2077 11:14
+sat 1: Sha start: 29 Nov 2077  6:05
+sat 1: Tra start: 29 Nov 2077  6:18
+sat 1: Sha end  : 29 Nov 2077  8:15
+sat 1: Tra end  : 29 Nov 2077  8:28
+sat 3: Sha start: 30 Nov 2077  0:38
+sat 3: Tra start: 30 Nov 2077  1:27
+sat 2: Sha start: 30 Nov 2077  2:24
+sat 3: Sha end  : 30 Nov 2077  2:44
+sat 2: Tra start: 30 Nov 2077  2:50
+sat 1: Ecl start: 30 Nov 2077  3:21
+sat 3: Tra end  : 30 Nov 2077  3:44
+sat 2: Sha end  : 30 Nov 2077  4:41
+sat 2: Tra end  : 30 Nov 2077  5:09
+sat 1: Occ end  : 30 Nov 2077  5:44
+sat 1: Sha start:  1 Dec 2077  0:34
+sat 1: Tra start:  1 Dec 2077  0:48
+sat 1: Sha end  :  1 Dec 2077  2:44
+sat 1: Tra end  :  1 Dec 2077  2:59
+sat 2: Ecl start:  1 Dec 2077 20:59
+sat 1: Ecl start:  1 Dec 2077 21:49
+sat 2: Occ end  :  1 Dec 2077 23:49
+sat 1: Occ end  :  2 Dec 2077  0:14
+sat 1: Sha start:  2 Dec 2077 19:02
+sat 1: Tra start:  2 Dec 2077 19:18
+sat 1: Sha end  :  2 Dec 2077 21:12
+sat 1: Tra end  :  2 Dec 2077 21:29
+sat 3: Ecl start:  3 Dec 2077 14:33
+sat 2: Sha start:  3 Dec 2077 15:41
+sat 2: Tra start:  3 Dec 2077 16:14
+sat 1: Ecl start:  3 Dec 2077 16:18
+sat 3: Occ end  :  3 Dec 2077 17:53
+sat 2: Sha end  :  3 Dec 2077 17:57
+sat 2: Tra end  :  3 Dec 2077 18:33
+sat 1: Occ end  :  3 Dec 2077 18:44
+sat 1: Sha start:  4 Dec 2077 13:31
+sat 1: Tra start:  4 Dec 2077 13:49
+sat 1: Sha end  :  4 Dec 2077 15:41
+sat 1: Tra end  :  4 Dec 2077 15:59
+sat 2: Ecl start:  5 Dec 2077 10:17
+sat 1: Ecl start:  5 Dec 2077 10:46
+sat 2: Occ end  :  5 Dec 2077 13:14
+sat 1: Occ end  :  5 Dec 2077 13:14
+sat 1: Sha start:  6 Dec 2077  8:00
+sat 1: Tra start:  6 Dec 2077  8:19
+sat 1: Sha end  :  6 Dec 2077 10:09
+sat 1: Tra end  :  6 Dec 2077 10:30
+sat 3: Sha start:  7 Dec 2077  4:37
+sat 2: Sha start:  7 Dec 2077  4:58
+sat 1: Ecl start:  7 Dec 2077  5:14
+sat 2: Tra start:  7 Dec 2077  5:37
+sat 3: Tra start:  7 Dec 2077  5:55
+sat 3: Sha end  :  7 Dec 2077  6:43
+sat 2: Sha end  :  7 Dec 2077  7:14
+sat 1: Occ end  :  7 Dec 2077  7:44
+sat 2: Tra end  :  7 Dec 2077  7:56
+sat 3: Tra end  :  7 Dec 2077  8:12
+sat 1: Sha start:  8 Dec 2077  2:28
+sat 1: Tra start:  8 Dec 2077  2:49
+sat 1: Sha end  :  8 Dec 2077  4:38
+sat 1: Tra end  :  8 Dec 2077  5:00
+sat 2: Ecl start:  8 Dec 2077 23:35
+sat 1: Ecl start:  8 Dec 2077 23:43
+sat 1: Occ end  :  9 Dec 2077  2:14
+sat 2: Occ end  :  9 Dec 2077  2:40
+sat 1: Sha start:  9 Dec 2077 20:57
+sat 1: Tra start:  9 Dec 2077 21:20
+sat 1: Sha end  :  9 Dec 2077 23:07
+sat 1: Tra end  :  9 Dec 2077 23:30
+sat 1: Ecl start: 10 Dec 2077 18:11
+sat 2: Sha start: 10 Dec 2077 18:15
+sat 3: Ecl start: 10 Dec 2077 18:30
+sat 2: Tra start: 10 Dec 2077 19:01
+sat 2: Sha end  : 10 Dec 2077 20:31
+sat 1: Occ end  : 10 Dec 2077 20:44
+sat 2: Tra end  : 10 Dec 2077 21:20
+sat 3: Occ end  : 10 Dec 2077 22:20
+sat 1: Sha start: 11 Dec 2077 15:25
+sat 1: Tra start: 11 Dec 2077 15:50
+sat 1: Sha end  : 11 Dec 2077 17:35
+sat 1: Tra end  : 11 Dec 2077 18:01
+sat 1: Ecl start: 12 Dec 2077 12:39
+sat 2: Ecl start: 12 Dec 2077 12:53
+sat 1: Occ end  : 12 Dec 2077 15:15
+sat 2: Occ end  : 12 Dec 2077 16:05
+sat 1: Sha start: 13 Dec 2077  9:54
+sat 1: Tra start: 13 Dec 2077 10:20
+sat 1: Sha end  : 13 Dec 2077 12:04
+sat 1: Tra end  : 13 Dec 2077 12:31
+sat 1: Ecl start: 14 Dec 2077  7:08
+sat 2: Sha start: 14 Dec 2077  7:31
+sat 2: Tra start: 14 Dec 2077  8:25
+sat 3: Sha start: 14 Dec 2077  8:34
+sat 1: Occ end  : 14 Dec 2077  9:45
+sat 2: Sha end  : 14 Dec 2077  9:48
+sat 3: Tra start: 14 Dec 2077 10:21
+sat 3: Sha end  : 14 Dec 2077 10:42
+sat 2: Tra end  : 14 Dec 2077 10:43
+sat 3: Tra end  : 14 Dec 2077 12:38
+sat 1: Sha start: 15 Dec 2077  4:22
+sat 1: Tra start: 15 Dec 2077  4:50
+sat 1: Sha end  : 15 Dec 2077  6:32
+sat 1: Tra end  : 15 Dec 2077  7:01
+sat 1: Ecl start: 16 Dec 2077  1:36
+sat 2: Ecl start: 16 Dec 2077  2:12
+sat 1: Occ end  : 16 Dec 2077  4:15
+sat 2: Occ end  : 16 Dec 2077  5:31
+sat 1: Sha start: 16 Dec 2077 22:51
+sat 1: Tra start: 16 Dec 2077 23:21
+sat 1: Sha end  : 17 Dec 2077  1:01
+sat 1: Tra end  : 17 Dec 2077  1:31
+sat 1: Ecl start: 17 Dec 2077 20:05
+sat 2: Sha start: 17 Dec 2077 20:48
+sat 2: Tra start: 17 Dec 2077 21:48
+sat 3: Ecl start: 17 Dec 2077 22:28
+sat 1: Occ end  : 17 Dec 2077 22:45
+sat 2: Sha end  : 17 Dec 2077 23:04
+sat 2: Tra end  : 18 Dec 2077  0:07
+sat 3: Occ end  : 18 Dec 2077  2:47
+sat 1: Sha start: 18 Dec 2077 17:19
+sat 1: Tra start: 18 Dec 2077 17:51
+sat 1: Sha end  : 18 Dec 2077 19:29
+sat 1: Tra end  : 18 Dec 2077 20:02
+sat 1: Ecl start: 19 Dec 2077 14:33
+sat 2: Ecl start: 19 Dec 2077 15:30
+sat 1: Occ end  : 19 Dec 2077 17:15
+sat 2: Occ end  : 19 Dec 2077 18:55
+sat 1: Sha start: 20 Dec 2077 11:48
+sat 1: Tra start: 20 Dec 2077 12:21
+sat 1: Sha end  : 20 Dec 2077 13:58
+sat 1: Tra end  : 20 Dec 2077 14:32
+sat 1: Ecl start: 21 Dec 2077  9:01
+sat 2: Sha start: 21 Dec 2077 10:05
+sat 2: Tra start: 21 Dec 2077 11:11
+sat 1: Occ end  : 21 Dec 2077 11:45
+sat 2: Sha end  : 21 Dec 2077 12:21
+sat 3: Sha start: 21 Dec 2077 12:32
+sat 2: Tra end  : 21 Dec 2077 13:30
+sat 3: Sha end  : 21 Dec 2077 14:40
+sat 3: Tra start: 21 Dec 2077 14:47
+sat 3: Tra end  : 21 Dec 2077 17:04
+sat 1: Sha start: 22 Dec 2077  6:16
+sat 1: Tra start: 22 Dec 2077  6:51
+sat 1: Sha end  : 22 Dec 2077  8:26
+sat 1: Tra end  : 22 Dec 2077  9:02
+sat 1: Ecl start: 23 Dec 2077  3:30
+sat 2: Ecl start: 23 Dec 2077  4:48
+sat 1: Occ end  : 23 Dec 2077  6:15
+sat 2: Occ end  : 23 Dec 2077  8:21
+sat 1: Sha start: 24 Dec 2077  0:45
+sat 1: Tra start: 24 Dec 2077  1:21
+sat 1: Sha end  : 24 Dec 2077  2:55
+sat 1: Tra end  : 24 Dec 2077  3:32
+sat 1: Ecl start: 24 Dec 2077 21:58
+sat 2: Sha start: 24 Dec 2077 23:21
+sat 2: Tra start: 25 Dec 2077  0:35
+sat 1: Occ end  : 25 Dec 2077  0:45
+sat 2: Sha end  : 25 Dec 2077  1:38
+sat 3: Ecl start: 25 Dec 2077  2:26
+sat 2: Tra end  : 25 Dec 2077  2:53
+sat 3: Ecl end  : 25 Dec 2077  4:34
+sat 3: Occ start: 25 Dec 2077  4:55
+sat 3: Occ end  : 25 Dec 2077  7:12
+sat 1: Sha start: 25 Dec 2077 19:13
+sat 1: Tra start: 25 Dec 2077 19:52
+sat 1: Sha end  : 25 Dec 2077 21:23
+sat 1: Tra end  : 25 Dec 2077 22:02
+sat 1: Ecl start: 26 Dec 2077 16:26
+sat 2: Ecl start: 26 Dec 2077 18:06
+sat 1: Occ end  : 26 Dec 2077 19:14
+sat 2: Occ end  : 26 Dec 2077 21:45
+sat 1: Sha start: 27 Dec 2077 13:42
+sat 1: Tra start: 27 Dec 2077 14:22
+sat 1: Sha end  : 27 Dec 2077 15:52
+sat 1: Tra end  : 27 Dec 2077 16:32
+sat 1: Ecl start: 28 Dec 2077 10:54
+sat 2: Sha start: 28 Dec 2077 12:38
+sat 1: Occ end  : 28 Dec 2077 13:44
+sat 2: Tra start: 28 Dec 2077 13:58
+sat 2: Sha end  : 28 Dec 2077 14:55
+sat 2: Tra end  : 28 Dec 2077 16:16
+sat 3: Sha start: 28 Dec 2077 16:29
+sat 3: Sha end  : 28 Dec 2077 18:38
+sat 3: Tra start: 28 Dec 2077 19:11
+sat 3: Tra end  : 28 Dec 2077 21:28
+sat 1: Sha start: 29 Dec 2077  8:10
+sat 1: Tra start: 29 Dec 2077  8:52
+sat 1: Sha end  : 29 Dec 2077 10:20
+sat 1: Tra end  : 29 Dec 2077 11:02
+sat 1: Ecl start: 30 Dec 2077  5:23
+sat 2: Ecl start: 30 Dec 2077  7:24
+sat 1: Occ end  : 30 Dec 2077  8:14
+sat 2: Occ end  : 30 Dec 2077 11:10
+sat 1: Sha start: 31 Dec 2077  2:39
+sat 1: Tra start: 31 Dec 2077  3:22
+sat 1: Sha end  : 31 Dec 2077  4:49
+sat 1: Tra end  : 31 Dec 2077  5:32
+sat 1: Ecl start: 31 Dec 2077 23:51
+sat 2: Sha start:  1 Jan 2078  1:55
+sat 1: Occ end  :  1 Jan 2078  2:44
+sat 2: Tra start:  1 Jan 2078  3:20
+sat 2: Sha end  :  1 Jan 2078  4:11
+sat 2: Tra end  :  1 Jan 2078  5:39
+sat 3: Ecl start:  1 Jan 2078  6:24
+sat 3: Ecl end  :  1 Jan 2078  8:32
+sat 3: Occ start:  1 Jan 2078  9:19
+sat 3: Occ end  :  1 Jan 2078 11:36
+sat 1: Sha start:  1 Jan 2078 21:07
+sat 1: Tra start:  1 Jan 2078 21:52
+sat 1: Sha end  :  1 Jan 2078 23:17
+sat 1: Tra end  :  2 Jan 2078  0:02
+sat 1: Ecl start:  2 Jan 2078 18:19
+sat 2: Ecl start:  2 Jan 2078 20:42
+sat 1: Occ end  :  2 Jan 2078 21:14
+sat 2: Occ end  :  3 Jan 2078  0:34
+sat 1: Sha start:  3 Jan 2078 15:35
+sat 1: Tra start:  3 Jan 2078 16:22
+sat 1: Sha end  :  3 Jan 2078 17:45
+sat 1: Tra end  :  3 Jan 2078 18:32

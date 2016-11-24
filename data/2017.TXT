@@ -1,5 +1,7 @@
-JD 2457753.500000 to 2458123.500000
+JD 2457752.500000 to 2458122.500000
 Sat 1 from sun
+sat 1: Ecl start: 29 Dec 2016 11:12
+sat 1: Ecl end  : 29 Dec 2016 13:24
 sat 1: Sha start: 30 Dec 2016  8:31
 sat 1: Sha end  : 30 Dec 2016 10:44
 sat 1: Ecl start: 31 Dec 2016  5:40
@@ -838,9 +840,9 @@ sat 1: Ecl start:  3 Jan 2018  8:37
 sat 1: Ecl end  :  3 Jan 2018 10:46
 sat 1: Sha start:  4 Jan 2018  5:50
 sat 1: Sha end  :  4 Jan 2018  8:00
-sat 1: Ecl start:  5 Jan 2018  3:05
-sat 1: Ecl end  :  5 Jan 2018  5:14
 Sat 1 from earth
+sat 1: Occ start: 29 Dec 2016 12:24
+sat 1: Occ end  : 29 Dec 2016 14:35
 sat 1: Tra start: 30 Dec 2016  9:44
 sat 1: Tra end  : 30 Dec 2016 11:55
 sat 1: Occ start: 31 Dec 2016  6:52
@@ -1679,12 +1681,12 @@ sat 1: Occ start:  3 Jan 2018  9:38
 sat 1: Occ end  :  3 Jan 2018 11:46
 sat 1: Tra start:  4 Jan 2018  6:52
 sat 1: Tra end  :  4 Jan 2018  9:02
-sat 1: Occ start:  5 Jan 2018  4:07
-sat 1: Occ end  :  5 Jan 2018  6:16
 Finding hidden events
 Sat 2 from sun
+sat 2: Ecl start: 29 Dec 2016 17:34
+sat 2: Ecl end  : 29 Dec 2016 20:07
 sat 2: Sha start: 31 Dec 2016 11:48
-sat 2: Sha end  : 31 Dec 2016 14:20
+sat 2: Sha end  : 31 Dec 2016 14:19
 sat 2: Ecl start:  2 Jan 2017  6:51
 sat 2: Ecl end  :  2 Jan 2017  9:25
 sat 2: Sha start:  4 Jan 2017  1:04
@@ -2099,10 +2101,10 @@ sat 2: Sha start:  1 Jan 2018 13:17
 sat 2: Sha end  :  1 Jan 2018 15:33
 sat 2: Ecl start:  3 Jan 2018  7:53
 sat 2: Ecl end  :  3 Jan 2018 10:10
-sat 2: Sha start:  5 Jan 2018  2:33
-sat 2: Sha end  :  5 Jan 2018  4:49
 Sat 2 from earth
-sat 2: Tra start: 31 Dec 2016 14:15
+sat 2: Occ start: 29 Dec 2016 20:03
+sat 2: Occ end  : 29 Dec 2016 22:29
+sat 2: Tra start: 31 Dec 2016 14:14
 sat 2: Tra end  : 31 Dec 2016 16:40
 sat 2: Occ start:  2 Jan 2017  9:22
 sat 2: Occ end  :  2 Jan 2017 11:48
@@ -2518,12 +2520,10 @@ sat 2: Tra start:  1 Jan 2018 15:15
 sat 2: Tra end  :  1 Jan 2018 17:30
 sat 2: Occ start:  3 Jan 2018  9:58
 sat 2: Occ end  :  3 Jan 2018 12:14
-sat 2: Tra start:  5 Jan 2018  4:36
-sat 2: Tra end  :  5 Jan 2018  6:51
 Finding hidden events
 Sat 3 from sun
 sat 3: Ecl start:  1 Jan 2017  1:08
-sat 3: Ecl end  :  1 Jan 2017  3:48
+sat 3: Ecl end  :  1 Jan 2017  3:47
 sat 3: Sha start:  4 Jan 2017 14:59
 sat 3: Sha end  :  4 Jan 2017 17:39
 sat 3: Ecl start:  8 Jan 2017  5:05
@@ -2728,8 +2728,6 @@ sat 3: Sha start: 28 Dec 2017 21:49
 sat 3: Sha end  : 28 Dec 2017 23:39
 sat 3: Ecl start:  1 Jan 2018 12:01
 sat 3: Ecl end  :  1 Jan 2018 13:51
-sat 3: Sha start:  5 Jan 2018  1:46
-sat 3: Sha end  :  5 Jan 2018  3:36
 Sat 3 from earth
 sat 3: Occ start:  1 Jan 2017  6:11
 sat 3: Occ end  :  1 Jan 2017  8:31
@@ -2937,23 +2935,25 @@ sat 3: Tra start: 29 Dec 2017  1:44
 sat 3: Tra end  : 29 Dec 2017  3:29
 sat 3: Occ start:  1 Jan 2018 16:06
 sat 3: Occ end  :  1 Jan 2018 17:50
-sat 3: Tra start:  5 Jan 2018  6:02
-sat 3: Tra end  :  5 Jan 2018  7:44
 Finding hidden events
 Sat 4 from sun
 Sat 4 from earth
 Finding hidden events
-Sorting 2932 events
+Sorting 2928 events
 Final results:
+sat 1: Sha start: 30 Dec 2016  8:31
+sat 1: Tra start: 30 Dec 2016  9:44
+sat 1: Sha end  : 30 Dec 2016 10:44
+sat 1: Tra end  : 30 Dec 2016 11:55
 sat 1: Ecl start: 31 Dec 2016  5:40
 sat 1: Occ end  : 31 Dec 2016  9:03
 sat 2: Sha start: 31 Dec 2016 11:48
-sat 2: Tra start: 31 Dec 2016 14:15
-sat 2: Sha end  : 31 Dec 2016 14:20
+sat 2: Tra start: 31 Dec 2016 14:14
+sat 2: Sha end  : 31 Dec 2016 14:19
 sat 2: Tra end  : 31 Dec 2016 16:40
 sat 3: Ecl start:  1 Jan 2017  1:08
 sat 1: Sha start:  1 Jan 2017  2:59
-sat 3: Ecl end  :  1 Jan 2017  3:48
+sat 3: Ecl end  :  1 Jan 2017  3:47
 sat 1: Tra start:  1 Jan 2017  4:12
 sat 1: Sha end  :  1 Jan 2017  5:12
 sat 3: Occ start:  1 Jan 2017  6:11
@@ -5225,7 +5225,3 @@ sat 2: Ecl start:  3 Jan 2018  7:53
 sat 1: Ecl start:  3 Jan 2018  8:37
 sat 1: Occ end  :  3 Jan 2018 11:46
 sat 2: Occ end  :  3 Jan 2018 12:14
-sat 1: Sha start:  4 Jan 2018  5:50
-sat 1: Tra start:  4 Jan 2018  6:52
-sat 1: Sha end  :  4 Jan 2018  8:00
-sat 1: Tra end  :  4 Jan 2018  9:02

@@ -1,0 +1,2262 @@
+sat 1: Sha start: 30 Dec 2065  4:00
+sat 1: Tra start: 30 Dec 2065  4:46
+sat 1: Sha end  : 30 Dec 2065  6:10
+sat 1: Tra end  : 30 Dec 2065  6:56
+sat 1: Ecl start: 31 Dec 2065  1:13
+sat 2: Ecl start: 31 Dec 2065  2:33
+sat 1: Occ end  : 31 Dec 2065  4:09
+sat 2: Occ end  : 31 Dec 2065  6:43
+sat 1: Sha start: 31 Dec 2065 22:29
+sat 1: Tra start: 31 Dec 2065 23:16
+sat 1: Sha end  :  1 Jan 2066  0:38
+sat 1: Tra end  :  1 Jan 2066  1:26
+sat 1: Ecl start:  1 Jan 2066 19:42
+sat 2: Sha start:  1 Jan 2066 21:06
+sat 1: Occ end  :  1 Jan 2066 22:38
+sat 2: Tra start:  1 Jan 2066 22:40
+sat 2: Sha end  :  1 Jan 2066 23:38
+sat 3: Sha start:  2 Jan 2066  0:49
+sat 2: Tra end  :  2 Jan 2066  1:13
+sat 3: Sha end  :  2 Jan 2066  2:41
+sat 3: Tra start:  2 Jan 2066  4:00
+sat 3: Tra end  :  2 Jan 2066  6:00
+sat 1: Sha start:  2 Jan 2066 16:57
+sat 1: Tra start:  2 Jan 2066 17:46
+sat 1: Sha end  :  2 Jan 2066 19:07
+sat 1: Tra end  :  2 Jan 2066 19:56
+sat 1: Ecl start:  3 Jan 2066 14:10
+sat 2: Ecl start:  3 Jan 2066 15:51
+sat 1: Occ end  :  3 Jan 2066 17:08
+sat 2: Occ end  :  3 Jan 2066 20:07
+sat 1: Sha start:  4 Jan 2066 11:26
+sat 1: Tra start:  4 Jan 2066 12:16
+sat 1: Sha end  :  4 Jan 2066 13:35
+sat 1: Tra end  :  4 Jan 2066 14:26
+sat 1: Ecl start:  5 Jan 2066  8:38
+sat 2: Sha start:  5 Jan 2066 10:22
+sat 1: Occ end  :  5 Jan 2066 11:38
+sat 2: Tra start:  5 Jan 2066 12:03
+sat 2: Sha end  :  5 Jan 2066 12:55
+sat 2: Tra end  :  5 Jan 2066 14:36
+sat 3: Ecl start:  5 Jan 2066 14:46
+sat 3: Ecl end  :  5 Jan 2066 16:38
+sat 3: Occ start:  5 Jan 2066 18:10
+sat 3: Occ end  :  5 Jan 2066 20:10
+sat 1: Sha start:  6 Jan 2066  5:54
+sat 1: Tra start:  6 Jan 2066  6:46
+sat 1: Sha end  :  6 Jan 2066  8:04
+sat 1: Tra end  :  6 Jan 2066  8:56
+sat 1: Ecl start:  7 Jan 2066  3:07
+sat 2: Ecl start:  7 Jan 2066  5:09
+sat 1: Occ end  :  7 Jan 2066  6:07
+sat 2: Occ end  :  7 Jan 2066  9:31
+sat 1: Sha start:  8 Jan 2066  0:22
+sat 1: Tra start:  8 Jan 2066  1:16
+sat 1: Sha end  :  8 Jan 2066  2:32
+sat 1: Tra end  :  8 Jan 2066  3:26
+sat 1: Ecl start:  8 Jan 2066 21:35
+sat 2: Sha start:  8 Jan 2066 23:39
+sat 1: Occ end  :  9 Jan 2066  0:37
+sat 2: Tra start:  9 Jan 2066  1:25
+sat 2: Sha end  :  9 Jan 2066  2:11
+sat 2: Tra end  :  9 Jan 2066  3:58
+sat 3: Sha start:  9 Jan 2066  4:46
+sat 3: Sha end  :  9 Jan 2066  6:39
+sat 3: Tra start:  9 Jan 2066  8:20
+sat 3: Tra end  :  9 Jan 2066 10:20
+sat 1: Sha start:  9 Jan 2066 18:51
+sat 1: Tra start:  9 Jan 2066 19:45
+sat 1: Sha end  :  9 Jan 2066 21:01
+sat 1: Tra end  :  9 Jan 2066 21:55
+sat 1: Ecl start: 10 Jan 2066 16:03
+sat 2: Ecl start: 10 Jan 2066 18:27
+sat 1: Occ end  : 10 Jan 2066 19:07
+sat 2: Occ end  : 10 Jan 2066 22:54
+sat 1: Sha start: 11 Jan 2066 13:19
+sat 1: Tra start: 11 Jan 2066 14:15
+sat 1: Sha end  : 11 Jan 2066 15:29
+sat 1: Tra end  : 11 Jan 2066 16:25
+sat 1: Ecl start: 12 Jan 2066 10:31
+sat 2: Sha start: 12 Jan 2066 12:56
+sat 1: Occ end  : 12 Jan 2066 13:36
+sat 2: Tra start: 12 Jan 2066 14:47
+sat 2: Sha end  : 12 Jan 2066 15:28
+sat 2: Tra end  : 12 Jan 2066 17:19
+sat 3: Ecl start: 12 Jan 2066 18:44
+sat 3: Ecl end  : 12 Jan 2066 20:37
+sat 3: Occ start: 12 Jan 2066 22:31
+sat 3: Occ end  : 13 Jan 2066  0:30
+sat 1: Sha start: 13 Jan 2066  7:48
+sat 1: Tra start: 13 Jan 2066  8:45
+sat 1: Sha end  : 13 Jan 2066  9:57
+sat 1: Tra end  : 13 Jan 2066 10:55
+sat 1: Ecl start: 14 Jan 2066  5:00
+sat 2: Ecl start: 14 Jan 2066  7:45
+sat 1: Occ end  : 14 Jan 2066  8:06
+sat 2: Occ end  : 14 Jan 2066 12:17
+sat 1: Sha start: 15 Jan 2066  2:16
+sat 1: Tra start: 15 Jan 2066  3:15
+sat 1: Sha end  : 15 Jan 2066  4:26
+sat 1: Tra end  : 15 Jan 2066  5:25
+sat 1: Ecl start: 15 Jan 2066 23:28
+sat 2: Sha start: 16 Jan 2066  2:12
+sat 1: Occ end  : 16 Jan 2066  2:35
+sat 2: Tra start: 16 Jan 2066  4:08
+sat 2: Sha end  : 16 Jan 2066  4:45
+sat 2: Tra end  : 16 Jan 2066  6:41
+sat 3: Sha start: 16 Jan 2066  8:43
+sat 3: Sha end  : 16 Jan 2066 10:36
+sat 3: Tra start: 16 Jan 2066 12:38
+sat 3: Tra end  : 16 Jan 2066 14:38
+sat 1: Sha start: 16 Jan 2066 20:45
+sat 1: Tra start: 16 Jan 2066 21:44
+sat 1: Sha end  : 16 Jan 2066 22:54
+sat 1: Tra end  : 16 Jan 2066 23:54
+sat 1: Ecl start: 17 Jan 2066 17:56
+sat 2: Ecl start: 17 Jan 2066 21:03
+sat 1: Occ end  : 17 Jan 2066 21:05
+sat 2: Occ end  : 18 Jan 2066  1:40
+sat 1: Sha start: 18 Jan 2066 15:13
+sat 1: Tra start: 18 Jan 2066 16:14
+sat 1: Sha end  : 18 Jan 2066 17:23
+sat 1: Tra end  : 18 Jan 2066 18:24
+sat 1: Ecl start: 19 Jan 2066 12:24
+sat 2: Sha start: 19 Jan 2066 15:29
+sat 1: Occ end  : 19 Jan 2066 15:34
+sat 2: Tra start: 19 Jan 2066 17:29
+sat 2: Sha end  : 19 Jan 2066 18:01
+sat 2: Tra end  : 19 Jan 2066 20:02
+sat 3: Ecl start: 19 Jan 2066 22:42
+sat 3: Ecl end  : 20 Jan 2066  0:35
+sat 3: Occ start: 20 Jan 2066  2:48
+sat 3: Occ end  : 20 Jan 2066  4:48
+sat 1: Sha start: 20 Jan 2066  9:41
+sat 1: Tra start: 20 Jan 2066 10:43
+sat 1: Sha end  : 20 Jan 2066 11:51
+sat 1: Tra end  : 20 Jan 2066 12:53
+sat 1: Ecl start: 21 Jan 2066  6:53
+sat 1: Occ end  : 21 Jan 2066 10:03
+sat 2: Ecl start: 21 Jan 2066 10:21
+sat 2: Occ end  : 21 Jan 2066 15:02
+sat 1: Sha start: 22 Jan 2066  4:10
+sat 1: Tra start: 22 Jan 2066  5:13
+sat 1: Sha end  : 22 Jan 2066  6:20
+sat 1: Tra end  : 22 Jan 2066  7:23
+sat 1: Ecl start: 23 Jan 2066  1:21
+sat 1: Occ end  : 23 Jan 2066  4:33
+sat 2: Sha start: 23 Jan 2066  4:45
+sat 2: Tra start: 23 Jan 2066  6:51
+sat 2: Sha end  : 23 Jan 2066  7:18
+sat 2: Tra end  : 23 Jan 2066  9:23
+sat 3: Sha start: 23 Jan 2066 12:40
+sat 3: Sha end  : 23 Jan 2066 14:34
+sat 3: Tra start: 23 Jan 2066 16:55
+sat 3: Tra end  : 23 Jan 2066 18:54
+sat 1: Sha start: 23 Jan 2066 22:38
+sat 1: Tra start: 23 Jan 2066 23:42
+sat 1: Sha end  : 24 Jan 2066  0:48
+sat 1: Tra end  : 24 Jan 2066  1:52
+sat 1: Ecl start: 24 Jan 2066 19:49
+sat 1: Occ end  : 24 Jan 2066 23:02
+sat 2: Ecl start: 24 Jan 2066 23:39
+sat 2: Occ end  : 25 Jan 2066  4:25
+sat 1: Sha start: 25 Jan 2066 17:07
+sat 1: Tra start: 25 Jan 2066 18:12
+sat 1: Sha end  : 25 Jan 2066 19:16
+sat 1: Tra end  : 25 Jan 2066 20:22
+sat 1: Ecl start: 26 Jan 2066 14:17
+sat 1: Occ end  : 26 Jan 2066 17:31
+sat 2: Sha start: 26 Jan 2066 18:02
+sat 2: Tra start: 26 Jan 2066 20:11
+sat 2: Sha end  : 26 Jan 2066 20:34
+sat 2: Tra end  : 26 Jan 2066 22:44
+sat 3: Ecl start: 27 Jan 2066  2:39
+sat 3: Ecl end  : 27 Jan 2066  4:33
+sat 3: Occ start: 27 Jan 2066  7:03
+sat 3: Occ end  : 27 Jan 2066  9:02
+sat 1: Sha start: 27 Jan 2066 11:35
+sat 1: Tra start: 27 Jan 2066 12:41
+sat 1: Sha end  : 27 Jan 2066 13:45
+sat 1: Tra end  : 27 Jan 2066 14:51
+sat 1: Ecl start: 28 Jan 2066  8:46
+sat 1: Occ end  : 28 Jan 2066 12:01
+sat 2: Ecl start: 28 Jan 2066 12:57
+sat 2: Occ end  : 28 Jan 2066 17:46
+sat 1: Sha start: 29 Jan 2066  6:03
+sat 1: Tra start: 29 Jan 2066  7:10
+sat 1: Sha end  : 29 Jan 2066  8:13
+sat 1: Tra end  : 29 Jan 2066  9:20
+sat 1: Ecl start: 30 Jan 2066  3:14
+sat 1: Occ end  : 30 Jan 2066  6:30
+sat 2: Sha start: 30 Jan 2066  7:18
+sat 2: Tra start: 30 Jan 2066  9:32
+sat 2: Sha end  : 30 Jan 2066  9:51
+sat 2: Tra end  : 30 Jan 2066 12:04
+sat 3: Sha start: 30 Jan 2066 16:38
+sat 3: Sha end  : 30 Jan 2066 18:32
+sat 3: Tra start: 30 Jan 2066 21:08
+sat 3: Tra end  : 30 Jan 2066 23:07
+sat 1: Sha start: 31 Jan 2066  0:32
+sat 1: Tra start: 31 Jan 2066  1:40
+sat 1: Sha end  : 31 Jan 2066  2:41
+sat 1: Tra end  : 31 Jan 2066  3:50
+sat 1: Ecl start: 31 Jan 2066 21:42
+sat 1: Occ end  :  1 Feb 2066  0:59
+sat 2: Ecl start:  1 Feb 2066  2:15
+sat 2: Occ end  :  1 Feb 2066  7:08
+sat 1: Sha start:  1 Feb 2066 19:00
+sat 1: Tra start:  1 Feb 2066 20:09
+sat 1: Sha end  :  1 Feb 2066 21:10
+sat 1: Tra end  :  1 Feb 2066 22:19
+sat 1: Ecl start:  2 Feb 2066 16:10
+sat 1: Occ end  :  2 Feb 2066 19:28
+sat 2: Sha start:  2 Feb 2066 20:35
+sat 2: Tra start:  2 Feb 2066 22:52
+sat 2: Sha end  :  2 Feb 2066 23:08
+sat 2: Tra end  :  3 Feb 2066  1:24
+sat 3: Ecl start:  3 Feb 2066  6:36
+sat 3: Ecl end  :  3 Feb 2066  8:30
+sat 3: Occ start:  3 Feb 2066 11:15
+sat 3: Occ end  :  3 Feb 2066 13:13
+sat 1: Sha start:  3 Feb 2066 13:28
+sat 1: Tra start:  3 Feb 2066 14:38
+sat 1: Sha end  :  3 Feb 2066 15:38
+sat 1: Tra end  :  3 Feb 2066 16:48
+sat 1: Ecl start:  4 Feb 2066 10:39
+sat 1: Occ end  :  4 Feb 2066 13:57
+sat 2: Ecl start:  4 Feb 2066 15:32
+sat 2: Occ end  :  4 Feb 2066 20:28
+sat 1: Sha start:  5 Feb 2066  7:57
+sat 1: Tra start:  5 Feb 2066  9:07
+sat 1: Sha end  :  5 Feb 2066 10:07
+sat 1: Tra end  :  5 Feb 2066 11:17
+sat 1: Ecl start:  6 Feb 2066  5:07
+sat 1: Occ end  :  6 Feb 2066  8:26
+sat 2: Sha start:  6 Feb 2066  9:52
+sat 2: Tra start:  6 Feb 2066 12:12
+sat 2: Sha end  :  6 Feb 2066 12:24
+sat 2: Tra end  :  6 Feb 2066 14:44
+sat 3: Sha start:  6 Feb 2066 20:36
+sat 3: Sha end  :  6 Feb 2066 22:31
+sat 3: Tra start:  7 Feb 2066  1:20
+sat 1: Sha start:  7 Feb 2066  2:25
+sat 3: Tra end  :  7 Feb 2066  3:18
+sat 1: Tra start:  7 Feb 2066  3:36
+sat 1: Sha end  :  7 Feb 2066  4:35
+sat 1: Tra end  :  7 Feb 2066  5:46
+sat 1: Ecl start:  7 Feb 2066 23:35
+sat 1: Occ end  :  8 Feb 2066  2:55
+sat 2: Ecl start:  8 Feb 2066  4:50
+sat 2: Occ end  :  8 Feb 2066  9:50
+sat 1: Sha start:  8 Feb 2066 20:53
+sat 1: Tra start:  8 Feb 2066 22:05
+sat 1: Sha end  :  8 Feb 2066 23:03
+sat 1: Tra end  :  9 Feb 2066  0:15
+sat 1: Ecl start:  9 Feb 2066 18:03
+sat 1: Occ end  :  9 Feb 2066 21:24
+sat 2: Sha start:  9 Feb 2066 23:08
+sat 2: Tra start: 10 Feb 2066  1:31
+sat 2: Sha end  : 10 Feb 2066  1:41
+sat 2: Tra end  : 10 Feb 2066  4:03
+sat 3: Ecl start: 10 Feb 2066 10:32
+sat 3: Ecl end  : 10 Feb 2066 12:27
+sat 1: Sha start: 10 Feb 2066 15:22
+sat 3: Occ start: 10 Feb 2066 15:24
+sat 1: Tra start: 10 Feb 2066 16:34
+sat 3: Occ end  : 10 Feb 2066 17:21
+sat 1: Sha end  : 10 Feb 2066 17:32
+sat 1: Tra end  : 10 Feb 2066 18:44
+sat 1: Ecl start: 11 Feb 2066 12:32
+sat 1: Occ end  : 11 Feb 2066 15:53
+sat 2: Ecl start: 11 Feb 2066 18:08
+sat 2: Occ end  : 11 Feb 2066 23:09
+sat 1: Sha start: 12 Feb 2066  9:50
+sat 1: Tra start: 12 Feb 2066 11:03
+sat 1: Sha end  : 12 Feb 2066 12:00
+sat 1: Tra end  : 12 Feb 2066 13:13
+sat 1: Ecl start: 13 Feb 2066  7:00
+sat 1: Occ end  : 13 Feb 2066 10:21
+sat 2: Sha start: 13 Feb 2066 12:25
+sat 2: Tra start: 13 Feb 2066 14:50
+sat 2: Sha end  : 13 Feb 2066 14:58
+sat 2: Tra end  : 13 Feb 2066 17:22
+sat 3: Sha start: 14 Feb 2066  0:33
+sat 3: Sha end  : 14 Feb 2066  2:29
+sat 1: Sha start: 14 Feb 2066  4:19
+sat 3: Tra start: 14 Feb 2066  5:27
+sat 1: Tra start: 14 Feb 2066  5:32
+sat 1: Sha end  : 14 Feb 2066  6:28
+sat 3: Tra end  : 14 Feb 2066  7:25
+sat 1: Tra end  : 14 Feb 2066  7:42
+sat 1: Ecl start: 15 Feb 2066  1:28
+sat 1: Occ end  : 15 Feb 2066  4:50
+sat 2: Ecl start: 15 Feb 2066  7:26
+sat 2: Occ end  : 15 Feb 2066 12:29
+sat 1: Sha start: 15 Feb 2066 22:47
+sat 1: Tra start: 16 Feb 2066  0:01
+sat 1: Sha end  : 16 Feb 2066  0:57
+sat 1: Tra end  : 16 Feb 2066  2:11
+sat 1: Ecl start: 16 Feb 2066 19:56
+sat 1: Occ end  : 16 Feb 2066 23:19
+sat 2: Sha start: 17 Feb 2066  1:41
+sat 2: Tra start: 17 Feb 2066  4:09
+sat 2: Sha end  : 17 Feb 2066  4:14
+sat 2: Tra end  : 17 Feb 2066  6:40
+sat 3: Ecl start: 17 Feb 2066 14:29
+sat 3: Ecl end  : 17 Feb 2066 16:25
+sat 1: Sha start: 17 Feb 2066 17:15
+sat 1: Tra start: 17 Feb 2066 18:30
+sat 1: Sha end  : 17 Feb 2066 19:25
+sat 3: Occ start: 17 Feb 2066 19:29
+sat 1: Tra end  : 17 Feb 2066 20:39
+sat 3: Occ end  : 17 Feb 2066 21:27
+sat 1: Ecl start: 18 Feb 2066 14:24
+sat 1: Occ end  : 18 Feb 2066 17:47
+sat 2: Ecl start: 18 Feb 2066 20:43
+sat 2: Occ end  : 19 Feb 2066  1:48
+sat 1: Sha start: 19 Feb 2066 11:44
+sat 1: Tra start: 19 Feb 2066 12:58
+sat 1: Sha end  : 19 Feb 2066 13:53
+sat 1: Tra end  : 19 Feb 2066 15:08
+sat 1: Ecl start: 20 Feb 2066  8:53
+sat 1: Occ end  : 20 Feb 2066 12:16
+sat 2: Sha start: 20 Feb 2066 14:58
+sat 2: Tra start: 20 Feb 2066 17:27
+sat 2: Sha end  : 20 Feb 2066 17:31
+sat 2: Tra end  : 20 Feb 2066 19:59
+sat 3: Sha start: 21 Feb 2066  4:30
+sat 1: Sha start: 21 Feb 2066  6:12
+sat 3: Sha end  : 21 Feb 2066  6:27
+sat 1: Tra start: 21 Feb 2066  7:27
+sat 1: Sha end  : 21 Feb 2066  8:22
+sat 3: Tra start: 21 Feb 2066  9:31
+sat 1: Tra end  : 21 Feb 2066  9:37
+sat 3: Tra end  : 21 Feb 2066 11:29
+sat 1: Ecl start: 22 Feb 2066  3:21
+sat 1: Occ end  : 22 Feb 2066  6:44
+sat 2: Ecl start: 22 Feb 2066 10:01
+sat 2: Occ end  : 22 Feb 2066 15:07
+sat 1: Sha start: 23 Feb 2066  0:40
+sat 1: Tra start: 23 Feb 2066  1:56
+sat 1: Sha end  : 23 Feb 2066  2:50
+sat 1: Tra end  : 23 Feb 2066  4:05
+sat 1: Ecl start: 23 Feb 2066 21:49
+sat 1: Occ end  : 24 Feb 2066  1:13
+sat 2: Sha start: 24 Feb 2066  4:15
+sat 2: Tra start: 24 Feb 2066  6:45
+sat 2: Sha end  : 24 Feb 2066  6:48
+sat 2: Tra end  : 24 Feb 2066  9:16
+sat 3: Ecl start: 24 Feb 2066 18:26
+sat 1: Sha start: 24 Feb 2066 19:09
+sat 3: Ecl end  : 24 Feb 2066 20:23
+sat 1: Tra start: 24 Feb 2066 20:24
+sat 1: Sha end  : 24 Feb 2066 21:18
+sat 1: Tra end  : 24 Feb 2066 22:34
+sat 3: Occ start: 24 Feb 2066 23:32
+sat 3: Occ end  : 25 Feb 2066  1:28
+sat 1: Ecl start: 25 Feb 2066 16:17
+sat 1: Occ end  : 25 Feb 2066 19:41
+sat 2: Ecl start: 25 Feb 2066 23:18
+sat 2: Occ end  : 26 Feb 2066  4:24
+sat 1: Sha start: 26 Feb 2066 13:37
+sat 1: Tra start: 26 Feb 2066 14:52
+sat 1: Sha end  : 26 Feb 2066 15:47
+sat 1: Tra end  : 26 Feb 2066 17:02
+sat 1: Ecl start: 27 Feb 2066 10:46
+sat 1: Occ end  : 27 Feb 2066 14:10
+sat 2: Sha start: 27 Feb 2066 17:32
+sat 2: Tra start: 27 Feb 2066 20:02
+sat 2: Sha end  : 27 Feb 2066 20:05
+sat 2: Tra end  : 27 Feb 2066 22:34
+sat 1: Sha start: 28 Feb 2066  8:05
+sat 3: Sha start: 28 Feb 2066  8:27
+sat 1: Tra start: 28 Feb 2066  9:21
+sat 1: Sha end  : 28 Feb 2066 10:15
+sat 3: Sha end  : 28 Feb 2066 10:25
+sat 1: Tra end  : 28 Feb 2066 11:30
+sat 3: Tra start: 28 Feb 2066 13:31
+sat 3: Tra end  : 28 Feb 2066 15:28
+sat 1: Ecl start:  1 Mar 2066  5:14
+sat 1: Occ end  :  1 Mar 2066  8:38
+sat 2: Ecl start:  1 Mar 2066 12:37
+sat 2: Occ end  :  1 Mar 2066 17:42
+sat 1: Sha start:  2 Mar 2066  2:34
+sat 1: Tra start:  2 Mar 2066  3:49
+sat 1: Sha end  :  2 Mar 2066  4:43
+sat 1: Tra end  :  2 Mar 2066  5:59
+sat 1: Ecl start:  2 Mar 2066 23:42
+sat 1: Occ end  :  3 Mar 2066  3:06
+sat 2: Sha start:  3 Mar 2066  6:48
+sat 2: Tra start:  3 Mar 2066  9:19
+sat 2: Sha end  :  3 Mar 2066  9:21
+sat 2: Tra end  :  3 Mar 2066 11:50
+sat 1: Sha start:  3 Mar 2066 21:02
+sat 1: Tra start:  3 Mar 2066 22:17
+sat 3: Ecl start:  3 Mar 2066 22:24
+sat 1: Sha end  :  3 Mar 2066 23:12
+sat 3: Ecl end  :  4 Mar 2066  0:22
+sat 1: Tra end  :  4 Mar 2066  0:27
+sat 3: Occ start:  4 Mar 2066  3:31
+sat 3: Occ end  :  4 Mar 2066  5:26
+sat 1: Ecl start:  4 Mar 2066 18:10
+sat 1: Occ end  :  4 Mar 2066 21:34
+sat 2: Ecl start:  5 Mar 2066  1:54
+sat 2: Occ end  :  5 Mar 2066  6:59
+sat 1: Sha start:  5 Mar 2066 15:30
+sat 1: Tra start:  5 Mar 2066 16:46
+sat 1: Sha end  :  5 Mar 2066 17:40
+sat 1: Tra end  :  5 Mar 2066 18:55
+sat 1: Ecl start:  6 Mar 2066 12:39
+sat 1: Occ end  :  6 Mar 2066 16:02
+sat 2: Sha start:  6 Mar 2066 20:05
+sat 2: Tra start:  6 Mar 2066 22:35
+sat 2: Sha end  :  6 Mar 2066 22:38
+sat 2: Tra end  :  7 Mar 2066  1:07
+sat 1: Sha start:  7 Mar 2066  9:59
+sat 1: Tra start:  7 Mar 2066 11:14
+sat 1: Sha end  :  7 Mar 2066 12:08
+sat 3: Sha start:  7 Mar 2066 12:24
+sat 1: Tra end  :  7 Mar 2066 13:23
+sat 3: Sha end  :  7 Mar 2066 14:22
+sat 3: Tra start:  7 Mar 2066 17:26
+sat 3: Tra end  :  7 Mar 2066 19:22
+sat 1: Ecl start:  8 Mar 2066  7:07
+sat 1: Occ end  :  8 Mar 2066 10:31
+sat 2: Ecl start:  8 Mar 2066 15:12
+sat 2: Occ end  :  8 Mar 2066 20:15
+sat 1: Sha start:  9 Mar 2066  4:27
+sat 1: Tra start:  9 Mar 2066  5:42
+sat 1: Sha end  :  9 Mar 2066  6:37
+sat 1: Tra end  :  9 Mar 2066  7:51
+sat 1: Ecl start: 10 Mar 2066  1:35
+sat 1: Occ end  : 10 Mar 2066  4:58
+sat 2: Sha start: 10 Mar 2066  9:22
+sat 2: Tra start: 10 Mar 2066 11:51
+sat 2: Sha end  : 10 Mar 2066 11:55
+sat 2: Tra end  : 10 Mar 2066 14:23
+sat 1: Sha start: 10 Mar 2066 22:55
+sat 1: Tra start: 11 Mar 2066  0:10
+sat 1: Sha end  : 11 Mar 2066  1:05
+sat 1: Tra end  : 11 Mar 2066  2:19
+sat 3: Ecl start: 11 Mar 2066  2:21
+sat 3: Ecl end  : 11 Mar 2066  4:20
+sat 3: Occ start: 11 Mar 2066  7:24
+sat 3: Occ end  : 11 Mar 2066  9:19
+sat 1: Ecl start: 11 Mar 2066 20:03
+sat 1: Occ end  : 11 Mar 2066 23:26
+sat 2: Ecl start: 12 Mar 2066  4:29
+sat 2: Occ end  : 12 Mar 2066  9:31
+sat 1: Sha start: 12 Mar 2066 17:24
+sat 1: Tra start: 12 Mar 2066 18:38
+sat 1: Sha end  : 12 Mar 2066 19:33
+sat 1: Tra end  : 12 Mar 2066 20:47
+sat 1: Ecl start: 13 Mar 2066 14:32
+sat 1: Occ end  : 13 Mar 2066 17:54
+sat 2: Sha start: 13 Mar 2066 22:39
+sat 2: Tra start: 14 Mar 2066  1:07
+sat 2: Sha end  : 14 Mar 2066  1:12
+sat 2: Tra end  : 14 Mar 2066  3:38
+sat 1: Sha start: 14 Mar 2066 11:52
+sat 1: Tra start: 14 Mar 2066 13:06
+sat 1: Sha end  : 14 Mar 2066 14:02
+sat 1: Tra end  : 14 Mar 2066 15:15
+sat 3: Sha start: 14 Mar 2066 16:21
+sat 3: Sha end  : 14 Mar 2066 18:20
+sat 3: Tra start: 14 Mar 2066 21:18
+sat 3: Tra end  : 14 Mar 2066 23:14
+sat 1: Ecl start: 15 Mar 2066  9:00
+sat 1: Occ end  : 15 Mar 2066 12:22
+sat 2: Ecl start: 15 Mar 2066 17:46
+sat 2: Occ end  : 15 Mar 2066 22:47
+sat 1: Sha start: 16 Mar 2066  6:20
+sat 1: Tra start: 16 Mar 2066  7:33
+sat 1: Sha end  : 16 Mar 2066  8:30
+sat 1: Tra end  : 16 Mar 2066  9:43
+sat 1: Ecl start: 17 Mar 2066  3:28
+sat 1: Occ end  : 17 Mar 2066  6:50
+sat 2: Sha start: 17 Mar 2066 11:56
+sat 2: Tra start: 17 Mar 2066 14:22
+sat 2: Sha end  : 17 Mar 2066 14:29
+sat 2: Tra end  : 17 Mar 2066 16:53
+sat 1: Sha start: 18 Mar 2066  0:49
+sat 1: Tra start: 18 Mar 2066  2:01
+sat 1: Sha end  : 18 Mar 2066  2:58
+sat 1: Tra end  : 18 Mar 2066  4:10
+sat 3: Ecl start: 18 Mar 2066  6:19
+sat 3: Ecl end  : 18 Mar 2066  8:18
+sat 3: Occ start: 18 Mar 2066 11:14
+sat 3: Occ end  : 18 Mar 2066 13:08
+sat 1: Ecl start: 18 Mar 2066 21:56
+sat 1: Occ end  : 19 Mar 2066  1:17
+sat 2: Ecl start: 19 Mar 2066  7:04
+sat 2: Occ end  : 19 Mar 2066 12:01
+sat 1: Sha start: 19 Mar 2066 19:17
+sat 1: Tra start: 19 Mar 2066 20:29
+sat 1: Sha end  : 19 Mar 2066 21:27
+sat 1: Tra end  : 19 Mar 2066 22:38
+sat 1: Ecl start: 20 Mar 2066 16:25
+sat 1: Occ end  : 20 Mar 2066 19:45
+sat 2: Sha start: 21 Mar 2066  1:13
+sat 2: Tra start: 21 Mar 2066  3:36
+sat 2: Sha end  : 21 Mar 2066  3:46
+sat 2: Tra end  : 21 Mar 2066  6:07
+sat 1: Sha start: 21 Mar 2066 13:45
+sat 1: Tra start: 21 Mar 2066 14:56
+sat 1: Sha end  : 21 Mar 2066 15:55
+sat 1: Tra end  : 21 Mar 2066 17:06
+sat 3: Sha start: 21 Mar 2066 20:18
+sat 3: Sha end  : 21 Mar 2066 22:18
+sat 3: Tra start: 22 Mar 2066  1:06
+sat 3: Tra end  : 22 Mar 2066  3:00
+sat 1: Ecl start: 22 Mar 2066 10:53
+sat 1: Occ end  : 22 Mar 2066 14:13
+sat 2: Ecl start: 22 Mar 2066 20:21
+sat 2: Occ end  : 23 Mar 2066  1:15
+sat 1: Sha start: 23 Mar 2066  8:14
+sat 1: Tra start: 23 Mar 2066  9:24
+sat 1: Sha end  : 23 Mar 2066 10:23
+sat 1: Tra end  : 23 Mar 2066 11:33
+sat 1: Ecl start: 24 Mar 2066  5:21
+sat 1: Occ end  : 24 Mar 2066  8:40
+sat 2: Sha start: 24 Mar 2066 14:30
+sat 2: Tra start: 24 Mar 2066 16:50
+sat 2: Sha end  : 24 Mar 2066 17:03
+sat 2: Tra end  : 24 Mar 2066 19:21
+sat 1: Sha start: 25 Mar 2066  2:42
+sat 1: Tra start: 25 Mar 2066  3:51
+sat 1: Sha end  : 25 Mar 2066  4:52
+sat 1: Tra end  : 25 Mar 2066  6:00
+sat 3: Ecl start: 25 Mar 2066 10:15
+sat 3: Ecl end  : 25 Mar 2066 12:15
+sat 3: Occ start: 25 Mar 2066 14:59
+sat 3: Occ end  : 25 Mar 2066 16:52
+sat 1: Ecl start: 25 Mar 2066 23:50
+sat 1: Occ end  : 26 Mar 2066  3:07
+sat 2: Ecl start: 26 Mar 2066  9:38
+sat 2: Occ end  : 26 Mar 2066 14:29
+sat 1: Sha start: 26 Mar 2066 21:10
+sat 1: Tra start: 26 Mar 2066 22:19
+sat 1: Sha end  : 26 Mar 2066 23:20
+sat 1: Tra end  : 27 Mar 2066  0:28
+sat 1: Ecl start: 27 Mar 2066 18:18
+sat 1: Occ end  : 27 Mar 2066 21:35
+sat 2: Sha start: 28 Mar 2066  3:47
+sat 2: Tra start: 28 Mar 2066  6:03
+sat 2: Sha end  : 28 Mar 2066  6:21
+sat 2: Tra end  : 28 Mar 2066  8:35
+sat 1: Sha start: 28 Mar 2066 15:38
+sat 1: Tra start: 28 Mar 2066 16:46
+sat 1: Sha end  : 28 Mar 2066 17:48
+sat 1: Tra end  : 28 Mar 2066 18:55
+sat 3: Sha start: 29 Mar 2066  0:16
+sat 3: Sha end  : 29 Mar 2066  2:17
+sat 3: Tra start: 29 Mar 2066  4:50
+sat 3: Tra end  : 29 Mar 2066  6:43
+sat 1: Ecl start: 29 Mar 2066 12:46
+sat 1: Occ end  : 29 Mar 2066 16:02
+sat 2: Ecl start: 29 Mar 2066 22:56
+sat 2: Occ end  : 30 Mar 2066  3:42
+sat 1: Sha start: 30 Mar 2066 10:07
+sat 1: Tra start: 30 Mar 2066 11:13
+sat 1: Sha end  : 30 Mar 2066 12:17
+sat 1: Tra end  : 30 Mar 2066 13:22
+sat 1: Ecl start: 31 Mar 2066  7:14
+sat 1: Occ end  : 31 Mar 2066 10:29
+sat 2: Sha start: 31 Mar 2066 17:04
+sat 2: Tra start: 31 Mar 2066 19:16
+sat 2: Sha end  : 31 Mar 2066 19:38
+sat 2: Tra end  : 31 Mar 2066 21:47
+sat 1: Sha start:  1 Apr 2066  4:35
+sat 1: Tra start:  1 Apr 2066  5:40
+sat 1: Sha end  :  1 Apr 2066  6:45
+sat 1: Tra end  :  1 Apr 2066  7:49
+sat 3: Ecl start:  1 Apr 2066 14:12
+sat 3: Ecl end  :  1 Apr 2066 16:13
+sat 3: Occ start:  1 Apr 2066 18:39
+sat 3: Occ end  :  1 Apr 2066 20:31
+sat 1: Ecl start:  2 Apr 2066  1:43
+sat 1: Occ end  :  2 Apr 2066  4:56
+sat 2: Ecl start:  2 Apr 2066 12:13
+sat 2: Occ end  :  2 Apr 2066 16:54
+sat 1: Sha start:  2 Apr 2066 23:03
+sat 1: Tra start:  3 Apr 2066  0:08
+sat 1: Sha end  :  3 Apr 2066  1:13
+sat 1: Tra end  :  3 Apr 2066  2:17
+sat 1: Ecl start:  3 Apr 2066 20:11
+sat 1: Occ end  :  3 Apr 2066 23:23
+sat 2: Sha start:  4 Apr 2066  6:21
+sat 2: Tra start:  4 Apr 2066  8:29
+sat 2: Sha end  :  4 Apr 2066  8:55
+sat 2: Tra end  :  4 Apr 2066 11:00
+sat 1: Sha start:  4 Apr 2066 17:32
+sat 1: Tra start:  4 Apr 2066 18:35
+sat 1: Sha end  :  4 Apr 2066 19:42
+sat 1: Tra end  :  4 Apr 2066 20:44
+sat 3: Sha start:  5 Apr 2066  4:13
+sat 3: Sha end  :  5 Apr 2066  6:15
+sat 3: Tra start:  5 Apr 2066  8:28
+sat 3: Tra end  :  5 Apr 2066 10:21
+sat 1: Ecl start:  5 Apr 2066 14:39
+sat 1: Occ end  :  5 Apr 2066 17:51
+sat 2: Ecl start:  6 Apr 2066  1:30
+sat 2: Occ end  :  6 Apr 2066  6:06
+sat 1: Sha start:  6 Apr 2066 12:00
+sat 1: Tra start:  6 Apr 2066 13:02
+sat 1: Sha end  :  6 Apr 2066 14:10
+sat 1: Tra end  :  6 Apr 2066 15:11
+sat 1: Ecl start:  7 Apr 2066  9:08
+sat 1: Occ end  :  7 Apr 2066 12:17
+sat 2: Sha start:  7 Apr 2066 19:38
+sat 2: Tra start:  7 Apr 2066 21:40
+sat 2: Sha end  :  7 Apr 2066 22:12
+sat 2: Tra end  :  8 Apr 2066  0:11
+sat 1: Sha start:  8 Apr 2066  6:29
+sat 1: Tra start:  8 Apr 2066  7:29
+sat 1: Sha end  :  8 Apr 2066  8:38
+sat 1: Tra end  :  8 Apr 2066  9:37
+sat 3: Ecl start:  8 Apr 2066 18:10
+sat 3: Ecl end  :  8 Apr 2066 20:11
+sat 3: Occ start:  8 Apr 2066 22:15
+sat 3: Occ end  :  9 Apr 2066  0:07
+sat 1: Ecl start:  9 Apr 2066  3:36
+sat 1: Occ end  :  9 Apr 2066  6:44
+sat 2: Ecl start:  9 Apr 2066 14:47
+sat 2: Occ end  :  9 Apr 2066 19:17
+sat 1: Sha start: 10 Apr 2066  0:57
+sat 1: Tra start: 10 Apr 2066  1:55
+sat 1: Sha end  : 10 Apr 2066  3:07
+sat 1: Tra end  : 10 Apr 2066  4:04
+sat 1: Ecl start: 10 Apr 2066 22:04
+sat 1: Occ end  : 11 Apr 2066  1:11
+sat 2: Sha start: 11 Apr 2066  8:56
+sat 2: Tra start: 11 Apr 2066 10:52
+sat 2: Sha end  : 11 Apr 2066 11:30
+sat 2: Tra end  : 11 Apr 2066 13:23
+sat 1: Sha start: 11 Apr 2066 19:25
+sat 1: Tra start: 11 Apr 2066 20:22
+sat 1: Sha end  : 11 Apr 2066 21:35
+sat 1: Tra end  : 11 Apr 2066 22:31
+sat 3: Sha start: 12 Apr 2066  8:11
+sat 3: Sha end  : 12 Apr 2066 10:13
+sat 3: Tra start: 12 Apr 2066 12:02
+sat 3: Tra end  : 12 Apr 2066 13:54
+sat 1: Ecl start: 12 Apr 2066 16:33
+sat 1: Occ end  : 12 Apr 2066 19:38
+sat 2: Ecl start: 13 Apr 2066  4:05
+sat 2: Occ end  : 13 Apr 2066  8:28
+sat 1: Sha start: 13 Apr 2066 13:54
+sat 1: Tra start: 13 Apr 2066 14:49
+sat 1: Sha end  : 13 Apr 2066 16:03
+sat 1: Tra end  : 13 Apr 2066 16:58
+sat 1: Ecl start: 14 Apr 2066 11:01
+sat 1: Occ end  : 14 Apr 2066 14:05
+sat 2: Sha start: 14 Apr 2066 22:13
+sat 2: Tra start: 15 Apr 2066  0:02
+sat 2: Sha end  : 15 Apr 2066  0:47
+sat 2: Tra end  : 15 Apr 2066  2:33
+sat 1: Sha start: 15 Apr 2066  8:22
+sat 1: Tra start: 15 Apr 2066  9:16
+sat 1: Sha end  : 15 Apr 2066 10:32
+sat 1: Tra end  : 15 Apr 2066 11:24
+sat 3: Ecl start: 15 Apr 2066 22:07
+sat 3: Ecl end  : 16 Apr 2066  0:10
+sat 3: Occ start: 16 Apr 2066  1:47
+sat 3: Occ end  : 16 Apr 2066  3:38
+sat 1: Ecl start: 16 Apr 2066  5:30
+sat 1: Occ end  : 16 Apr 2066  8:31
+sat 2: Ecl start: 16 Apr 2066 17:22
+sat 2: Occ end  : 16 Apr 2066 21:37
+sat 1: Sha start: 17 Apr 2066  2:50
+sat 1: Tra start: 17 Apr 2066  3:42
+sat 1: Sha end  : 17 Apr 2066  5:00
+sat 1: Tra end  : 17 Apr 2066  5:51
+sat 1: Ecl start: 17 Apr 2066 23:58
+sat 1: Occ end  : 18 Apr 2066  2:58
+sat 2: Sha start: 18 Apr 2066 11:30
+sat 2: Tra start: 18 Apr 2066 13:13
+sat 2: Sha end  : 18 Apr 2066 14:05
+sat 2: Tra end  : 18 Apr 2066 15:44
+sat 1: Sha start: 18 Apr 2066 21:19
+sat 1: Tra start: 18 Apr 2066 22:09
+sat 1: Sha end  : 18 Apr 2066 23:28
+sat 1: Tra end  : 19 Apr 2066  0:18
+sat 3: Sha start: 19 Apr 2066 12:08
+sat 3: Sha end  : 19 Apr 2066 14:11
+sat 3: Tra start: 19 Apr 2066 15:31
+sat 3: Tra end  : 19 Apr 2066 17:22
+sat 1: Ecl start: 19 Apr 2066 18:26
+sat 1: Occ end  : 19 Apr 2066 21:25
+sat 2: Ecl start: 20 Apr 2066  6:39
+sat 2: Occ end  : 20 Apr 2066 10:47
+sat 1: Sha start: 20 Apr 2066 15:47
+sat 1: Tra start: 20 Apr 2066 16:35
+sat 1: Sha end  : 20 Apr 2066 17:57
+sat 1: Tra end  : 20 Apr 2066 18:44
+sat 1: Ecl start: 21 Apr 2066 12:55
+sat 1: Occ end  : 21 Apr 2066 15:51
+sat 2: Sha start: 22 Apr 2066  0:48
+sat 2: Tra start: 22 Apr 2066  2:23
+sat 2: Sha end  : 22 Apr 2066  3:22
+sat 2: Tra end  : 22 Apr 2066  4:54
+sat 1: Sha start: 22 Apr 2066 10:15
+sat 1: Tra start: 22 Apr 2066 11:02
+sat 1: Sha end  : 22 Apr 2066 12:25
+sat 1: Tra end  : 22 Apr 2066 13:10
+sat 3: Ecl start: 23 Apr 2066  2:06
+sat 3: Ecl end  : 23 Apr 2066  4:09
+sat 3: Occ start: 23 Apr 2066  5:16
+sat 3: Occ end  : 23 Apr 2066  7:06
+sat 1: Ecl start: 23 Apr 2066  7:23
+sat 1: Occ end  : 23 Apr 2066 10:17
+sat 2: Ecl start: 23 Apr 2066 19:56
+sat 2: Occ end  : 23 Apr 2066 23:56
+sat 1: Sha start: 24 Apr 2066  4:44
+sat 1: Tra start: 24 Apr 2066  5:28
+sat 1: Sha end  : 24 Apr 2066  6:53
+sat 1: Tra end  : 24 Apr 2066  7:37
+sat 1: Ecl start: 25 Apr 2066  1:51
+sat 1: Occ end  : 25 Apr 2066  4:44
+sat 2: Sha start: 25 Apr 2066 14:05
+sat 2: Tra start: 25 Apr 2066 15:32
+sat 2: Sha end  : 25 Apr 2066 16:40
+sat 2: Tra end  : 25 Apr 2066 18:03
+sat 1: Sha start: 25 Apr 2066 23:12
+sat 1: Tra start: 25 Apr 2066 23:54
+sat 1: Sha end  : 26 Apr 2066  1:22
+sat 1: Tra end  : 26 Apr 2066  2:03
+sat 3: Sha start: 26 Apr 2066 16:04
+sat 3: Sha end  : 26 Apr 2066 18:09
+sat 3: Tra start: 26 Apr 2066 18:56
+sat 1: Ecl start: 26 Apr 2066 20:20
+sat 3: Tra end  : 26 Apr 2066 20:47
+sat 1: Occ end  : 26 Apr 2066 23:10
+sat 2: Ecl start: 27 Apr 2066  9:14
+sat 2: Occ end  : 27 Apr 2066 13:05
+sat 1: Sha start: 27 Apr 2066 17:40
+sat 1: Tra start: 27 Apr 2066 18:21
+sat 1: Sha end  : 27 Apr 2066 19:50
+sat 1: Tra end  : 27 Apr 2066 20:29
+sat 1: Ecl start: 28 Apr 2066 14:48
+sat 1: Occ end  : 28 Apr 2066 17:37
+sat 2: Sha start: 29 Apr 2066  3:23
+sat 2: Tra start: 29 Apr 2066  4:41
+sat 2: Sha end  : 29 Apr 2066  5:57
+sat 2: Tra end  : 29 Apr 2066  7:12
+sat 1: Sha start: 29 Apr 2066 12:09
+sat 1: Tra start: 29 Apr 2066 12:47
+sat 1: Sha end  : 29 Apr 2066 14:19
+sat 1: Tra end  : 29 Apr 2066 14:56
+sat 3: Ecl start: 30 Apr 2066  6:03
+sat 3: Ecl end  : 30 Apr 2066  8:08
+sat 3: Occ start: 30 Apr 2066  8:40
+sat 1: Ecl start: 30 Apr 2066  9:17
+sat 3: Occ end  : 30 Apr 2066 10:29
+sat 1: Occ end  : 30 Apr 2066 12:03
+sat 2: Ecl start: 30 Apr 2066 22:30
+sat 2: Occ end  :  1 May 2066  2:14
+sat 1: Sha start:  1 May 2066  6:37
+sat 1: Tra start:  1 May 2066  7:13
+sat 1: Sha end  :  1 May 2066  8:47
+sat 1: Tra end  :  1 May 2066  9:22
+sat 1: Ecl start:  2 May 2066  3:45
+sat 1: Occ end  :  2 May 2066  6:29
+sat 2: Sha start:  2 May 2066 16:41
+sat 2: Tra start:  2 May 2066 17:50
+sat 2: Sha end  :  2 May 2066 19:15
+sat 2: Tra end  :  2 May 2066 20:21
+sat 1: Sha start:  3 May 2066  1:06
+sat 1: Tra start:  3 May 2066  1:39
+sat 1: Sha end  :  3 May 2066  3:15
+sat 1: Tra end  :  3 May 2066  3:48
+sat 3: Sha start:  3 May 2066 20:02
+sat 3: Sha end  :  3 May 2066 22:08
+sat 1: Ecl start:  3 May 2066 22:14
+sat 3: Tra start:  3 May 2066 22:19
+sat 3: Tra end  :  4 May 2066  0:09
+sat 1: Occ end  :  4 May 2066  0:55
+sat 2: Ecl start:  4 May 2066 11:48
+sat 2: Occ end  :  4 May 2066 15:22
+sat 1: Sha start:  4 May 2066 19:34
+sat 1: Tra start:  4 May 2066 20:05
+sat 1: Sha end  :  4 May 2066 21:44
+sat 1: Tra end  :  4 May 2066 22:14
+sat 1: Ecl start:  5 May 2066 16:42
+sat 1: Occ end  :  5 May 2066 19:21
+sat 2: Sha start:  6 May 2066  5:58
+sat 2: Tra start:  6 May 2066  6:58
+sat 2: Sha end  :  6 May 2066  8:33
+sat 2: Tra end  :  6 May 2066  9:29
+sat 1: Sha start:  6 May 2066 14:02
+sat 1: Tra start:  6 May 2066 14:31
+sat 1: Sha end  :  6 May 2066 16:12
+sat 1: Tra end  :  6 May 2066 16:40
+sat 3: Ecl start:  7 May 2066 10:01
+sat 1: Ecl start:  7 May 2066 11:11
+sat 1: Occ end  :  7 May 2066 13:48
+sat 3: Occ end  :  7 May 2066 13:50
+sat 2: Ecl start:  8 May 2066  1:05
+sat 2: Occ end  :  8 May 2066  4:29
+sat 1: Sha start:  8 May 2066  8:31
+sat 1: Tra start:  8 May 2066  8:58
+sat 1: Sha end  :  8 May 2066 10:41
+sat 1: Tra end  :  8 May 2066 11:06
+sat 1: Ecl start:  9 May 2066  5:39
+sat 1: Occ end  :  9 May 2066  8:14
+sat 2: Sha start:  9 May 2066 19:16
+sat 2: Tra start:  9 May 2066 20:07
+sat 2: Sha end  :  9 May 2066 21:51
+sat 2: Tra end  :  9 May 2066 22:38
+sat 1: Sha start: 10 May 2066  2:59
+sat 1: Tra start: 10 May 2066  3:24
+sat 1: Sha end  : 10 May 2066  5:09
+sat 1: Tra end  : 10 May 2066  5:32
+sat 3: Sha start: 11 May 2066  0:00
+sat 1: Ecl start: 11 May 2066  0:08
+sat 3: Tra start: 11 May 2066  1:39
+sat 3: Sha end  : 11 May 2066  2:06
+sat 1: Occ end  : 11 May 2066  2:40
+sat 3: Tra end  : 11 May 2066  3:29
+sat 2: Ecl start: 11 May 2066 14:22
+sat 2: Occ end  : 11 May 2066 17:37
+sat 1: Sha start: 11 May 2066 21:28
+sat 1: Tra start: 11 May 2066 21:50
+sat 1: Sha end  : 11 May 2066 23:37
+sat 1: Tra end  : 11 May 2066 23:58
+sat 1: Ecl start: 12 May 2066 18:36
+sat 1: Occ end  : 12 May 2066 21:06
+sat 2: Sha start: 13 May 2066  8:34
+sat 2: Tra start: 13 May 2066  9:14
+sat 2: Sha end  : 13 May 2066 11:08
+sat 2: Tra end  : 13 May 2066 11:46
+sat 1: Sha start: 13 May 2066 15:56
+sat 1: Tra start: 13 May 2066 16:16
+sat 1: Sha end  : 13 May 2066 18:06
+sat 1: Tra end  : 13 May 2066 18:24
+sat 1: Ecl start: 14 May 2066 13:05
+sat 3: Ecl start: 14 May 2066 13:59
+sat 1: Occ end  : 14 May 2066 15:32
+sat 3: Occ end  : 14 May 2066 17:08
+sat 2: Ecl start: 15 May 2066  3:39
+sat 2: Occ end  : 15 May 2066  6:44
+sat 1: Sha start: 15 May 2066 10:25
+sat 1: Tra start: 15 May 2066 10:41
+sat 1: Sha end  : 15 May 2066 12:34
+sat 1: Tra end  : 15 May 2066 12:50
+sat 1: Ecl start: 16 May 2066  7:33
+sat 1: Occ end  : 16 May 2066  9:58
+sat 2: Sha start: 16 May 2066 21:52
+sat 2: Tra start: 16 May 2066 22:22
+sat 2: Sha end  : 17 May 2066  0:27
+sat 2: Tra end  : 17 May 2066  0:54
+sat 1: Sha start: 17 May 2066  4:53
+sat 1: Tra start: 17 May 2066  5:07
+sat 1: Sha end  : 17 May 2066  7:03
+sat 1: Tra end  : 17 May 2066  7:16
+sat 1: Ecl start: 18 May 2066  2:02
+sat 3: Sha start: 18 May 2066  3:58
+sat 1: Occ end  : 18 May 2066  4:24
+sat 3: Tra start: 18 May 2066  4:57
+sat 3: Sha end  : 18 May 2066  6:06
+sat 3: Tra end  : 18 May 2066  6:48
+sat 2: Ecl start: 18 May 2066 16:56
+sat 2: Occ end  : 18 May 2066 19:51
+sat 1: Sha start: 18 May 2066 23:21
+sat 1: Tra start: 18 May 2066 23:33
+sat 1: Sha end  : 19 May 2066  1:31
+sat 1: Tra end  : 19 May 2066  1:42
+sat 1: Ecl start: 19 May 2066 20:30
+sat 1: Occ end  : 19 May 2066 22:50
+sat 2: Sha start: 20 May 2066 11:09
+sat 2: Tra start: 20 May 2066 11:30
+sat 2: Sha end  : 20 May 2066 13:44
+sat 2: Tra end  : 20 May 2066 14:01
+sat 1: Sha start: 20 May 2066 17:50
+sat 1: Tra start: 20 May 2066 17:59
+sat 1: Sha end  : 20 May 2066 20:00
+sat 1: Tra end  : 20 May 2066 20:08
+sat 1: Ecl start: 21 May 2066 14:59
+sat 1: Occ end  : 21 May 2066 17:16
+sat 3: Ecl start: 21 May 2066 17:56
+sat 3: Occ end  : 21 May 2066 20:25
+sat 2: Ecl start: 22 May 2066  6:13
+sat 2: Occ end  : 22 May 2066  8:58
+sat 1: Sha start: 22 May 2066 12:18
+sat 1: Tra start: 22 May 2066 12:25
+sat 1: Sha end  : 22 May 2066 14:28
+sat 1: Tra end  : 22 May 2066 14:34
+sat 1: Ecl start: 23 May 2066  9:27
+sat 1: Occ end  : 23 May 2066 11:42
+sat 2: Sha start: 24 May 2066  0:28
+sat 2: Tra start: 24 May 2066  0:38
+sat 2: Sha end  : 24 May 2066  3:03
+sat 2: Tra end  : 24 May 2066  3:09
+sat 1: Sha start: 24 May 2066  6:47
+sat 1: Tra start: 24 May 2066  6:51
+sat 1: Sha end  : 24 May 2066  8:57
+sat 1: Tra end  : 24 May 2066  9:00
+sat 1: Ecl start: 25 May 2066  3:56
+sat 1: Occ end  : 25 May 2066  6:08
+sat 3: Sha start: 25 May 2066  7:56
+sat 3: Tra start: 25 May 2066  8:13
+sat 3: Sha end  : 25 May 2066 10:04
+sat 3: Tra end  : 25 May 2066 10:05
+sat 2: Ecl start: 25 May 2066 19:30
+sat 2: Occ end  : 25 May 2066 22:05
+sat 1: Sha start: 26 May 2066  1:15
+sat 1: Tra start: 26 May 2066  1:17
+sat 1: Sha end  : 26 May 2066  3:25
+sat 1: Tra end  : 26 May 2066  3:26
+sat 1: Ecl start: 26 May 2066 22:24
+sat 1: Ecl end  : 27 May 2066  0:35
+sat 2: Tra start: 27 May 2066 13:45
+sat 2: Sha start: 27 May 2066 13:46
+sat 2: Tra end  : 27 May 2066 16:17
+sat 2: Sha end  : 27 May 2066 16:20
+sat 1: Tra start: 27 May 2066 19:43
+sat 1: Sha start: 27 May 2066 19:44
+sat 1: Tra end  : 27 May 2066 21:52
+sat 1: Sha end  : 27 May 2066 21:54
+sat 1: Occ start: 28 May 2066 16:51
+sat 1: Ecl end  : 28 May 2066 19:03
+sat 3: Occ start: 28 May 2066 21:51
+sat 3: Ecl end  : 29 May 2066  0:03
+sat 2: Occ start: 29 May 2066  8:41
+sat 2: Ecl end  : 29 May 2066 11:21
+sat 1: Tra start: 29 May 2066 14:09
+sat 1: Sha start: 29 May 2066 14:12
+sat 1: Tra end  : 29 May 2066 16:17
+sat 1: Sha end  : 29 May 2066 16:22
+sat 1: Occ start: 30 May 2066 11:17
+sat 1: Ecl end  : 30 May 2066 13:32
+sat 2: Tra start: 31 May 2066  2:53
+sat 2: Sha start: 31 May 2066  3:04
+sat 2: Tra end  : 31 May 2066  5:25
+sat 2: Sha end  : 31 May 2066  5:39
+sat 1: Tra start: 31 May 2066  8:35
+sat 1: Sha start: 31 May 2066  8:41
+sat 1: Tra end  : 31 May 2066 10:43
+sat 1: Sha end  : 31 May 2066 10:51
+sat 1: Occ start:  1 Jun 2066  5:43
+sat 1: Ecl end  :  1 Jun 2066  8:01
+sat 3: Tra start:  1 Jun 2066 11:29
+sat 3: Sha start:  1 Jun 2066 11:54
+sat 3: Tra end  :  1 Jun 2066 13:22
+sat 3: Sha end  :  1 Jun 2066 14:03
+sat 2: Occ start:  1 Jun 2066 21:48
+sat 2: Ecl end  :  2 Jun 2066  0:38
+sat 1: Tra start:  2 Jun 2066  3:01
+sat 1: Sha start:  2 Jun 2066  3:09
+sat 1: Tra end  :  2 Jun 2066  5:09
+sat 1: Sha end  :  2 Jun 2066  5:19
+sat 1: Occ start:  3 Jun 2066  0:09
+sat 1: Ecl end  :  3 Jun 2066  2:29
+sat 2: Tra start:  3 Jun 2066 16:00
+sat 2: Sha start:  3 Jun 2066 16:22
+sat 2: Tra end  :  3 Jun 2066 18:32
+sat 2: Sha end  :  3 Jun 2066 18:57
+sat 1: Tra start:  3 Jun 2066 21:27
+sat 1: Sha start:  3 Jun 2066 21:38
+sat 1: Tra end  :  3 Jun 2066 23:35
+sat 1: Sha end  :  3 Jun 2066 23:48
+sat 1: Occ start:  4 Jun 2066 18:35
+sat 1: Ecl end  :  4 Jun 2066 20:58
+sat 3: Occ start:  5 Jun 2066  1:07
+sat 3: Ecl end  :  5 Jun 2066  4:02
+sat 2: Occ start:  5 Jun 2066 10:55
+sat 2: Ecl end  :  5 Jun 2066 13:55
+sat 1: Tra start:  5 Jun 2066 15:53
+sat 1: Sha start:  5 Jun 2066 16:06
+sat 1: Tra end  :  5 Jun 2066 18:01
+sat 1: Sha end  :  5 Jun 2066 18:16
+sat 1: Occ start:  6 Jun 2066 13:01
+sat 1: Ecl end  :  6 Jun 2066 15:26
+sat 2: Tra start:  7 Jun 2066  5:08
+sat 2: Sha start:  7 Jun 2066  5:40
+sat 2: Tra end  :  7 Jun 2066  7:41
+sat 2: Sha end  :  7 Jun 2066  8:16
+sat 1: Tra start:  7 Jun 2066 10:19
+sat 1: Sha start:  7 Jun 2066 10:35
+sat 1: Tra end  :  7 Jun 2066 12:27
+sat 1: Sha end  :  7 Jun 2066 12:45
+sat 1: Occ start:  8 Jun 2066  7:27
+sat 1: Ecl end  :  8 Jun 2066  9:55
+sat 3: Tra start:  8 Jun 2066 14:45
+sat 3: Sha start:  8 Jun 2066 15:52
+sat 3: Tra end  :  8 Jun 2066 16:40
+sat 3: Sha end  :  8 Jun 2066 18:02
+sat 2: Occ start:  9 Jun 2066  0:02
+sat 2: Ecl end  :  9 Jun 2066  3:12
+sat 1: Tra start:  9 Jun 2066  4:45
+sat 1: Sha start:  9 Jun 2066  5:03
+sat 1: Tra end  :  9 Jun 2066  6:53
+sat 1: Sha end  :  9 Jun 2066  7:13
+sat 1: Occ start: 10 Jun 2066  1:53
+sat 1: Ecl end  : 10 Jun 2066  4:24
+sat 2: Tra start: 10 Jun 2066 18:16
+sat 2: Sha start: 10 Jun 2066 18:58
+sat 2: Tra end  : 10 Jun 2066 20:49
+sat 2: Sha end  : 10 Jun 2066 21:34
+sat 1: Tra start: 10 Jun 2066 23:11
+sat 1: Sha start: 10 Jun 2066 23:32
+sat 1: Tra end  : 11 Jun 2066  1:20
+sat 1: Sha end  : 11 Jun 2066  1:42
+sat 1: Occ start: 11 Jun 2066 20:19
+sat 1: Ecl end  : 11 Jun 2066 22:52
+sat 3: Occ start: 12 Jun 2066  4:25
+sat 3: Ecl end  : 12 Jun 2066  8:03
+sat 2: Occ start: 12 Jun 2066 13:09
+sat 2: Ecl end  : 12 Jun 2066 16:29
+sat 1: Tra start: 12 Jun 2066 17:37
+sat 1: Sha start: 12 Jun 2066 18:00
+sat 1: Tra end  : 12 Jun 2066 19:46
+sat 1: Sha end  : 12 Jun 2066 20:10
+sat 1: Occ start: 13 Jun 2066 14:46
+sat 1: Ecl end  : 13 Jun 2066 17:21
+sat 2: Tra start: 14 Jun 2066  7:25
+sat 2: Sha start: 14 Jun 2066  8:17
+sat 2: Tra end  : 14 Jun 2066  9:57
+sat 2: Sha end  : 14 Jun 2066 10:52
+sat 1: Tra start: 14 Jun 2066 12:03
+sat 1: Sha start: 14 Jun 2066 12:29
+sat 1: Tra end  : 14 Jun 2066 14:12
+sat 1: Sha end  : 14 Jun 2066 14:39
+sat 1: Occ start: 15 Jun 2066  9:12
+sat 1: Ecl end  : 15 Jun 2066 11:50
+sat 3: Tra start: 15 Jun 2066 18:03
+sat 3: Sha start: 15 Jun 2066 19:49
+sat 3: Tra end  : 15 Jun 2066 19:59
+sat 3: Sha end  : 15 Jun 2066 22:01
+sat 2: Occ start: 16 Jun 2066  2:17
+sat 2: Ecl end  : 16 Jun 2066  5:47
+sat 1: Tra start: 16 Jun 2066  6:29
+sat 1: Sha start: 16 Jun 2066  6:57
+sat 1: Tra end  : 16 Jun 2066  8:38
+sat 1: Sha end  : 16 Jun 2066  9:07
+sat 1: Occ start: 17 Jun 2066  3:38
+sat 1: Ecl end  : 17 Jun 2066  6:19
+sat 2: Tra start: 17 Jun 2066 20:33
+sat 2: Sha start: 17 Jun 2066 21:35
+sat 2: Tra end  : 17 Jun 2066 23:06
+sat 2: Sha end  : 18 Jun 2066  0:11
+sat 1: Tra start: 18 Jun 2066  0:55
+sat 1: Sha start: 18 Jun 2066  1:26
+sat 1: Tra end  : 18 Jun 2066  3:04
+sat 1: Sha end  : 18 Jun 2066  3:36
+sat 1: Occ start: 18 Jun 2066 22:04
+sat 1: Ecl end  : 19 Jun 2066  0:47
+sat 3: Occ start: 19 Jun 2066  7:44
+sat 3: Occ end  : 19 Jun 2066  9:41
+sat 3: Ecl start: 19 Jun 2066  9:51
+sat 3: Ecl end  : 19 Jun 2066 12:02
+sat 2: Occ start: 19 Jun 2066 15:25
+sat 2: Ecl end  : 19 Jun 2066 19:04
+sat 1: Tra start: 19 Jun 2066 19:22
+sat 1: Sha start: 19 Jun 2066 19:55
+sat 1: Tra end  : 19 Jun 2066 21:31
+sat 1: Sha end  : 19 Jun 2066 22:04
+sat 1: Occ start: 20 Jun 2066 16:31
+sat 1: Ecl end  : 20 Jun 2066 19:16
+sat 2: Tra start: 21 Jun 2066  9:42
+sat 2: Sha start: 21 Jun 2066 10:54
+sat 2: Tra end  : 21 Jun 2066 12:16
+sat 2: Sha end  : 21 Jun 2066 13:29
+sat 1: Tra start: 21 Jun 2066 13:48
+sat 1: Sha start: 21 Jun 2066 14:23
+sat 1: Tra end  : 21 Jun 2066 15:57
+sat 1: Sha end  : 21 Jun 2066 16:33
+sat 1: Occ start: 22 Jun 2066 10:57
+sat 1: Ecl end  : 22 Jun 2066 13:45
+sat 3: Tra start: 22 Jun 2066 21:23
+sat 3: Tra end  : 22 Jun 2066 23:22
+sat 3: Sha start: 22 Jun 2066 23:48
+sat 3: Sha end  : 23 Jun 2066  2:00
+sat 2: Occ start: 23 Jun 2066  4:33
+sat 1: Tra start: 23 Jun 2066  8:14
+sat 2: Ecl end  : 23 Jun 2066  8:21
+sat 1: Sha start: 23 Jun 2066  8:52
+sat 1: Tra end  : 23 Jun 2066 10:23
+sat 1: Sha end  : 23 Jun 2066 11:02
+sat 1: Occ start: 24 Jun 2066  5:24
+sat 1: Ecl end  : 24 Jun 2066  8:13
+sat 2: Tra start: 24 Jun 2066 22:51
+sat 2: Sha start: 25 Jun 2066  0:12
+sat 2: Tra end  : 25 Jun 2066  1:25
+sat 1: Tra start: 25 Jun 2066  2:41
+sat 2: Sha end  : 25 Jun 2066  2:48
+sat 1: Sha start: 25 Jun 2066  3:20
+sat 1: Tra end  : 25 Jun 2066  4:50
+sat 1: Sha end  : 25 Jun 2066  5:30
+sat 1: Occ start: 25 Jun 2066 23:50
+sat 1: Ecl end  : 26 Jun 2066  2:42
+sat 3: Occ start: 26 Jun 2066 11:06
+sat 3: Occ end  : 26 Jun 2066 13:05
+sat 3: Ecl start: 26 Jun 2066 13:50
+sat 3: Ecl end  : 26 Jun 2066 16:02
+sat 2: Occ start: 26 Jun 2066 17:41
+sat 1: Tra start: 26 Jun 2066 21:07
+sat 2: Ecl end  : 26 Jun 2066 21:38
+sat 1: Sha start: 26 Jun 2066 21:49
+sat 1: Tra end  : 26 Jun 2066 23:16
+sat 1: Sha end  : 26 Jun 2066 23:59
+sat 1: Occ start: 27 Jun 2066 18:17
+sat 1: Ecl end  : 27 Jun 2066 21:11
+sat 2: Tra start: 28 Jun 2066 12:01
+sat 2: Sha start: 28 Jun 2066 13:31
+sat 2: Tra end  : 28 Jun 2066 14:35
+sat 1: Tra start: 28 Jun 2066 15:34
+sat 2: Sha end  : 28 Jun 2066 16:07
+sat 1: Sha start: 28 Jun 2066 16:17
+sat 1: Tra end  : 28 Jun 2066 17:43
+sat 1: Sha end  : 28 Jun 2066 18:27
+sat 1: Occ start: 29 Jun 2066 12:44
+sat 1: Ecl end  : 29 Jun 2066 15:40
+sat 3: Tra start: 30 Jun 2066  0:47
+sat 3: Tra end  : 30 Jun 2066  2:48
+sat 3: Sha start: 30 Jun 2066  3:46
+sat 3: Sha end  : 30 Jun 2066  6:00
+sat 2: Occ start: 30 Jun 2066  6:50
+sat 1: Tra start: 30 Jun 2066 10:00
+sat 1: Sha start: 30 Jun 2066 10:46
+sat 2: Ecl end  : 30 Jun 2066 10:55
+sat 1: Tra end  : 30 Jun 2066 12:09
+sat 1: Sha end  : 30 Jun 2066 12:56
+sat 1: Occ start:  1 Jul 2066  7:10
+sat 1: Ecl end  :  1 Jul 2066 10:09
+sat 2: Tra start:  2 Jul 2066  1:11
+sat 2: Sha start:  2 Jul 2066  2:49
+sat 2: Tra end  :  2 Jul 2066  3:46
+sat 1: Tra start:  2 Jul 2066  4:27
+sat 1: Sha start:  2 Jul 2066  5:15
+sat 2: Sha end  :  2 Jul 2066  5:25
+sat 1: Tra end  :  2 Jul 2066  6:36
+sat 1: Sha end  :  2 Jul 2066  7:25
+sat 1: Occ start:  3 Jul 2066  1:37
+sat 1: Ecl end  :  3 Jul 2066  4:37
+sat 3: Occ start:  3 Jul 2066 14:31
+sat 3: Occ end  :  3 Jul 2066 16:33
+sat 3: Ecl start:  3 Jul 2066 17:49
+sat 2: Occ start:  3 Jul 2066 20:00
+sat 3: Ecl end  :  3 Jul 2066 20:02
+sat 1: Tra start:  3 Jul 2066 22:54
+sat 1: Sha start:  3 Jul 2066 23:43
+sat 2: Ecl end  :  4 Jul 2066  0:12
+sat 1: Tra end  :  4 Jul 2066  1:03
+sat 1: Sha end  :  4 Jul 2066  1:53
+sat 1: Occ start:  4 Jul 2066 20:04
+sat 1: Ecl end  :  4 Jul 2066 23:06
+sat 2: Tra start:  5 Jul 2066 14:22
+sat 2: Sha start:  5 Jul 2066 16:08
+sat 2: Tra end  :  5 Jul 2066 16:57
+sat 1: Tra start:  5 Jul 2066 17:20
+sat 1: Sha start:  5 Jul 2066 18:12
+sat 2: Sha end  :  5 Jul 2066 18:44
+sat 1: Tra end  :  5 Jul 2066 19:30
+sat 1: Sha end  :  5 Jul 2066 20:22
+sat 1: Occ start:  6 Jul 2066 14:31
+sat 1: Ecl end  :  6 Jul 2066 17:35
+sat 3: Tra start:  7 Jul 2066  4:15
+sat 3: Tra end  :  7 Jul 2066  6:18
+sat 3: Sha start:  7 Jul 2066  7:46
+sat 2: Occ start:  7 Jul 2066  9:10
+sat 3: Sha end  :  7 Jul 2066 10:00
+sat 1: Tra start:  7 Jul 2066 11:47
+sat 1: Sha start:  7 Jul 2066 12:40
+sat 2: Ecl end  :  7 Jul 2066 13:30
+sat 1: Tra end  :  7 Jul 2066 13:56
+sat 1: Sha end  :  7 Jul 2066 14:50
+sat 1: Occ start:  8 Jul 2066  8:58
+sat 1: Ecl end  :  8 Jul 2066 12:04
+sat 2: Tra start:  9 Jul 2066  3:33
+sat 2: Sha start:  9 Jul 2066  5:26
+sat 2: Tra end  :  9 Jul 2066  6:08
+sat 1: Tra start:  9 Jul 2066  6:14
+sat 1: Sha start:  9 Jul 2066  7:09
+sat 2: Sha end  :  9 Jul 2066  8:02
+sat 1: Tra end  :  9 Jul 2066  8:23
+sat 1: Sha end  :  9 Jul 2066  9:19
+sat 1: Occ start: 10 Jul 2066  3:25
+sat 1: Ecl end  : 10 Jul 2066  6:32
+sat 3: Occ start: 10 Jul 2066 18:00
+sat 3: Occ end  : 10 Jul 2066 20:04
+sat 3: Ecl start: 10 Jul 2066 21:47
+sat 2: Occ start: 10 Jul 2066 22:20
+sat 3: Ecl end  : 11 Jul 2066  0:02
+sat 1: Tra start: 11 Jul 2066  0:41
+sat 1: Sha start: 11 Jul 2066  1:38
+sat 2: Ecl end  : 11 Jul 2066  2:47
+sat 1: Tra end  : 11 Jul 2066  2:50
+sat 1: Sha end  : 11 Jul 2066  3:48
+sat 1: Occ start: 11 Jul 2066 21:52
+sat 1: Ecl end  : 12 Jul 2066  1:01
+sat 2: Tra start: 12 Jul 2066 16:46
+sat 2: Sha start: 12 Jul 2066 18:45
+sat 1: Tra start: 12 Jul 2066 19:08
+sat 2: Tra end  : 12 Jul 2066 19:21
+sat 1: Sha start: 12 Jul 2066 20:06
+sat 1: Tra end  : 12 Jul 2066 21:17
+sat 2: Sha end  : 12 Jul 2066 21:21
+sat 1: Sha end  : 12 Jul 2066 22:16
+sat 1: Occ start: 13 Jul 2066 16:19
+sat 1: Ecl end  : 13 Jul 2066 19:30
+sat 3: Tra start: 14 Jul 2066  7:46
+sat 3: Tra end  : 14 Jul 2066  9:52
+sat 2: Occ start: 14 Jul 2066 11:31
+sat 3: Sha start: 14 Jul 2066 11:44
+sat 1: Tra start: 14 Jul 2066 13:35
+sat 3: Sha end  : 14 Jul 2066 14:00
+sat 1: Sha start: 14 Jul 2066 14:35
+sat 1: Tra end  : 14 Jul 2066 15:45
+sat 2: Ecl end  : 14 Jul 2066 16:04
+sat 1: Sha end  : 14 Jul 2066 16:45
+sat 1: Occ start: 15 Jul 2066 10:46
+sat 1: Ecl end  : 15 Jul 2066 13:59
+sat 2: Tra start: 16 Jul 2066  5:58
+sat 1: Tra start: 16 Jul 2066  8:02
+sat 2: Sha start: 16 Jul 2066  8:04
+sat 2: Tra end  : 16 Jul 2066  8:33
+sat 1: Sha start: 16 Jul 2066  9:04
+sat 1: Tra end  : 16 Jul 2066 10:12
+sat 2: Sha end  : 16 Jul 2066 10:40
+sat 1: Sha end  : 16 Jul 2066 11:14
+sat 1: Occ start: 17 Jul 2066  5:14
+sat 1: Ecl end  : 17 Jul 2066  8:28
+sat 3: Occ start: 17 Jul 2066 21:34
+sat 3: Occ end  : 17 Jul 2066 23:40
+sat 2: Occ start: 18 Jul 2066  0:43
+sat 3: Ecl start: 18 Jul 2066  1:46
+sat 1: Tra start: 18 Jul 2066  2:30
+sat 1: Sha start: 18 Jul 2066  3:32
+sat 3: Ecl end  : 18 Jul 2066  4:02
+sat 1: Tra end  : 18 Jul 2066  4:39
+sat 2: Ecl end  : 18 Jul 2066  5:21
+sat 1: Sha end  : 18 Jul 2066  5:42
+sat 1: Occ start: 18 Jul 2066 23:41
+sat 1: Ecl end  : 19 Jul 2066  2:57
+sat 2: Tra start: 19 Jul 2066 19:11
+sat 1: Tra start: 19 Jul 2066 20:57
+sat 2: Sha start: 19 Jul 2066 21:23
+sat 2: Tra end  : 19 Jul 2066 21:47
+sat 1: Sha start: 19 Jul 2066 22:01
+sat 1: Tra end  : 19 Jul 2066 23:06
+sat 2: Sha end  : 19 Jul 2066 23:59
+sat 1: Sha end  : 20 Jul 2066  0:11
+sat 1: Occ start: 20 Jul 2066 18:09
+sat 1: Ecl end  : 20 Jul 2066 21:25
+sat 3: Tra start: 21 Jul 2066 11:22
+sat 3: Tra end  : 21 Jul 2066 13:30
+sat 2: Occ start: 21 Jul 2066 13:55
+sat 1: Tra start: 21 Jul 2066 15:24
+sat 3: Sha start: 21 Jul 2066 15:43
+sat 1: Sha start: 21 Jul 2066 16:30
+sat 1: Tra end  : 21 Jul 2066 17:34
+sat 3: Sha end  : 21 Jul 2066 17:59
+sat 2: Ecl end  : 21 Jul 2066 18:39
+sat 1: Sha end  : 21 Jul 2066 18:40
+sat 1: Occ start: 22 Jul 2066 12:36
+sat 1: Ecl end  : 22 Jul 2066 15:54
+sat 2: Tra start: 23 Jul 2066  8:24
+sat 1: Tra start: 23 Jul 2066  9:52
+sat 2: Sha start: 23 Jul 2066 10:41
+sat 1: Sha start: 23 Jul 2066 10:58
+sat 2: Tra end  : 23 Jul 2066 11:00
+sat 1: Tra end  : 23 Jul 2066 12:01
+sat 1: Sha end  : 23 Jul 2066 13:08
+sat 2: Sha end  : 23 Jul 2066 13:17
+sat 1: Occ start: 24 Jul 2066  7:04
+sat 1: Ecl end  : 24 Jul 2066 10:23
+sat 3: Occ start: 25 Jul 2066  1:12
+sat 2: Occ start: 25 Jul 2066  3:07
+sat 3: Occ end  : 25 Jul 2066  3:20
+sat 1: Tra start: 25 Jul 2066  4:19
+sat 1: Sha start: 25 Jul 2066  5:27
+sat 3: Ecl start: 25 Jul 2066  5:46
+sat 1: Tra end  : 25 Jul 2066  6:29
+sat 1: Sha end  : 25 Jul 2066  7:37
+sat 2: Ecl end  : 25 Jul 2066  7:56
+sat 3: Ecl end  : 25 Jul 2066  8:02
+sat 1: Occ start: 26 Jul 2066  1:32
+sat 1: Ecl end  : 26 Jul 2066  4:52
+sat 2: Tra start: 26 Jul 2066 21:39
+sat 1: Tra start: 26 Jul 2066 22:47
+sat 1: Sha start: 26 Jul 2066 23:55
+sat 2: Sha start: 27 Jul 2066  0:00
+sat 2: Tra end  : 27 Jul 2066  0:15
+sat 1: Tra end  : 27 Jul 2066  0:57
+sat 1: Sha end  : 27 Jul 2066  2:06
+sat 2: Sha end  : 27 Jul 2066  2:37
+sat 1: Occ start: 27 Jul 2066 19:59
+sat 1: Ecl end  : 27 Jul 2066 23:21
+sat 3: Tra start: 28 Jul 2066 15:01
+sat 2: Occ start: 28 Jul 2066 16:20
+sat 3: Tra end  : 28 Jul 2066 17:12
+sat 1: Tra start: 28 Jul 2066 17:14
+sat 1: Sha start: 28 Jul 2066 18:24
+sat 1: Tra end  : 28 Jul 2066 19:24
+sat 3: Sha start: 28 Jul 2066 19:41
+sat 1: Sha end  : 28 Jul 2066 20:34
+sat 2: Ecl end  : 28 Jul 2066 21:13
+sat 3: Sha end  : 28 Jul 2066 21:59
+sat 1: Occ start: 29 Jul 2066 14:27
+sat 1: Ecl end  : 29 Jul 2066 17:50
+sat 2: Tra start: 30 Jul 2066 10:53
+sat 1: Tra start: 30 Jul 2066 11:42
+sat 1: Sha start: 30 Jul 2066 12:53
+sat 2: Sha start: 30 Jul 2066 13:19
+sat 2: Tra end  : 30 Jul 2066 13:29
+sat 1: Tra end  : 30 Jul 2066 13:52
+sat 1: Sha end  : 30 Jul 2066 15:03
+sat 2: Sha end  : 30 Jul 2066 15:55
+sat 1: Occ start: 31 Jul 2066  8:55
+sat 1: Ecl end  : 31 Jul 2066 12:18
+sat 3: Occ start:  1 Aug 2066  4:55
+sat 2: Occ start:  1 Aug 2066  5:34
+sat 1: Tra start:  1 Aug 2066  6:10
+sat 3: Occ end  :  1 Aug 2066  7:06
+sat 1: Sha start:  1 Aug 2066  7:21
+sat 1: Tra end  :  1 Aug 2066  8:20
+sat 1: Sha end  :  1 Aug 2066  9:32
+sat 3: Ecl start:  1 Aug 2066  9:46
+sat 2: Ecl end  :  1 Aug 2066 10:30
+sat 3: Ecl end  :  1 Aug 2066 12:04
+sat 1: Occ start:  2 Aug 2066  3:23
+sat 1: Ecl end  :  2 Aug 2066  6:47
+sat 2: Tra start:  3 Aug 2066  0:09
+sat 1: Tra start:  3 Aug 2066  0:38
+sat 1: Sha start:  3 Aug 2066  1:50
+sat 2: Sha start:  3 Aug 2066  2:38
+sat 2: Tra end  :  3 Aug 2066  2:45
+sat 1: Tra end  :  3 Aug 2066  2:48
+sat 1: Sha end  :  3 Aug 2066  4:00
+sat 2: Sha end  :  3 Aug 2066  5:14
+sat 1: Occ start:  3 Aug 2066 21:51
+sat 1: Ecl end  :  4 Aug 2066  1:16
+sat 3: Tra start:  4 Aug 2066 18:45
+sat 2: Occ start:  4 Aug 2066 18:48
+sat 1: Tra start:  4 Aug 2066 19:06
+sat 1: Sha start:  4 Aug 2066 20:19
+sat 3: Tra end  :  4 Aug 2066 20:58
+sat 1: Tra end  :  4 Aug 2066 21:16
+sat 1: Sha end  :  4 Aug 2066 22:29
+sat 3: Sha start:  4 Aug 2066 23:39
+sat 2: Ecl end  :  4 Aug 2066 23:48
+sat 3: Sha end  :  5 Aug 2066  1:58
+sat 1: Occ start:  5 Aug 2066 16:19
+sat 1: Ecl end  :  5 Aug 2066 19:45
+sat 2: Tra start:  6 Aug 2066 13:24
+sat 1: Tra start:  6 Aug 2066 13:34
+sat 1: Sha start:  6 Aug 2066 14:47
+sat 1: Tra end  :  6 Aug 2066 15:44
+sat 2: Sha start:  6 Aug 2066 15:56
+sat 2: Tra end  :  6 Aug 2066 16:01
+sat 1: Sha end  :  6 Aug 2066 16:58
+sat 2: Sha end  :  6 Aug 2066 18:33
+sat 1: Occ start:  7 Aug 2066 10:47
+sat 1: Ecl end  :  7 Aug 2066 14:14
+sat 1: Tra start:  8 Aug 2066  8:02
+sat 2: Occ start:  8 Aug 2066  8:03
+sat 3: Occ start:  8 Aug 2066  8:42
+sat 1: Sha start:  8 Aug 2066  9:16
+sat 1: Tra end  :  8 Aug 2066 10:12
+sat 3: Occ end  :  8 Aug 2066 10:56
+sat 1: Sha end  :  8 Aug 2066 11:26
+sat 2: Ecl end  :  8 Aug 2066 13:05
+sat 3: Ecl start:  8 Aug 2066 13:45
+sat 3: Ecl end  :  8 Aug 2066 16:04
+sat 1: Occ start:  9 Aug 2066  5:16
+sat 1: Ecl end  :  9 Aug 2066  8:43
+sat 1: Tra start: 10 Aug 2066  2:30
+sat 2: Tra start: 10 Aug 2066  2:41
+sat 1: Sha start: 10 Aug 2066  3:45
+sat 1: Tra end  : 10 Aug 2066  4:40
+sat 2: Sha start: 10 Aug 2066  5:16
+sat 2: Tra end  : 10 Aug 2066  5:18
+sat 1: Sha end  : 10 Aug 2066  5:55
+sat 2: Sha end  : 10 Aug 2066  7:52
+sat 1: Occ start: 10 Aug 2066 23:44
+sat 1: Ecl end  : 11 Aug 2066  3:12
+sat 1: Tra start: 11 Aug 2066 20:58
+sat 2: Occ start: 11 Aug 2066 21:18
+sat 1: Sha start: 11 Aug 2066 22:14
+sat 3: Tra start: 11 Aug 2066 22:35
+sat 1: Tra end  : 11 Aug 2066 23:08
+sat 1: Sha end  : 12 Aug 2066  0:24
+sat 3: Tra end  : 12 Aug 2066  0:50
+sat 2: Ecl end  : 12 Aug 2066  2:22
+sat 3: Sha start: 12 Aug 2066  3:38
+sat 3: Sha end  : 12 Aug 2066  5:58
+sat 1: Occ start: 12 Aug 2066 18:12
+sat 1: Ecl end  : 12 Aug 2066 21:40
+sat 1: Tra start: 13 Aug 2066 15:26
+sat 2: Tra start: 13 Aug 2066 15:58
+sat 1: Sha start: 13 Aug 2066 16:42
+sat 1: Tra end  : 13 Aug 2066 17:37
+sat 2: Sha start: 13 Aug 2066 18:34
+sat 2: Tra end  : 13 Aug 2066 18:35
+sat 1: Sha end  : 13 Aug 2066 18:52
+sat 2: Sha end  : 13 Aug 2066 21:11
+sat 1: Occ start: 14 Aug 2066 12:41
+sat 1: Ecl end  : 14 Aug 2066 16:09
+sat 1: Tra start: 15 Aug 2066  9:55
+sat 2: Occ start: 15 Aug 2066 10:34
+sat 1: Sha start: 15 Aug 2066 11:11
+sat 1: Tra end  : 15 Aug 2066 12:05
+sat 3: Occ start: 15 Aug 2066 12:34
+sat 1: Sha end  : 15 Aug 2066 13:21
+sat 3: Occ end  : 15 Aug 2066 14:50
+sat 2: Ecl end  : 15 Aug 2066 15:40
+sat 3: Ecl start: 15 Aug 2066 17:45
+sat 3: Ecl end  : 15 Aug 2066 20:04
+sat 1: Occ start: 16 Aug 2066  7:09
+sat 1: Ecl end  : 16 Aug 2066 10:38
+sat 1: Tra start: 17 Aug 2066  4:23
+sat 2: Tra start: 17 Aug 2066  5:15
+sat 1: Sha start: 17 Aug 2066  5:40
+sat 1: Tra end  : 17 Aug 2066  6:33
+sat 1: Sha end  : 17 Aug 2066  7:50
+sat 2: Tra end  : 17 Aug 2066  7:53
+sat 2: Sha start: 17 Aug 2066  7:53
+sat 2: Sha end  : 17 Aug 2066 10:30
+sat 1: Occ start: 18 Aug 2066  1:38
+sat 1: Ecl end  : 18 Aug 2066  5:07
+sat 1: Tra start: 18 Aug 2066 22:52
+sat 2: Occ start: 18 Aug 2066 23:50
+sat 1: Sha start: 19 Aug 2066  0:08
+sat 1: Tra end  : 19 Aug 2066  1:02
+sat 1: Sha end  : 19 Aug 2066  2:19
+sat 3: Tra start: 19 Aug 2066  2:28
+sat 3: Tra end  : 19 Aug 2066  4:45
+sat 2: Ecl end  : 19 Aug 2066  4:57
+sat 3: Sha start: 19 Aug 2066  7:37
+sat 3: Sha end  : 19 Aug 2066  9:58
+sat 1: Occ start: 19 Aug 2066 20:07
+sat 1: Ecl end  : 19 Aug 2066 23:36
+sat 1: Tra start: 20 Aug 2066 17:20
+sat 2: Tra start: 20 Aug 2066 18:33
+sat 1: Sha start: 20 Aug 2066 18:37
+sat 1: Tra end  : 20 Aug 2066 19:30
+sat 1: Sha end  : 20 Aug 2066 20:47
+sat 2: Tra end  : 20 Aug 2066 21:11
+sat 2: Sha start: 20 Aug 2066 21:12
+sat 2: Sha end  : 20 Aug 2066 23:48
+sat 1: Occ start: 21 Aug 2066 14:35
+sat 1: Ecl end  : 21 Aug 2066 18:05
+sat 1: Tra start: 22 Aug 2066 11:49
+sat 1: Sha start: 22 Aug 2066 13:06
+sat 2: Occ start: 22 Aug 2066 13:07
+sat 1: Tra end  : 22 Aug 2066 13:59
+sat 1: Sha end  : 22 Aug 2066 15:16
+sat 3: Occ start: 22 Aug 2066 16:30
+sat 2: Ecl end  : 22 Aug 2066 18:15
+sat 3: Occ end  : 22 Aug 2066 18:47
+sat 3: Ecl start: 22 Aug 2066 21:43
+sat 3: Ecl end  : 23 Aug 2066  0:04
+sat 1: Occ start: 23 Aug 2066  9:04
+sat 1: Ecl end  : 23 Aug 2066 12:34
+sat 1: Tra start: 24 Aug 2066  6:17
+sat 1: Sha start: 24 Aug 2066  7:34
+sat 2: Tra start: 24 Aug 2066  7:52
+sat 1: Tra end  : 24 Aug 2066  8:28
+sat 1: Sha end  : 24 Aug 2066  9:45
+sat 2: Tra end  : 24 Aug 2066 10:30
+sat 2: Sha start: 24 Aug 2066 10:31
+sat 2: Sha end  : 24 Aug 2066 13:07
+sat 1: Occ start: 25 Aug 2066  3:33
+sat 1: Ecl end  : 25 Aug 2066  7:02
+sat 1: Tra start: 26 Aug 2066  0:46
+sat 1: Sha start: 26 Aug 2066  2:03
+sat 2: Occ start: 26 Aug 2066  2:24
+sat 1: Tra end  : 26 Aug 2066  2:56
+sat 1: Sha end  : 26 Aug 2066  4:13
+sat 3: Tra start: 26 Aug 2066  6:26
+sat 2: Ecl end  : 26 Aug 2066  7:32
+sat 3: Tra end  : 26 Aug 2066  8:45
+sat 3: Sha start: 26 Aug 2066 11:37
+sat 3: Sha end  : 26 Aug 2066 13:59
+sat 1: Occ start: 26 Aug 2066 22:02
+sat 1: Ecl end  : 27 Aug 2066  1:31
+sat 1: Tra start: 27 Aug 2066 19:15
+sat 1: Sha start: 27 Aug 2066 20:32
+sat 2: Tra start: 27 Aug 2066 21:11
+sat 1: Tra end  : 27 Aug 2066 21:25
+sat 1: Sha end  : 27 Aug 2066 22:42
+sat 2: Tra end  : 27 Aug 2066 23:48
+sat 2: Sha start: 27 Aug 2066 23:49
+sat 2: Sha end  : 28 Aug 2066  2:26
+sat 1: Occ start: 28 Aug 2066 16:31
+sat 1: Ecl end  : 28 Aug 2066 20:00
+sat 1: Tra start: 29 Aug 2066 13:44
+sat 1: Sha start: 29 Aug 2066 15:00
+sat 2: Occ start: 29 Aug 2066 15:42
+sat 1: Tra end  : 29 Aug 2066 15:54
+sat 1: Sha end  : 29 Aug 2066 17:11
+sat 3: Occ start: 29 Aug 2066 20:29
+sat 2: Ecl end  : 29 Aug 2066 20:50
+sat 3: Occ end  : 29 Aug 2066 22:49
+sat 3: Ecl start: 30 Aug 2066  1:42
+sat 3: Ecl end  : 30 Aug 2066  4:05
+sat 1: Occ start: 30 Aug 2066 11:00
+sat 1: Ecl end  : 30 Aug 2066 14:29
+sat 1: Tra start: 31 Aug 2066  8:13
+sat 1: Sha start: 31 Aug 2066  9:29
+sat 1: Tra end  : 31 Aug 2066 10:23
+sat 2: Tra start: 31 Aug 2066 10:31
+sat 1: Sha end  : 31 Aug 2066 11:40
+sat 2: Sha start: 31 Aug 2066 13:08
+sat 2: Tra end  : 31 Aug 2066 13:08
+sat 2: Sha end  : 31 Aug 2066 15:45
+sat 1: Occ start:  1 Sep 2066  5:29
+sat 1: Ecl end  :  1 Sep 2066  8:58
+sat 1: Tra start:  2 Sep 2066  2:42
+sat 1: Sha start:  2 Sep 2066  3:58
+sat 1: Tra end  :  2 Sep 2066  4:52
+sat 2: Occ start:  2 Sep 2066  5:00
+sat 1: Sha end  :  2 Sep 2066  6:08
+sat 2: Ecl end  :  2 Sep 2066 10:07
+sat 3: Tra start:  2 Sep 2066 10:28
+sat 3: Tra end  :  2 Sep 2066 12:49
+sat 3: Sha start:  2 Sep 2066 15:36
+sat 3: Sha end  :  2 Sep 2066 17:59
+sat 1: Occ start:  2 Sep 2066 23:58
+sat 1: Ecl end  :  3 Sep 2066  3:27
+sat 1: Tra start:  3 Sep 2066 21:11
+sat 1: Sha start:  3 Sep 2066 22:26
+sat 1: Tra end  :  3 Sep 2066 23:21
+sat 2: Tra start:  3 Sep 2066 23:50
+sat 1: Sha end  :  4 Sep 2066  0:37
+sat 2: Sha start:  4 Sep 2066  2:27
+sat 2: Tra end  :  4 Sep 2066  2:28
+sat 2: Sha end  :  4 Sep 2066  5:03
+sat 1: Occ start:  4 Sep 2066 18:27
+sat 1: Ecl end  :  4 Sep 2066 21:56
+sat 1: Tra start:  5 Sep 2066 15:40
+sat 1: Sha start:  5 Sep 2066 16:55
+sat 1: Tra end  :  5 Sep 2066 17:50
+sat 2: Occ start:  5 Sep 2066 18:19
+sat 1: Sha end  :  5 Sep 2066 19:06
+sat 2: Ecl end  :  5 Sep 2066 23:25
+sat 3: Occ start:  6 Sep 2066  0:33
+sat 3: Occ end  :  6 Sep 2066  2:55
+sat 3: Ecl start:  6 Sep 2066  5:42
+sat 3: Ecl end  :  6 Sep 2066  8:05
+sat 1: Occ start:  6 Sep 2066 12:57
+sat 1: Ecl end  :  6 Sep 2066 16:24
+sat 1: Tra start:  7 Sep 2066 10:09
+sat 1: Sha start:  7 Sep 2066 11:24
+sat 1: Tra end  :  7 Sep 2066 12:19
+sat 2: Tra start:  7 Sep 2066 13:11
+sat 1: Sha end  :  7 Sep 2066 13:34
+sat 2: Sha start:  7 Sep 2066 15:46
+sat 2: Tra end  :  7 Sep 2066 15:49
+sat 2: Sha end  :  7 Sep 2066 18:22
+sat 1: Occ start:  8 Sep 2066  7:26
+sat 1: Ecl end  :  8 Sep 2066 10:53
+sat 1: Tra start:  9 Sep 2066  4:38
+sat 1: Sha start:  9 Sep 2066  5:53
+sat 1: Tra end  :  9 Sep 2066  6:48
+sat 2: Occ start:  9 Sep 2066  7:38
+sat 1: Sha end  :  9 Sep 2066  8:03
+sat 2: Ecl end  :  9 Sep 2066 12:42
+sat 3: Tra start:  9 Sep 2066 14:33
+sat 3: Tra end  :  9 Sep 2066 16:56
+sat 3: Sha start:  9 Sep 2066 19:35
+sat 3: Sha end  :  9 Sep 2066 21:59
+sat 1: Occ start: 10 Sep 2066  1:55
+sat 1: Ecl end  : 10 Sep 2066  5:22
+sat 1: Tra start: 10 Sep 2066 23:07
+sat 1: Sha start: 11 Sep 2066  0:21
+sat 1: Tra end  : 11 Sep 2066  1:18
+sat 2: Tra start: 11 Sep 2066  2:31
+sat 1: Sha end  : 11 Sep 2066  2:32
+sat 2: Sha start: 11 Sep 2066  5:04
+sat 2: Tra end  : 11 Sep 2066  5:10
+sat 2: Sha end  : 11 Sep 2066  7:41
+sat 1: Occ start: 11 Sep 2066 20:25
+sat 1: Ecl end  : 11 Sep 2066 23:51
+sat 1: Tra start: 12 Sep 2066 17:36
+sat 1: Sha start: 12 Sep 2066 18:50
+sat 1: Tra end  : 12 Sep 2066 19:47
+sat 2: Occ start: 12 Sep 2066 20:58
+sat 1: Sha end  : 12 Sep 2066 21:01
+sat 2: Ecl end  : 13 Sep 2066  2:00
+sat 3: Occ start: 13 Sep 2066  4:41
+sat 3: Occ end  : 13 Sep 2066  7:04
+sat 3: Ecl start: 13 Sep 2066  9:41
+sat 3: Ecl end  : 13 Sep 2066 12:06
+sat 1: Occ start: 13 Sep 2066 14:54
+sat 1: Ecl end  : 13 Sep 2066 18:20
+sat 1: Tra start: 14 Sep 2066 12:06
+sat 1: Sha start: 14 Sep 2066 13:19
+sat 1: Tra end  : 14 Sep 2066 14:16
+sat 1: Sha end  : 14 Sep 2066 15:29
+sat 2: Tra start: 14 Sep 2066 15:53
+sat 2: Sha start: 14 Sep 2066 18:23
+sat 2: Tra end  : 14 Sep 2066 18:31
+sat 2: Sha end  : 14 Sep 2066 21:00
+sat 1: Occ start: 15 Sep 2066  9:23
+sat 1: Ecl end  : 15 Sep 2066 12:49
+sat 1: Tra start: 16 Sep 2066  6:35
+sat 1: Sha start: 16 Sep 2066  7:47
+sat 1: Tra end  : 16 Sep 2066  8:46
+sat 1: Sha end  : 16 Sep 2066  9:58
+sat 2: Occ start: 16 Sep 2066 10:18
+sat 2: Ecl end  : 16 Sep 2066 15:17
+sat 3: Tra start: 16 Sep 2066 18:41
+sat 3: Tra end  : 16 Sep 2066 21:06
+sat 3: Sha start: 16 Sep 2066 23:33
+sat 3: Sha end  : 17 Sep 2066  1:59
+sat 1: Occ start: 17 Sep 2066  3:53
+sat 1: Ecl end  : 17 Sep 2066  7:18
+sat 1: Tra start: 18 Sep 2066  1:04
+sat 1: Sha start: 18 Sep 2066  2:16
+sat 1: Tra end  : 18 Sep 2066  3:15
+sat 1: Sha end  : 18 Sep 2066  4:27
+sat 2: Tra start: 18 Sep 2066  5:14
+sat 2: Sha start: 18 Sep 2066  7:41
+sat 2: Tra end  : 18 Sep 2066  7:52
+sat 2: Sha end  : 18 Sep 2066 10:18
+sat 1: Occ start: 18 Sep 2066 22:23
+sat 1: Ecl end  : 19 Sep 2066  1:46
+sat 1: Tra start: 19 Sep 2066 19:34
+sat 1: Sha start: 19 Sep 2066 20:45
+sat 1: Tra end  : 19 Sep 2066 21:45
+sat 1: Sha end  : 19 Sep 2066 22:55
+sat 2: Occ start: 19 Sep 2066 23:38
+sat 2: Ecl end  : 20 Sep 2066  4:35
+sat 3: Occ start: 20 Sep 2066  8:52
+sat 3: Occ end  : 20 Sep 2066 11:17
+sat 3: Ecl start: 20 Sep 2066 13:41
+sat 3: Ecl end  : 20 Sep 2066 16:07
+sat 1: Occ start: 20 Sep 2066 16:52
+sat 1: Ecl end  : 20 Sep 2066 20:15
+sat 1: Tra start: 21 Sep 2066 14:03
+sat 1: Sha start: 21 Sep 2066 15:13
+sat 1: Tra end  : 21 Sep 2066 16:14
+sat 1: Sha end  : 21 Sep 2066 17:24
+sat 2: Tra start: 21 Sep 2066 18:36
+sat 2: Sha start: 21 Sep 2066 21:00
+sat 2: Tra end  : 21 Sep 2066 21:15
+sat 2: Sha end  : 21 Sep 2066 23:37
+sat 1: Occ start: 22 Sep 2066 11:22
+sat 1: Ecl end  : 22 Sep 2066 14:44
+sat 1: Tra start: 23 Sep 2066  8:33
+sat 1: Sha start: 23 Sep 2066  9:42
+sat 1: Tra end  : 23 Sep 2066 10:44
+sat 1: Sha end  : 23 Sep 2066 11:53
+sat 2: Occ start: 23 Sep 2066 12:59
+sat 2: Ecl end  : 23 Sep 2066 17:53
+sat 3: Tra start: 23 Sep 2066 22:53
+sat 3: Tra end  : 24 Sep 2066  1:18
+sat 3: Sha start: 24 Sep 2066  3:32
+sat 1: Occ start: 24 Sep 2066  5:52
+sat 3: Sha end  : 24 Sep 2066  5:58
+sat 1: Ecl end  : 24 Sep 2066  9:13
+sat 1: Tra start: 25 Sep 2066  3:02
+sat 1: Sha start: 25 Sep 2066  4:11
+sat 1: Tra end  : 25 Sep 2066  5:13
+sat 1: Sha end  : 25 Sep 2066  6:22
+sat 2: Tra start: 25 Sep 2066  7:58
+sat 2: Sha start: 25 Sep 2066 10:18
+sat 2: Tra end  : 25 Sep 2066 10:37
+sat 2: Sha end  : 25 Sep 2066 12:55
+sat 1: Occ start: 26 Sep 2066  0:21
+sat 1: Ecl end  : 26 Sep 2066  3:42
+sat 1: Tra start: 26 Sep 2066 21:32
+sat 1: Sha start: 26 Sep 2066 22:40
+sat 1: Tra end  : 26 Sep 2066 23:43
+sat 1: Sha end  : 27 Sep 2066  0:50
+sat 2: Occ start: 27 Sep 2066  2:20
+sat 2: Ecl end  : 27 Sep 2066  7:10
+sat 3: Occ start: 27 Sep 2066 13:06
+sat 3: Occ end  : 27 Sep 2066 15:33
+sat 3: Ecl start: 27 Sep 2066 17:41
+sat 1: Occ start: 27 Sep 2066 18:51
+sat 3: Ecl end  : 27 Sep 2066 20:07
+sat 1: Ecl end  : 27 Sep 2066 22:10
+sat 1: Tra start: 28 Sep 2066 16:02
+sat 1: Sha start: 28 Sep 2066 17:08
+sat 1: Tra end  : 28 Sep 2066 18:13
+sat 1: Sha end  : 28 Sep 2066 19:19
+sat 2: Tra start: 28 Sep 2066 21:21
+sat 2: Sha start: 28 Sep 2066 23:37
+sat 2: Tra end  : 29 Sep 2066  0:00
+sat 2: Sha end  : 29 Sep 2066  2:14
+sat 1: Occ start: 29 Sep 2066 13:21
+sat 1: Ecl end  : 29 Sep 2066 16:39
+sat 1: Tra start: 30 Sep 2066 10:31
+sat 1: Sha start: 30 Sep 2066 11:37
+sat 1: Tra end  : 30 Sep 2066 12:42
+sat 1: Sha end  : 30 Sep 2066 13:48
+sat 2: Occ start: 30 Sep 2066 15:41
+sat 2: Ecl end  : 30 Sep 2066 20:28
+sat 3: Tra start:  1 Oct 2066  3:07
+sat 3: Tra end  :  1 Oct 2066  5:35
+sat 3: Sha start:  1 Oct 2066  7:31
+sat 1: Occ start:  1 Oct 2066  7:51
+sat 3: Sha end  :  1 Oct 2066  9:58
+sat 1: Ecl end  :  1 Oct 2066 11:08
+sat 1: Tra start:  2 Oct 2066  5:01
+sat 1: Sha start:  2 Oct 2066  6:06
+sat 1: Tra end  :  2 Oct 2066  7:12
+sat 1: Sha end  :  2 Oct 2066  8:16
+sat 2: Tra start:  2 Oct 2066 10:44
+sat 2: Sha start:  2 Oct 2066 12:55
+sat 2: Tra end  :  2 Oct 2066 13:22
+sat 2: Sha end  :  2 Oct 2066 15:32
+sat 1: Occ start:  3 Oct 2066  2:21
+sat 1: Ecl end  :  3 Oct 2066  5:37
+sat 1: Tra start:  3 Oct 2066 23:31
+sat 1: Sha start:  4 Oct 2066  0:34
+sat 1: Tra end  :  4 Oct 2066  1:42
+sat 1: Sha end  :  4 Oct 2066  2:45
+sat 2: Occ start:  4 Oct 2066  5:03
+sat 2: Ecl end  :  4 Oct 2066  9:46
+sat 3: Occ start:  4 Oct 2066 17:23
+sat 3: Occ end  :  4 Oct 2066 19:51
+sat 1: Occ start:  4 Oct 2066 20:50
+sat 3: Ecl start:  4 Oct 2066 21:40
+sat 1: Ecl end  :  5 Oct 2066  0:06
+sat 3: Ecl end  :  5 Oct 2066  0:08
+sat 1: Tra start:  5 Oct 2066 18:01
+sat 1: Sha start:  5 Oct 2066 19:03
+sat 1: Tra end  :  5 Oct 2066 20:12
+sat 1: Sha end  :  5 Oct 2066 21:14
+sat 2: Tra start:  6 Oct 2066  0:07
+sat 2: Sha start:  6 Oct 2066  2:14
+sat 2: Tra end  :  6 Oct 2066  2:46
+sat 2: Sha end  :  6 Oct 2066  4:51
+sat 1: Occ start:  6 Oct 2066 15:20
+sat 1: Ecl end  :  6 Oct 2066 18:34
+sat 1: Tra start:  7 Oct 2066 12:30
+sat 1: Sha start:  7 Oct 2066 13:32
+sat 1: Tra end  :  7 Oct 2066 14:42
+sat 1: Sha end  :  7 Oct 2066 15:43
+sat 2: Occ start:  7 Oct 2066 18:25
+sat 2: Ecl end  :  7 Oct 2066 23:03
+sat 3: Tra start:  8 Oct 2066  7:24
+sat 1: Occ start:  8 Oct 2066  9:50
+sat 3: Tra end  :  8 Oct 2066  9:53
+sat 3: Sha start:  8 Oct 2066 11:30
+sat 1: Ecl end  :  8 Oct 2066 13:03
+sat 3: Sha end  :  8 Oct 2066 13:58
+sat 1: Tra start:  9 Oct 2066  7:00
+sat 1: Sha start:  9 Oct 2066  8:00
+sat 1: Tra end  :  9 Oct 2066  9:11
+sat 1: Sha end  :  9 Oct 2066 10:11
+sat 2: Tra start:  9 Oct 2066 13:30
+sat 2: Sha start:  9 Oct 2066 15:33
+sat 2: Tra end  :  9 Oct 2066 16:09
+sat 2: Sha end  :  9 Oct 2066 18:10
+sat 1: Occ start: 10 Oct 2066  4:20
+sat 1: Ecl end  : 10 Oct 2066  7:32
+sat 1: Tra start: 11 Oct 2066  1:30
+sat 1: Sha start: 11 Oct 2066  2:29
+sat 1: Tra end  : 11 Oct 2066  3:41
+sat 1: Sha end  : 11 Oct 2066  4:40
+sat 2: Occ start: 11 Oct 2066  7:48
+sat 2: Ecl end  : 11 Oct 2066 12:21
+sat 3: Occ start: 11 Oct 2066 21:41
+sat 1: Occ start: 11 Oct 2066 22:50
+sat 3: Occ end  : 12 Oct 2066  0:11
+sat 3: Ecl start: 12 Oct 2066  1:39
+sat 1: Ecl end  : 12 Oct 2066  2:01
+sat 3: Ecl end  : 12 Oct 2066  4:08
+sat 1: Tra start: 12 Oct 2066 20:00
+sat 1: Sha start: 12 Oct 2066 20:58
+sat 1: Tra end  : 12 Oct 2066 22:11
+sat 1: Sha end  : 12 Oct 2066 23:09
+sat 2: Tra start: 13 Oct 2066  2:54
+sat 2: Sha start: 13 Oct 2066  4:51
+sat 2: Tra end  : 13 Oct 2066  5:33
+sat 2: Sha end  : 13 Oct 2066  7:28
+sat 1: Occ start: 13 Oct 2066 17:20
+sat 1: Ecl end  : 13 Oct 2066 20:29
+sat 1: Tra start: 14 Oct 2066 14:30
+sat 1: Sha start: 14 Oct 2066 15:26
+sat 1: Tra end  : 14 Oct 2066 16:41
+sat 1: Sha end  : 14 Oct 2066 17:37
+sat 2: Occ start: 14 Oct 2066 21:10
+sat 2: Ecl end  : 15 Oct 2066  1:39
+sat 3: Tra start: 15 Oct 2066 11:45
+sat 1: Occ start: 15 Oct 2066 11:51
+sat 3: Tra end  : 15 Oct 2066 14:15
+sat 1: Ecl end  : 15 Oct 2066 14:58
+sat 3: Sha start: 15 Oct 2066 15:30
+sat 3: Sha end  : 15 Oct 2066 17:59
+sat 1: Tra start: 16 Oct 2066  9:00
+sat 1: Sha start: 16 Oct 2066  9:55
+sat 1: Tra end  : 16 Oct 2066 11:11
+sat 1: Sha end  : 16 Oct 2066 12:06
+sat 2: Tra start: 16 Oct 2066 16:18
+sat 2: Sha start: 16 Oct 2066 18:09
+sat 2: Tra end  : 16 Oct 2066 18:56
+sat 2: Sha end  : 16 Oct 2066 20:46
+sat 1: Occ start: 17 Oct 2066  6:21
+sat 1: Ecl end  : 17 Oct 2066  9:27
+sat 1: Tra start: 18 Oct 2066  3:30
+sat 1: Sha start: 18 Oct 2066  4:24
+sat 1: Tra end  : 18 Oct 2066  5:41
+sat 1: Sha end  : 18 Oct 2066  6:35
+sat 2: Occ start: 18 Oct 2066 10:33
+sat 2: Ecl end  : 18 Oct 2066 14:57
+sat 1: Occ start: 19 Oct 2066  0:51
+sat 3: Occ start: 19 Oct 2066  2:02
+sat 1: Ecl end  : 19 Oct 2066  3:56
+sat 3: Occ end  : 19 Oct 2066  4:33
+sat 3: Ecl start: 19 Oct 2066  5:37
+sat 3: Ecl end  : 19 Oct 2066  8:07
+sat 1: Tra start: 19 Oct 2066 22:00
+sat 1: Sha start: 19 Oct 2066 22:52
+sat 1: Tra end  : 20 Oct 2066  0:11
+sat 1: Sha end  : 20 Oct 2066  1:04
+sat 2: Tra start: 20 Oct 2066  5:42
+sat 2: Sha start: 20 Oct 2066  7:28
+sat 2: Tra end  : 20 Oct 2066  8:20
+sat 2: Sha end  : 20 Oct 2066 10:05
+sat 1: Occ start: 20 Oct 2066 19:21
+sat 1: Ecl end  : 20 Oct 2066 22:24
+sat 1: Tra start: 21 Oct 2066 16:30
+sat 1: Sha start: 21 Oct 2066 17:21
+sat 1: Tra end  : 21 Oct 2066 18:42
+sat 1: Sha end  : 21 Oct 2066 19:32
+sat 2: Occ start: 21 Oct 2066 23:56
+sat 2: Ecl end  : 22 Oct 2066  4:14
+sat 1: Occ start: 22 Oct 2066 13:51
+sat 3: Tra start: 22 Oct 2066 16:06
+sat 1: Ecl end  : 22 Oct 2066 16:53
+sat 3: Tra end  : 22 Oct 2066 18:38
+sat 3: Sha start: 22 Oct 2066 19:28
+sat 3: Sha end  : 22 Oct 2066 21:59
+sat 1: Tra start: 23 Oct 2066 11:00
+sat 1: Sha start: 23 Oct 2066 11:50
+sat 1: Tra end  : 23 Oct 2066 13:12
+sat 1: Sha end  : 23 Oct 2066 14:01
+sat 2: Tra start: 23 Oct 2066 19:06
+sat 2: Sha start: 23 Oct 2066 20:46
+sat 2: Tra end  : 23 Oct 2066 21:44
+sat 2: Sha end  : 23 Oct 2066 23:23
+sat 1: Occ start: 24 Oct 2066  8:21
+sat 1: Ecl end  : 24 Oct 2066 11:22
+sat 1: Tra start: 25 Oct 2066  5:30
+sat 1: Sha start: 25 Oct 2066  6:18
+sat 1: Tra end  : 25 Oct 2066  7:42
+sat 1: Sha end  : 25 Oct 2066  8:30
+sat 2: Occ start: 25 Oct 2066 13:20
+sat 2: Ecl end  : 25 Oct 2066 17:32
+sat 1: Occ start: 26 Oct 2066  2:52
+sat 1: Ecl end  : 26 Oct 2066  5:51
+sat 3: Occ start: 26 Oct 2066  6:25
+sat 3: Occ end  : 26 Oct 2066  8:57
+sat 3: Ecl start: 26 Oct 2066  9:37
+sat 3: Ecl end  : 26 Oct 2066 12:08
+sat 1: Tra start: 27 Oct 2066  0:01
+sat 1: Sha start: 27 Oct 2066  0:47
+sat 1: Tra end  : 27 Oct 2066  2:12
+sat 1: Sha end  : 27 Oct 2066  2:58
+sat 2: Tra start: 27 Oct 2066  8:30
+sat 2: Sha start: 27 Oct 2066 10:04
+sat 2: Tra end  : 27 Oct 2066 11:09
+sat 2: Sha end  : 27 Oct 2066 12:41
+sat 1: Occ start: 27 Oct 2066 21:22
+sat 1: Ecl end  : 28 Oct 2066  0:19
+sat 1: Tra start: 28 Oct 2066 18:31
+sat 1: Sha start: 28 Oct 2066 19:16
+sat 1: Tra end  : 28 Oct 2066 20:42
+sat 1: Sha end  : 28 Oct 2066 21:27
+sat 2: Occ start: 29 Oct 2066  2:44
+sat 2: Ecl end  : 29 Oct 2066  6:50
+sat 1: Occ start: 29 Oct 2066 15:52
+sat 1: Ecl end  : 29 Oct 2066 18:48
+sat 3: Tra start: 29 Oct 2066 20:29
+sat 3: Tra end  : 29 Oct 2066 23:02
+sat 3: Sha start: 29 Oct 2066 23:27
+sat 3: Sha end  : 30 Oct 2066  1:59
+sat 1: Tra start: 30 Oct 2066 13:01
+sat 1: Sha start: 30 Oct 2066 13:44
+sat 1: Tra end  : 30 Oct 2066 15:12
+sat 1: Sha end  : 30 Oct 2066 15:56
+sat 2: Tra start: 30 Oct 2066 21:54
+sat 2: Sha start: 30 Oct 2066 23:22
+sat 2: Tra end  : 31 Oct 2066  0:33
+sat 2: Sha end  : 31 Oct 2066  1:59
+sat 1: Occ start: 31 Oct 2066 10:22
+sat 1: Ecl end  : 31 Oct 2066 13:17
+sat 1: Tra start:  1 Nov 2066  7:31
+sat 1: Sha start:  1 Nov 2066  8:13
+sat 1: Tra end  :  1 Nov 2066  9:43
+sat 1: Sha end  :  1 Nov 2066 10:24
+sat 2: Occ start:  1 Nov 2066 16:08
+sat 2: Ecl end  :  1 Nov 2066 20:08
+sat 1: Occ start:  2 Nov 2066  4:53
+sat 1: Ecl end  :  2 Nov 2066  7:45
+sat 3: Occ start:  2 Nov 2066 10:49
+sat 3: Occ end  :  2 Nov 2066 13:23
+sat 3: Ecl start:  2 Nov 2066 13:36
+sat 3: Ecl end  :  2 Nov 2066 16:08
+sat 1: Tra start:  3 Nov 2066  2:01
+sat 1: Sha start:  3 Nov 2066  2:42
+sat 1: Tra end  :  3 Nov 2066  4:13
+sat 1: Sha end  :  3 Nov 2066  4:53
+sat 2: Tra start:  3 Nov 2066 11:19
+sat 2: Sha start:  3 Nov 2066 12:40
+sat 2: Tra end  :  3 Nov 2066 13:58
+sat 2: Sha end  :  3 Nov 2066 15:17
+sat 1: Occ start:  3 Nov 2066 23:23
+sat 1: Ecl end  :  4 Nov 2066  2:14
+sat 1: Tra start:  4 Nov 2066 20:32
+sat 1: Sha start:  4 Nov 2066 21:10
+sat 1: Tra end  :  4 Nov 2066 22:43
+sat 1: Sha end  :  4 Nov 2066 23:22
+sat 2: Occ start:  5 Nov 2066  5:32
+sat 2: Ecl end  :  5 Nov 2066  9:26
+sat 1: Occ start:  5 Nov 2066 17:53
+sat 1: Ecl end  :  5 Nov 2066 20:43
+sat 3: Tra start:  6 Nov 2066  0:53
+sat 3: Sha start:  6 Nov 2066  3:25
+sat 3: Tra end  :  6 Nov 2066  3:28
+sat 3: Sha end  :  6 Nov 2066  5:58
+sat 1: Tra start:  6 Nov 2066 15:02
+sat 1: Sha start:  6 Nov 2066 15:39
+sat 1: Tra end  :  6 Nov 2066 17:14
+sat 1: Sha end  :  6 Nov 2066 17:50
+sat 2: Tra start:  7 Nov 2066  0:44
+sat 2: Sha start:  7 Nov 2066  1:58
+sat 2: Tra end  :  7 Nov 2066  3:22
+sat 2: Sha end  :  7 Nov 2066  4:35
+sat 1: Occ start:  7 Nov 2066 12:23
+sat 1: Ecl end  :  7 Nov 2066 15:12
+sat 1: Tra start:  8 Nov 2066  9:32
+sat 1: Sha start:  8 Nov 2066 10:08
+sat 1: Tra end  :  8 Nov 2066 11:44
+sat 1: Sha end  :  8 Nov 2066 12:19
+sat 2: Occ start:  8 Nov 2066 18:56
+sat 2: Ecl end  :  8 Nov 2066 22:44
+sat 1: Occ start:  9 Nov 2066  6:54
+sat 1: Ecl end  :  9 Nov 2066  9:40
+sat 3: Occ start:  9 Nov 2066 15:15
+sat 3: Ecl end  :  9 Nov 2066 20:09
+sat 1: Tra start: 10 Nov 2066  4:02
+sat 1: Sha start: 10 Nov 2066  4:36
+sat 1: Tra end  : 10 Nov 2066  6:14
+sat 1: Sha end  : 10 Nov 2066  6:48
+sat 2: Tra start: 10 Nov 2066 14:09
+sat 2: Sha start: 10 Nov 2066 15:16
+sat 2: Tra end  : 10 Nov 2066 16:47
+sat 2: Sha end  : 10 Nov 2066 17:53
+sat 1: Occ start: 11 Nov 2066  1:24
+sat 1: Ecl end  : 11 Nov 2066  4:09
+sat 1: Tra start: 11 Nov 2066 22:33
+sat 1: Sha start: 11 Nov 2066 23:05
+sat 1: Tra end  : 12 Nov 2066  0:45
+sat 1: Sha end  : 12 Nov 2066  1:16
+sat 2: Occ start: 12 Nov 2066  8:21
+sat 2: Ecl end  : 12 Nov 2066 12:02
+sat 1: Occ start: 12 Nov 2066 19:54
+sat 1: Ecl end  : 12 Nov 2066 22:38
+sat 3: Tra start: 13 Nov 2066  5:19
+sat 3: Sha start: 13 Nov 2066  7:24
+sat 3: Tra end  : 13 Nov 2066  7:55
+sat 3: Sha end  : 13 Nov 2066  9:58
+sat 1: Tra start: 13 Nov 2066 17:03
+sat 1: Sha start: 13 Nov 2066 17:33
+sat 1: Tra end  : 13 Nov 2066 19:15
+sat 1: Sha end  : 13 Nov 2066 19:45
+sat 2: Tra start: 14 Nov 2066  3:33
+sat 2: Sha start: 14 Nov 2066  4:34
+sat 2: Tra end  : 14 Nov 2066  6:12
+sat 2: Sha end  : 14 Nov 2066  7:11
+sat 1: Occ start: 14 Nov 2066 14:25
+sat 1: Ecl end  : 14 Nov 2066 17:06
+sat 1: Tra start: 15 Nov 2066 11:33
+sat 1: Sha start: 15 Nov 2066 12:02
+sat 1: Tra end  : 15 Nov 2066 13:45
+sat 1: Sha end  : 15 Nov 2066 14:14
+sat 2: Occ start: 15 Nov 2066 21:46
+sat 2: Ecl end  : 16 Nov 2066  1:20
+sat 1: Occ start: 16 Nov 2066  8:55
+sat 1: Ecl end  : 16 Nov 2066 11:35
+sat 3: Occ start: 16 Nov 2066 19:42
+sat 3: Ecl end  : 17 Nov 2066  0:09
+sat 1: Tra start: 17 Nov 2066  6:04
+sat 1: Sha start: 17 Nov 2066  6:31
+sat 1: Tra end  : 17 Nov 2066  8:16
+sat 1: Sha end  : 17 Nov 2066  8:42
+sat 2: Tra start: 17 Nov 2066 16:58
+sat 2: Sha start: 17 Nov 2066 17:52
+sat 2: Tra end  : 17 Nov 2066 19:37
+sat 2: Sha end  : 17 Nov 2066 20:29
+sat 1: Occ start: 18 Nov 2066  3:26
+sat 1: Ecl end  : 18 Nov 2066  6:03
+sat 1: Tra start: 19 Nov 2066  0:34
+sat 1: Sha start: 19 Nov 2066  0:59
+sat 1: Tra end  : 19 Nov 2066  2:46
+sat 1: Sha end  : 19 Nov 2066  3:11
+sat 2: Occ start: 19 Nov 2066 11:10
+sat 2: Ecl end  : 19 Nov 2066 14:38
+sat 1: Occ start: 19 Nov 2066 21:56
+sat 1: Ecl end  : 20 Nov 2066  0:32
+sat 3: Tra start: 20 Nov 2066  9:46
+sat 3: Sha start: 20 Nov 2066 11:23
+sat 3: Tra end  : 20 Nov 2066 12:24
+sat 3: Sha end  : 20 Nov 2066 13:58
+sat 1: Tra start: 20 Nov 2066 19:05
+sat 1: Sha start: 20 Nov 2066 19:28
+sat 1: Tra end  : 20 Nov 2066 21:17
+sat 1: Sha end  : 20 Nov 2066 21:40
+sat 2: Tra start: 21 Nov 2066  6:23
+sat 2: Sha start: 21 Nov 2066  7:09
+sat 2: Tra end  : 21 Nov 2066  9:01
+sat 2: Sha end  : 21 Nov 2066  9:46
+sat 1: Occ start: 21 Nov 2066 16:26
+sat 1: Ecl end  : 21 Nov 2066 19:01
+sat 1: Tra start: 22 Nov 2066 13:35
+sat 1: Sha start: 22 Nov 2066 13:57
+sat 1: Tra end  : 22 Nov 2066 15:47
+sat 1: Sha end  : 22 Nov 2066 16:08
+sat 2: Occ start: 23 Nov 2066  0:35
+sat 2: Ecl end  : 23 Nov 2066  3:56
+sat 1: Occ start: 23 Nov 2066 10:57
+sat 1: Ecl end  : 23 Nov 2066 13:29
+sat 3: Occ start: 24 Nov 2066  0:10
+sat 3: Ecl end  : 24 Nov 2066  4:08
+sat 1: Tra start: 24 Nov 2066  8:05
+sat 1: Sha start: 24 Nov 2066  8:25
+sat 1: Tra end  : 24 Nov 2066 10:17
+sat 1: Sha end  : 24 Nov 2066 10:37
+sat 2: Tra start: 24 Nov 2066 19:48
+sat 2: Sha start: 24 Nov 2066 20:27
+sat 2: Tra end  : 24 Nov 2066 22:26
+sat 2: Sha end  : 24 Nov 2066 23:04
+sat 1: Occ start: 25 Nov 2066  5:27
+sat 1: Ecl end  : 25 Nov 2066  7:58
+sat 1: Tra start: 26 Nov 2066  2:36
+sat 1: Sha start: 26 Nov 2066  2:54
+sat 1: Tra end  : 26 Nov 2066  4:48
+sat 1: Sha end  : 26 Nov 2066  5:06
+sat 2: Occ start: 26 Nov 2066 14:00
+sat 2: Ecl end  : 26 Nov 2066 17:14
+sat 1: Occ start: 26 Nov 2066 23:57
+sat 1: Ecl end  : 27 Nov 2066  2:26
+sat 3: Tra start: 27 Nov 2066 14:13
+sat 3: Sha start: 27 Nov 2066 15:21
+sat 3: Tra end  : 27 Nov 2066 16:53
+sat 3: Sha end  : 27 Nov 2066 17:58
+sat 1: Tra start: 27 Nov 2066 21:06
+sat 1: Sha start: 27 Nov 2066 21:22
+sat 1: Tra end  : 27 Nov 2066 23:18
+sat 1: Sha end  : 27 Nov 2066 23:34
+sat 2: Tra start: 28 Nov 2066  9:13
+sat 2: Sha start: 28 Nov 2066  9:44
+sat 2: Tra end  : 28 Nov 2066 11:51
+sat 2: Sha end  : 28 Nov 2066 12:22
+sat 1: Occ start: 28 Nov 2066 18:28
+sat 1: Ecl end  : 28 Nov 2066 20:55
+sat 1: Tra start: 29 Nov 2066 15:37
+sat 1: Sha start: 29 Nov 2066 15:51
+sat 1: Tra end  : 29 Nov 2066 17:49
+sat 1: Sha end  : 29 Nov 2066 18:03
+sat 2: Occ start: 30 Nov 2066  3:26
+sat 2: Ecl end  : 30 Nov 2066  6:32
+sat 1: Occ start: 30 Nov 2066 12:58
+sat 1: Ecl end  : 30 Nov 2066 15:24
+sat 3: Occ start:  1 Dec 2066  4:37
+sat 3: Ecl end  :  1 Dec 2066  8:08
+sat 1: Tra start:  1 Dec 2066 10:07
+sat 1: Sha start:  1 Dec 2066 10:20
+sat 1: Tra end  :  1 Dec 2066 12:19
+sat 1: Sha end  :  1 Dec 2066 12:32
+sat 2: Tra start:  1 Dec 2066 22:38
+sat 2: Sha start:  1 Dec 2066 23:02
+sat 2: Tra end  :  2 Dec 2066  1:16
+sat 2: Sha end  :  2 Dec 2066  1:40
+sat 1: Occ start:  2 Dec 2066  7:29
+sat 1: Ecl end  :  2 Dec 2066  9:52
+sat 1: Tra start:  3 Dec 2066  4:37
+sat 1: Sha start:  3 Dec 2066  4:48
+sat 1: Tra end  :  3 Dec 2066  6:50
+sat 1: Sha end  :  3 Dec 2066  7:00
+sat 2: Occ start:  3 Dec 2066 16:51
+sat 2: Ecl end  :  3 Dec 2066 19:50
+sat 1: Occ start:  4 Dec 2066  1:59
+sat 1: Ecl end  :  4 Dec 2066  4:21
+sat 3: Tra start:  4 Dec 2066 18:42
+sat 3: Sha start:  4 Dec 2066 19:20
+sat 3: Tra end  :  4 Dec 2066 21:23
+sat 3: Sha end  :  4 Dec 2066 21:58
+sat 1: Tra start:  4 Dec 2066 23:08
+sat 1: Sha start:  4 Dec 2066 23:17
+sat 1: Tra end  :  5 Dec 2066  1:20
+sat 1: Sha end  :  5 Dec 2066  1:29
+sat 2: Tra start:  5 Dec 2066 12:02
+sat 2: Sha start:  5 Dec 2066 12:20
+sat 2: Tra end  :  5 Dec 2066 14:41
+sat 2: Sha end  :  5 Dec 2066 14:57
+sat 1: Occ start:  5 Dec 2066 20:29
+sat 1: Ecl end  :  5 Dec 2066 22:49
+sat 1: Tra start:  6 Dec 2066 17:38
+sat 1: Sha start:  6 Dec 2066 17:45
+sat 1: Tra end  :  6 Dec 2066 19:51
+sat 1: Sha end  :  6 Dec 2066 19:57
+sat 2: Occ start:  7 Dec 2066  6:17
+sat 2: Ecl end  :  7 Dec 2066  9:08
+sat 1: Occ start:  7 Dec 2066 15:00
+sat 1: Ecl end  :  7 Dec 2066 17:18
+sat 3: Occ start:  8 Dec 2066  9:05
+sat 3: Ecl end  :  8 Dec 2066 12:07
+sat 1: Tra start:  8 Dec 2066 12:09
+sat 1: Sha start:  8 Dec 2066 12:14
+sat 1: Tra end  :  8 Dec 2066 14:21
+sat 1: Sha end  :  8 Dec 2066 14:26
+sat 2: Tra start:  9 Dec 2066  1:27
+sat 2: Sha start:  9 Dec 2066  1:37
+sat 2: Tra end  :  9 Dec 2066  4:06
+sat 2: Sha end  :  9 Dec 2066  4:15
+sat 1: Occ start:  9 Dec 2066  9:30
+sat 1: Ecl end  :  9 Dec 2066 11:46
+sat 1: Tra start: 10 Dec 2066  6:39
+sat 1: Sha start: 10 Dec 2066  6:43
+sat 1: Tra end  : 10 Dec 2066  8:52
+sat 1: Sha end  : 10 Dec 2066  8:55
+sat 2: Occ start: 10 Dec 2066 19:42
+sat 2: Ecl end  : 10 Dec 2066 22:26
+sat 1: Occ start: 11 Dec 2066  4:00
+sat 1: Ecl end  : 11 Dec 2066  6:15
+sat 3: Tra start: 11 Dec 2066 23:10
+sat 3: Sha start: 11 Dec 2066 23:19
+sat 1: Tra start: 12 Dec 2066  1:09
+sat 1: Sha start: 12 Dec 2066  1:11
+sat 3: Tra end  : 12 Dec 2066  1:53
+sat 3: Sha end  : 12 Dec 2066  1:58
+sat 1: Tra end  : 12 Dec 2066  3:22
+sat 1: Sha end  : 12 Dec 2066  3:23
+sat 2: Tra start: 12 Dec 2066 14:52
+sat 2: Sha start: 12 Dec 2066 14:54
+sat 2: Tra end  : 12 Dec 2066 17:31
+sat 2: Sha end  : 12 Dec 2066 17:32
+sat 1: Occ start: 12 Dec 2066 22:31
+sat 1: Ecl end  : 13 Dec 2066  0:44
+sat 1: Sha start: 13 Dec 2066 19:40
+sat 1: Tra start: 13 Dec 2066 19:40
+sat 1: Sha end  : 13 Dec 2066 21:52
+sat 1: Tra end  : 13 Dec 2066 21:52
+sat 2: Ecl start: 14 Dec 2066  9:06
+sat 2: Occ end  : 14 Dec 2066 11:47
+sat 1: Ecl start: 14 Dec 2066 17:00
+sat 1: Occ end  : 14 Dec 2066 19:13
+sat 3: Ecl start: 15 Dec 2066 13:27
+sat 1: Sha start: 15 Dec 2066 14:08
+sat 1: Tra start: 15 Dec 2066 14:10
+sat 3: Occ end  : 15 Dec 2066 16:18
+sat 1: Sha end  : 15 Dec 2066 16:21
+sat 1: Tra end  : 15 Dec 2066 16:23
+sat 2: Sha start: 16 Dec 2066  4:12
+sat 2: Tra start: 16 Dec 2066  4:17
+sat 2: Sha end  : 16 Dec 2066  6:49
+sat 2: Tra end  : 16 Dec 2066  6:56
+sat 1: Ecl start: 16 Dec 2066 11:29
+sat 1: Occ end  : 16 Dec 2066 13:44
+sat 1: Sha start: 17 Dec 2066  8:37
+sat 1: Tra start: 17 Dec 2066  8:41
+sat 1: Sha end  : 17 Dec 2066 10:49
+sat 1: Tra end  : 17 Dec 2066 10:53
+sat 2: Ecl start: 17 Dec 2066 22:24
+sat 2: Occ end  : 18 Dec 2066  1:12
+sat 1: Ecl start: 18 Dec 2066  5:57
+sat 1: Occ end  : 18 Dec 2066  8:14
+sat 1: Sha start: 19 Dec 2066  3:06
+sat 1: Tra start: 19 Dec 2066  3:11
+sat 3: Sha start: 19 Dec 2066  3:17
+sat 3: Tra start: 19 Dec 2066  3:39
+sat 1: Sha end  : 19 Dec 2066  5:18
+sat 1: Tra end  : 19 Dec 2066  5:24
+sat 3: Sha end  : 19 Dec 2066  5:57
+sat 3: Tra end  : 19 Dec 2066  6:23
+sat 2: Sha start: 19 Dec 2066 17:29
+sat 2: Tra start: 19 Dec 2066 17:41
+sat 2: Sha end  : 19 Dec 2066 20:06
+sat 2: Tra end  : 19 Dec 2066 20:20
+sat 1: Ecl start: 20 Dec 2066  0:26
+sat 1: Occ end  : 20 Dec 2066  2:45
+sat 1: Sha start: 20 Dec 2066 21:34
+sat 1: Tra start: 20 Dec 2066 21:42
+sat 1: Sha end  : 20 Dec 2066 23:46
+sat 1: Tra end  : 20 Dec 2066 23:54
+sat 2: Ecl start: 21 Dec 2066 11:42
+sat 2: Occ end  : 21 Dec 2066 14:38
+sat 1: Ecl start: 21 Dec 2066 18:54
+sat 1: Occ end  : 21 Dec 2066 21:15
+sat 1: Sha start: 22 Dec 2066 16:03
+sat 1: Tra start: 22 Dec 2066 16:12
+sat 3: Ecl start: 22 Dec 2066 17:26
+sat 1: Sha end  : 22 Dec 2066 18:15
+sat 1: Tra end  : 22 Dec 2066 18:25
+sat 3: Occ end  : 22 Dec 2066 20:48
+sat 2: Sha start: 23 Dec 2066  6:46
+sat 2: Tra start: 23 Dec 2066  7:06
+sat 2: Sha end  : 23 Dec 2066  9:24
+sat 2: Tra end  : 23 Dec 2066  9:45
+sat 1: Ecl start: 23 Dec 2066 13:23
+sat 1: Occ end  : 23 Dec 2066 15:45
+sat 1: Sha start: 24 Dec 2066 10:31
+sat 1: Tra start: 24 Dec 2066 10:42
+sat 1: Sha end  : 24 Dec 2066 12:44
+sat 1: Tra end  : 24 Dec 2066 12:55
+sat 2: Ecl start: 25 Dec 2066  1:00
+sat 2: Occ end  : 25 Dec 2066  4:04
+sat 1: Ecl start: 25 Dec 2066  7:51
+sat 1: Occ end  : 25 Dec 2066 10:15
+sat 1: Sha start: 26 Dec 2066  5:00
+sat 1: Tra start: 26 Dec 2066  5:13
+sat 1: Sha end  : 26 Dec 2066  7:12
+sat 3: Sha start: 26 Dec 2066  7:15
+sat 1: Tra end  : 26 Dec 2066  7:26
+sat 3: Tra start: 26 Dec 2066  8:06
+sat 3: Sha end  : 26 Dec 2066  9:56
+sat 3: Tra end  : 26 Dec 2066 10:52
+sat 2: Sha start: 26 Dec 2066 20:03
+sat 2: Tra start: 26 Dec 2066 20:30
+sat 2: Sha end  : 26 Dec 2066 22:41
+sat 2: Tra end  : 26 Dec 2066 23:09
+sat 1: Ecl start: 27 Dec 2066  2:20
+sat 1: Occ end  : 27 Dec 2066  4:46
+sat 1: Sha start: 27 Dec 2066 23:28
+sat 1: Tra start: 27 Dec 2066 23:43
+sat 1: Sha end  : 28 Dec 2066  1:41
+sat 1: Tra end  : 28 Dec 2066  1:56
+sat 2: Ecl start: 28 Dec 2066 14:18
+sat 2: Occ end  : 28 Dec 2066 17:30
+sat 1: Ecl start: 28 Dec 2066 20:48
+sat 1: Occ end  : 28 Dec 2066 23:16
+sat 1: Sha start: 29 Dec 2066 17:57
+sat 1: Tra start: 29 Dec 2066 18:13
+sat 1: Sha end  : 29 Dec 2066 20:09
+sat 1: Tra end  : 29 Dec 2066 20:26
+sat 3: Ecl start: 29 Dec 2066 21:25
+sat 3: Occ end  : 30 Dec 2066  1:18
+sat 2: Sha start: 30 Dec 2066  9:21
+sat 2: Tra start: 30 Dec 2066  9:55
+sat 2: Sha end  : 30 Dec 2066 11:58
+sat 2: Tra end  : 30 Dec 2066 12:33
+sat 1: Ecl start: 30 Dec 2066 15:16
+sat 1: Occ end  : 30 Dec 2066 17:46
+sat 1: Sha start: 31 Dec 2066 12:25
+sat 1: Tra start: 31 Dec 2066 12:44
+sat 1: Sha end  : 31 Dec 2066 14:38
+sat 1: Tra end  : 31 Dec 2066 14:57
+sat 2: Ecl start:  1 Jan 2067  3:36
+sat 2: Occ end  :  1 Jan 2067  6:55
+sat 1: Ecl start:  1 Jan 2067  9:45
+sat 1: Occ end  :  1 Jan 2067 12:16
+sat 1: Sha start:  2 Jan 2067  6:54
+sat 1: Tra start:  2 Jan 2067  7:14
+sat 1: Sha end  :  2 Jan 2067  9:06
+sat 1: Tra end  :  2 Jan 2067  9:27
+sat 3: Sha start:  2 Jan 2067 11:13
+sat 3: Tra start:  2 Jan 2067 12:33
+sat 3: Sha end  :  2 Jan 2067 13:55
+sat 3: Tra end  :  2 Jan 2067 15:21
+sat 2: Sha start:  2 Jan 2067 22:37
+sat 2: Tra start:  2 Jan 2067 23:19
+sat 2: Sha end  :  3 Jan 2067  1:15
+sat 2: Tra end  :  3 Jan 2067  1:58
+sat 1: Ecl start:  3 Jan 2067  4:13
+sat 1: Occ end  :  3 Jan 2067  6:47

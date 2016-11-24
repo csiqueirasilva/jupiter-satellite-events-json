@@ -1,5 +1,9 @@
-JD 2458118.500000 to 2458488.500000
+JD 2458117.500000 to 2458487.500000
 Sat 1 from sun
+sat 1: Ecl start: 29 Dec 2017  1:12
+sat 1: Ecl end  : 29 Dec 2017  3:22
+sat 1: Sha start: 29 Dec 2017 22:25
+sat 1: Sha end  : 30 Dec 2017  0:35
 sat 1: Ecl start: 30 Dec 2017 19:40
 sat 1: Ecl end  : 30 Dec 2017 21:50
 sat 1: Sha start: 31 Dec 2017 16:53
@@ -838,9 +842,11 @@ sat 1: Sha start:  3 Jan 2019 19:46
 sat 1: Sha end  :  3 Jan 2019 21:56
 sat 1: Ecl start:  4 Jan 2019 17:06
 sat 1: Ecl end  :  4 Jan 2019 19:16
-sat 1: Sha start:  5 Jan 2019 14:14
-sat 1: Sha end  :  5 Jan 2019 16:24
 Sat 1 from earth
+sat 1: Occ start: 29 Dec 2017  2:09
+sat 1: Occ end  : 29 Dec 2017  4:19
+sat 1: Tra start: 29 Dec 2017 23:23
+sat 1: Tra end  : 30 Dec 2017  1:33
 sat 1: Occ start: 30 Dec 2017 20:39
 sat 1: Occ end  : 30 Dec 2017 22:48
 sat 1: Tra start: 31 Dec 2017 17:53
@@ -1679,10 +1685,10 @@ sat 1: Tra start:  3 Jan 2019 20:24
 sat 1: Tra end  :  3 Jan 2019 22:35
 sat 1: Occ start:  4 Jan 2019 17:45
 sat 1: Occ end  :  4 Jan 2019 19:55
-sat 1: Tra start:  5 Jan 2019 14:54
-sat 1: Tra end  :  5 Jan 2019 17:05
 Finding hidden events
 Sat 2 from sun
+sat 2: Sha start: 29 Dec 2017  0:01
+sat 2: Sha end  : 29 Dec 2017  2:17
 sat 2: Ecl start: 30 Dec 2017 18:35
 sat 2: Ecl end  : 30 Dec 2017 20:52
 sat 2: Sha start:  1 Jan 2018 13:17
@@ -2102,6 +2108,8 @@ sat 2: Sha end  :  2 Jan 2019 17:04
 sat 2: Ecl start:  4 Jan 2019  8:55
 sat 2: Ecl end  :  4 Jan 2019 11:15
 Sat 2 from earth
+sat 2: Tra start: 29 Dec 2017  1:54
+sat 2: Tra end  : 29 Dec 2017  4:09
 sat 2: Occ start: 30 Dec 2017 20:36
 sat 2: Occ end  : 30 Dec 2017 22:52
 sat 2: Tra start:  1 Jan 2018 15:15
@@ -2523,7 +2531,7 @@ sat 2: Occ end  :  4 Jan 2019 12:35
 Finding hidden events
 Sat 3 from sun
 sat 3: Ecl start:  1 Jan 2018 12:01
-sat 3: Ecl end  :  1 Jan 2018 13:52
+sat 3: Ecl end  :  1 Jan 2018 13:51
 sat 3: Sha start:  5 Jan 2018  1:46
 sat 3: Sha end  :  5 Jan 2018  3:36
 sat 3: Ecl start:  8 Jan 2018 15:58
@@ -2728,11 +2736,11 @@ sat 3: Sha start: 29 Dec 2018  8:25
 sat 3: Sha end  : 29 Dec 2018 10:22
 sat 3: Ecl start:  1 Jan 2019 22:38
 sat 3: Ecl end  :  2 Jan 2019  0:36
-sat 3: Sha start:  5 Jan 2019 12:23
-sat 3: Sha end  :  5 Jan 2019 14:20
 Sat 3 from earth
-sat 3: Occ start:  1 Jan 2018 16:07
-sat 3: Occ end  :  1 Jan 2018 17:51
+sat 3: Tra start: 29 Dec 2017  1:44
+sat 3: Tra end  : 29 Dec 2017  3:30
+sat 3: Occ start:  1 Jan 2018 16:06
+sat 3: Occ end  :  1 Jan 2018 17:50
 sat 3: Tra start:  5 Jan 2018  6:02
 sat 3: Tra end  :  5 Jan 2018  7:44
 sat 3: Occ start:  8 Jan 2018 20:22
@@ -2937,28 +2945,32 @@ sat 3: Tra start: 29 Dec 2018 10:35
 sat 3: Tra end  : 29 Dec 2018 12:41
 sat 3: Occ start:  2 Jan 2019  1:02
 sat 3: Occ end  :  2 Jan 2019  3:08
-sat 3: Tra start:  5 Jan 2019 15:00
-sat 3: Tra end  :  5 Jan 2019 17:06
 Finding hidden events
 Sat 4 from sun
 Sat 4 from earth
 Finding hidden events
-Sorting 2932 events
+Sorting 2938 events
 Final results:
+sat 1: Sha end  : 30 Dec 2017  0:35
+sat 1: Tra end  : 30 Dec 2017  1:33
+sat 2: Ecl start: 30 Dec 2017 18:35
+sat 1: Ecl start: 30 Dec 2017 19:40
+sat 1: Occ end  : 30 Dec 2017 22:48
+sat 2: Occ end  : 30 Dec 2017 22:52
 sat 1: Sha start: 31 Dec 2017 16:53
 sat 1: Tra start: 31 Dec 2017 17:53
 sat 1: Sha end  : 31 Dec 2017 19:03
 sat 1: Tra end  : 31 Dec 2017 20:03
 sat 3: Ecl start:  1 Jan 2018 12:01
 sat 2: Sha start:  1 Jan 2018 13:17
-sat 3: Ecl end  :  1 Jan 2018 13:52
+sat 3: Ecl end  :  1 Jan 2018 13:51
 sat 1: Ecl start:  1 Jan 2018 14:09
 sat 2: Tra start:  1 Jan 2018 15:15
 sat 2: Sha end  :  1 Jan 2018 15:33
-sat 3: Occ start:  1 Jan 2018 16:07
+sat 3: Occ start:  1 Jan 2018 16:06
 sat 1: Occ end  :  1 Jan 2018 17:17
 sat 2: Tra end  :  1 Jan 2018 17:30
-sat 3: Occ end  :  1 Jan 2018 17:51
+sat 3: Occ end  :  1 Jan 2018 17:50
 sat 1: Sha start:  2 Jan 2018 11:22
 sat 1: Tra start:  2 Jan 2018 12:23
 sat 1: Sha end  :  2 Jan 2018 13:32
@@ -5269,7 +5281,3 @@ sat 1: Sha start:  3 Jan 2019 19:46
 sat 1: Tra start:  3 Jan 2019 20:24
 sat 1: Sha end  :  3 Jan 2019 21:56
 sat 1: Tra end  :  3 Jan 2019 22:35
-sat 2: Ecl start:  4 Jan 2019  8:55
-sat 2: Occ end  :  4 Jan 2019 12:35
-sat 1: Ecl start:  4 Jan 2019 17:06
-sat 1: Occ end  :  4 Jan 2019 19:55

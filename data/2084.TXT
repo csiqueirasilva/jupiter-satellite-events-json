@@ -1,0 +1,2358 @@
+sat 1: Occ start: 30 Dec 2083  7:24
+sat 2: Tra start: 30 Dec 2083  9:40
+sat 1: Ecl end  : 30 Dec 2083 10:20
+sat 2: Sha start: 30 Dec 2083 11:12
+sat 2: Tra end  : 30 Dec 2083 12:04
+sat 2: Sha end  : 30 Dec 2083 13:39
+sat 3: Tra start: 30 Dec 2083 14:48
+sat 3: Tra end  : 30 Dec 2083 17:02
+sat 3: Sha start: 30 Dec 2083 17:56
+sat 3: Sha end  : 30 Dec 2083 20:21
+sat 1: Tra start: 31 Dec 2083  4:39
+sat 1: Sha start: 31 Dec 2083  5:27
+sat 1: Tra end  : 31 Dec 2083  6:49
+sat 1: Sha end  : 31 Dec 2083  7:38
+sat 1: Occ start:  1 Jan 2084  1:50
+sat 2: Occ start:  1 Jan 2084  4:26
+sat 1: Ecl end  :  1 Jan 2084  4:49
+sat 2: Ecl end  :  1 Jan 2084  8:34
+sat 1: Tra start:  1 Jan 2084 23:06
+sat 1: Sha start:  1 Jan 2084 23:56
+sat 1: Tra end  :  2 Jan 2084  1:16
+sat 1: Sha end  :  2 Jan 2084  2:07
+sat 1: Occ start:  2 Jan 2084 20:17
+sat 2: Tra start:  2 Jan 2084 22:49
+sat 1: Ecl end  :  2 Jan 2084 23:18
+sat 2: Sha start:  3 Jan 2084  0:29
+sat 2: Tra end  :  3 Jan 2084  1:13
+sat 2: Sha end  :  3 Jan 2084  2:57
+sat 3: Occ start:  3 Jan 2084  4:35
+sat 3: Occ end  :  3 Jan 2084  6:51
+sat 3: Ecl start:  3 Jan 2084  7:59
+sat 3: Ecl end  :  3 Jan 2084 10:25
+sat 1: Tra start:  3 Jan 2084 17:32
+sat 1: Sha start:  3 Jan 2084 18:25
+sat 1: Tra end  :  3 Jan 2084 19:43
+sat 1: Sha end  :  3 Jan 2084 20:36
+sat 1: Occ start:  4 Jan 2084 14:44
+sat 2: Occ start:  4 Jan 2084 17:36
+sat 1: Ecl end  :  4 Jan 2084 17:47
+sat 2: Ecl end  :  4 Jan 2084 21:53
+sat 1: Tra start:  5 Jan 2084 11:59
+sat 1: Sha start:  5 Jan 2084 12:54
+sat 1: Tra end  :  5 Jan 2084 14:10
+sat 1: Sha end  :  5 Jan 2084 15:05
+sat 1: Occ start:  6 Jan 2084  9:10
+sat 2: Tra start:  6 Jan 2084 11:59
+sat 1: Ecl end  :  6 Jan 2084 12:15
+sat 2: Sha start:  6 Jan 2084 13:47
+sat 2: Tra end  :  6 Jan 2084 14:23
+sat 2: Sha end  :  6 Jan 2084 16:15
+sat 3: Tra start:  6 Jan 2084 18:15
+sat 3: Tra end  :  6 Jan 2084 20:31
+sat 3: Sha start:  6 Jan 2084 21:57
+sat 3: Sha end  :  7 Jan 2084  0:23
+sat 1: Tra start:  7 Jan 2084  6:26
+sat 1: Sha start:  7 Jan 2084  7:23
+sat 1: Tra end  :  7 Jan 2084  8:37
+sat 1: Sha end  :  7 Jan 2084  9:34
+sat 1: Occ start:  8 Jan 2084  3:37
+sat 1: Ecl end  :  8 Jan 2084  6:44
+sat 2: Occ start:  8 Jan 2084  6:48
+sat 2: Ecl end  :  8 Jan 2084 11:13
+sat 1: Tra start:  9 Jan 2084  0:53
+sat 1: Sha start:  9 Jan 2084  1:52
+sat 1: Tra end  :  9 Jan 2084  3:04
+sat 1: Sha end  :  9 Jan 2084  4:03
+sat 1: Occ start:  9 Jan 2084 22:04
+sat 2: Tra start: 10 Jan 2084  1:09
+sat 1: Ecl end  : 10 Jan 2084  1:13
+sat 2: Sha start: 10 Jan 2084  3:05
+sat 2: Tra end  : 10 Jan 2084  3:34
+sat 2: Sha end  : 10 Jan 2084  5:32
+sat 3: Occ start: 10 Jan 2084  8:04
+sat 3: Occ end  : 10 Jan 2084 10:22
+sat 3: Ecl start: 10 Jan 2084 11:59
+sat 3: Ecl end  : 10 Jan 2084 14:26
+sat 1: Tra start: 10 Jan 2084 19:21
+sat 1: Sha start: 10 Jan 2084 20:21
+sat 1: Tra end  : 10 Jan 2084 21:31
+sat 1: Sha end  : 10 Jan 2084 22:32
+sat 1: Occ start: 11 Jan 2084 16:31
+sat 1: Ecl end  : 11 Jan 2084 19:42
+sat 2: Occ start: 11 Jan 2084 19:59
+sat 2: Ecl end  : 12 Jan 2084  0:32
+sat 1: Tra start: 12 Jan 2084 13:48
+sat 1: Sha start: 12 Jan 2084 14:50
+sat 1: Tra end  : 12 Jan 2084 15:58
+sat 1: Sha end  : 12 Jan 2084 17:01
+sat 1: Occ start: 13 Jan 2084 10:58
+sat 1: Ecl end  : 13 Jan 2084 14:10
+sat 2: Tra start: 13 Jan 2084 14:20
+sat 2: Sha start: 13 Jan 2084 16:23
+sat 2: Tra end  : 13 Jan 2084 16:45
+sat 2: Sha end  : 13 Jan 2084 18:51
+sat 3: Tra start: 13 Jan 2084 21:47
+sat 3: Tra end  : 14 Jan 2084  0:06
+sat 3: Sha start: 14 Jan 2084  1:59
+sat 3: Sha end  : 14 Jan 2084  4:26
+sat 1: Tra start: 14 Jan 2084  8:15
+sat 1: Sha start: 14 Jan 2084  9:18
+sat 1: Tra end  : 14 Jan 2084 10:26
+sat 1: Sha end  : 14 Jan 2084 11:30
+sat 1: Occ start: 15 Jan 2084  5:26
+sat 1: Ecl end  : 15 Jan 2084  8:39
+sat 2: Occ start: 15 Jan 2084  9:12
+sat 2: Ecl end  : 15 Jan 2084 13:51
+sat 1: Tra start: 16 Jan 2084  2:42
+sat 1: Sha start: 16 Jan 2084  3:47
+sat 1: Tra end  : 16 Jan 2084  4:53
+sat 1: Sha end  : 16 Jan 2084  5:58
+sat 1: Occ start: 16 Jan 2084 23:53
+sat 1: Ecl end  : 17 Jan 2084  3:08
+sat 2: Tra start: 17 Jan 2084  3:32
+sat 2: Sha start: 17 Jan 2084  5:40
+sat 2: Tra end  : 17 Jan 2084  5:57
+sat 2: Sha end  : 17 Jan 2084  8:08
+sat 3: Occ start: 17 Jan 2084 11:37
+sat 3: Occ end  : 17 Jan 2084 13:58
+sat 3: Ecl start: 17 Jan 2084 16:00
+sat 3: Ecl end  : 17 Jan 2084 18:27
+sat 1: Tra start: 17 Jan 2084 21:10
+sat 1: Sha start: 17 Jan 2084 22:16
+sat 1: Tra end  : 17 Jan 2084 23:20
+sat 1: Sha end  : 18 Jan 2084  0:27
+sat 1: Occ start: 18 Jan 2084 18:20
+sat 1: Ecl end  : 18 Jan 2084 21:37
+sat 2: Occ start: 18 Jan 2084 22:25
+sat 2: Ecl end  : 19 Jan 2084  3:10
+sat 1: Tra start: 19 Jan 2084 15:37
+sat 1: Sha start: 19 Jan 2084 16:45
+sat 1: Tra end  : 19 Jan 2084 17:48
+sat 1: Sha end  : 19 Jan 2084 18:56
+sat 1: Occ start: 20 Jan 2084 12:48
+sat 1: Ecl end  : 20 Jan 2084 16:06
+sat 2: Tra start: 20 Jan 2084 16:44
+sat 2: Sha start: 20 Jan 2084 18:58
+sat 2: Tra end  : 20 Jan 2084 19:10
+sat 2: Sha end  : 20 Jan 2084 21:27
+sat 3: Tra start: 21 Jan 2084  1:24
+sat 3: Tra end  : 21 Jan 2084  3:45
+sat 3: Sha start: 21 Jan 2084  6:00
+sat 3: Sha end  : 21 Jan 2084  8:28
+sat 1: Tra start: 21 Jan 2084 10:05
+sat 1: Sha start: 21 Jan 2084 11:14
+sat 1: Tra end  : 21 Jan 2084 12:16
+sat 1: Sha end  : 21 Jan 2084 13:25
+sat 1: Occ start: 22 Jan 2084  7:15
+sat 1: Ecl end  : 22 Jan 2084 10:35
+sat 2: Occ start: 22 Jan 2084 11:39
+sat 2: Ecl end  : 22 Jan 2084 16:29
+sat 1: Tra start: 23 Jan 2084  4:33
+sat 1: Sha start: 23 Jan 2084  5:43
+sat 1: Tra end  : 23 Jan 2084  6:43
+sat 1: Sha end  : 23 Jan 2084  7:54
+sat 1: Occ start: 24 Jan 2084  1:43
+sat 1: Ecl end  : 24 Jan 2084  5:03
+sat 2: Tra start: 24 Jan 2084  5:57
+sat 2: Sha start: 24 Jan 2084  8:16
+sat 2: Tra end  : 24 Jan 2084  8:23
+sat 2: Sha end  : 24 Jan 2084 10:45
+sat 3: Occ start: 24 Jan 2084 15:17
+sat 3: Occ end  : 24 Jan 2084 17:39
+sat 3: Ecl start: 24 Jan 2084 20:01
+sat 3: Ecl end  : 24 Jan 2084 22:29
+sat 1: Tra start: 24 Jan 2084 23:00
+sat 1: Sha start: 25 Jan 2084  0:12
+sat 1: Tra end  : 25 Jan 2084  1:11
+sat 1: Sha end  : 25 Jan 2084  2:23
+sat 1: Occ start: 25 Jan 2084 20:10
+sat 1: Ecl end  : 25 Jan 2084 23:32
+sat 2: Occ start: 26 Jan 2084  0:53
+sat 2: Ecl end  : 26 Jan 2084  5:48
+sat 1: Tra start: 26 Jan 2084 17:28
+sat 1: Sha start: 26 Jan 2084 18:41
+sat 1: Tra end  : 26 Jan 2084 19:39
+sat 1: Sha end  : 26 Jan 2084 20:52
+sat 1: Occ start: 27 Jan 2084 14:38
+sat 1: Ecl end  : 27 Jan 2084 18:01
+sat 2: Tra start: 27 Jan 2084 19:11
+sat 2: Sha start: 27 Jan 2084 21:34
+sat 2: Tra end  : 27 Jan 2084 21:37
+sat 2: Sha end  : 28 Jan 2084  0:03
+sat 3: Tra start: 28 Jan 2084  5:06
+sat 3: Tra end  : 28 Jan 2084  7:29
+sat 3: Sha start: 28 Jan 2084 10:01
+sat 1: Tra start: 28 Jan 2084 11:56
+sat 3: Sha end  : 28 Jan 2084 12:30
+sat 1: Sha start: 28 Jan 2084 13:10
+sat 1: Tra end  : 28 Jan 2084 14:07
+sat 1: Sha end  : 28 Jan 2084 15:21
+sat 1: Occ start: 29 Jan 2084  9:06
+sat 1: Ecl end  : 29 Jan 2084 12:30
+sat 2: Occ start: 29 Jan 2084 14:08
+sat 2: Occ end  : 29 Jan 2084 16:36
+sat 2: Ecl start: 29 Jan 2084 16:37
+sat 2: Ecl end  : 29 Jan 2084 19:08
+sat 1: Tra start: 30 Jan 2084  6:24
+sat 1: Sha start: 30 Jan 2084  7:39
+sat 1: Tra end  : 30 Jan 2084  8:35
+sat 1: Sha end  : 30 Jan 2084  9:50
+sat 1: Occ start: 31 Jan 2084  3:34
+sat 1: Ecl end  : 31 Jan 2084  6:59
+sat 2: Tra start: 31 Jan 2084  8:25
+sat 2: Tra end  : 31 Jan 2084 10:51
+sat 2: Sha start: 31 Jan 2084 10:52
+sat 2: Sha end  : 31 Jan 2084 13:21
+sat 3: Occ start: 31 Jan 2084 19:01
+sat 3: Occ end  : 31 Jan 2084 21:26
+sat 3: Ecl start:  1 Feb 2084  0:02
+sat 1: Tra start:  1 Feb 2084  0:52
+sat 1: Sha start:  1 Feb 2084  2:08
+sat 3: Ecl end  :  1 Feb 2084  2:31
+sat 1: Tra end  :  1 Feb 2084  3:03
+sat 1: Sha end  :  1 Feb 2084  4:19
+sat 1: Occ start:  1 Feb 2084 22:02
+sat 1: Ecl end  :  2 Feb 2084  1:28
+sat 2: Occ start:  2 Feb 2084  3:23
+sat 2: Occ end  :  2 Feb 2084  5:51
+sat 2: Ecl start:  2 Feb 2084  5:56
+sat 2: Ecl end  :  2 Feb 2084  8:26
+sat 1: Tra start:  2 Feb 2084 19:20
+sat 1: Sha start:  2 Feb 2084 20:37
+sat 1: Tra end  :  2 Feb 2084 21:31
+sat 1: Sha end  :  2 Feb 2084 22:48
+sat 1: Occ start:  3 Feb 2084 16:30
+sat 1: Ecl end  :  3 Feb 2084 19:56
+sat 2: Tra start:  3 Feb 2084 21:40
+sat 2: Tra end  :  4 Feb 2084  0:06
+sat 2: Sha start:  4 Feb 2084  0:10
+sat 2: Sha end  :  4 Feb 2084  2:39
+sat 3: Tra start:  4 Feb 2084  8:52
+sat 3: Tra end  :  4 Feb 2084 11:18
+sat 1: Tra start:  4 Feb 2084 13:49
+sat 3: Sha start:  4 Feb 2084 14:02
+sat 1: Sha start:  4 Feb 2084 15:06
+sat 1: Tra end  :  4 Feb 2084 16:00
+sat 3: Sha end  :  4 Feb 2084 16:31
+sat 1: Sha end  :  4 Feb 2084 17:17
+sat 1: Occ start:  5 Feb 2084 10:58
+sat 1: Ecl end  :  5 Feb 2084 14:25
+sat 2: Occ start:  5 Feb 2084 16:40
+sat 2: Occ end  :  5 Feb 2084 19:08
+sat 2: Ecl start:  5 Feb 2084 19:15
+sat 2: Ecl end  :  5 Feb 2084 21:46
+sat 1: Tra start:  6 Feb 2084  8:17
+sat 1: Sha start:  6 Feb 2084  9:35
+sat 1: Tra end  :  6 Feb 2084 10:28
+sat 1: Sha end  :  6 Feb 2084 11:46
+sat 1: Occ start:  7 Feb 2084  5:26
+sat 1: Ecl end  :  7 Feb 2084  8:54
+sat 2: Tra start:  7 Feb 2084 10:55
+sat 2: Tra end  :  7 Feb 2084 13:22
+sat 2: Sha start:  7 Feb 2084 13:28
+sat 2: Sha end  :  7 Feb 2084 15:58
+sat 3: Occ start:  7 Feb 2084 22:51
+sat 3: Occ end  :  8 Feb 2084  1:18
+sat 1: Tra start:  8 Feb 2084  2:45
+sat 3: Ecl start:  8 Feb 2084  4:03
+sat 1: Sha start:  8 Feb 2084  4:03
+sat 1: Tra end  :  8 Feb 2084  4:56
+sat 1: Sha end  :  8 Feb 2084  6:15
+sat 3: Ecl end  :  8 Feb 2084  6:33
+sat 1: Occ start:  8 Feb 2084 23:55
+sat 1: Ecl end  :  9 Feb 2084  3:23
+sat 2: Occ start:  9 Feb 2084  5:56
+sat 2: Occ end  :  9 Feb 2084  8:25
+sat 2: Ecl start:  9 Feb 2084  8:34
+sat 2: Ecl end  :  9 Feb 2084 11:05
+sat 1: Tra start:  9 Feb 2084 21:14
+sat 1: Sha start:  9 Feb 2084 22:32
+sat 1: Tra end  :  9 Feb 2084 23:25
+sat 1: Sha end  : 10 Feb 2084  0:44
+sat 1: Occ start: 10 Feb 2084 18:23
+sat 1: Ecl end  : 10 Feb 2084 21:52
+sat 2: Tra start: 11 Feb 2084  0:11
+sat 2: Tra end  : 11 Feb 2084  2:38
+sat 2: Sha start: 11 Feb 2084  2:47
+sat 2: Sha end  : 11 Feb 2084  5:16
+sat 3: Tra start: 11 Feb 2084 12:44
+sat 3: Tra end  : 11 Feb 2084 15:11
+sat 1: Tra start: 11 Feb 2084 15:42
+sat 1: Sha start: 11 Feb 2084 17:01
+sat 1: Tra end  : 11 Feb 2084 17:53
+sat 3: Sha start: 11 Feb 2084 18:03
+sat 1: Sha end  : 11 Feb 2084 19:13
+sat 3: Sha end  : 11 Feb 2084 20:33
+sat 1: Occ start: 12 Feb 2084 12:52
+sat 1: Ecl end  : 12 Feb 2084 16:21
+sat 2: Occ start: 12 Feb 2084 19:14
+sat 2: Occ end  : 12 Feb 2084 21:43
+sat 2: Ecl start: 12 Feb 2084 21:53
+sat 2: Ecl end  : 13 Feb 2084  0:24
+sat 1: Tra start: 13 Feb 2084 10:11
+sat 1: Sha start: 13 Feb 2084 11:30
+sat 1: Tra end  : 13 Feb 2084 12:22
+sat 1: Sha end  : 13 Feb 2084 13:41
+sat 1: Occ start: 14 Feb 2084  7:20
+sat 1: Ecl end  : 14 Feb 2084 10:50
+sat 2: Tra start: 14 Feb 2084 13:28
+sat 2: Tra end  : 14 Feb 2084 15:55
+sat 2: Sha start: 14 Feb 2084 16:05
+sat 2: Sha end  : 14 Feb 2084 18:34
+sat 3: Occ start: 15 Feb 2084  2:45
+sat 1: Tra start: 15 Feb 2084  4:39
+sat 3: Occ end  : 15 Feb 2084  5:14
+sat 1: Sha start: 15 Feb 2084  5:59
+sat 1: Tra end  : 15 Feb 2084  6:51
+sat 3: Ecl start: 15 Feb 2084  8:04
+sat 1: Sha end  : 15 Feb 2084  8:10
+sat 3: Ecl end  : 15 Feb 2084 10:35
+sat 1: Occ start: 16 Feb 2084  1:49
+sat 1: Ecl end  : 16 Feb 2084  5:18
+sat 2: Occ start: 16 Feb 2084  8:31
+sat 2: Occ end  : 16 Feb 2084 11:01
+sat 2: Ecl start: 16 Feb 2084 11:12
+sat 2: Ecl end  : 16 Feb 2084 13:43
+sat 1: Tra start: 16 Feb 2084 23:08
+sat 1: Sha start: 17 Feb 2084  0:28
+sat 1: Tra end  : 17 Feb 2084  1:19
+sat 1: Sha end  : 17 Feb 2084  2:39
+sat 1: Occ start: 17 Feb 2084 20:17
+sat 1: Ecl end  : 17 Feb 2084 23:47
+sat 2: Tra start: 18 Feb 2084  2:45
+sat 2: Tra end  : 18 Feb 2084  5:13
+sat 2: Sha start: 18 Feb 2084  5:23
+sat 2: Sha end  : 18 Feb 2084  7:53
+sat 3: Tra start: 18 Feb 2084 16:41
+sat 1: Tra start: 18 Feb 2084 17:37
+sat 1: Sha start: 18 Feb 2084 18:57
+sat 3: Tra end  : 18 Feb 2084 19:10
+sat 1: Tra end  : 18 Feb 2084 19:48
+sat 1: Sha end  : 18 Feb 2084 21:08
+sat 3: Sha start: 18 Feb 2084 22:04
+sat 3: Sha end  : 19 Feb 2084  0:36
+sat 1: Occ start: 19 Feb 2084 14:46
+sat 1: Ecl end  : 19 Feb 2084 18:16
+sat 2: Occ start: 19 Feb 2084 21:50
+sat 2: Occ end  : 20 Feb 2084  0:20
+sat 2: Ecl start: 20 Feb 2084  0:31
+sat 2: Ecl end  : 20 Feb 2084  3:02
+sat 1: Tra start: 20 Feb 2084 12:06
+sat 1: Sha start: 20 Feb 2084 13:26
+sat 1: Tra end  : 20 Feb 2084 14:17
+sat 1: Sha end  : 20 Feb 2084 15:37
+sat 1: Occ start: 21 Feb 2084  9:15
+sat 1: Ecl end  : 21 Feb 2084 12:45
+sat 2: Tra start: 21 Feb 2084 16:03
+sat 2: Tra end  : 21 Feb 2084 18:31
+sat 2: Sha start: 21 Feb 2084 18:41
+sat 2: Sha end  : 21 Feb 2084 21:11
+sat 1: Tra start: 22 Feb 2084  6:35
+sat 3: Occ start: 22 Feb 2084  6:44
+sat 1: Sha start: 22 Feb 2084  7:55
+sat 1: Tra end  : 22 Feb 2084  8:46
+sat 3: Occ end  : 22 Feb 2084  9:14
+sat 1: Sha end  : 22 Feb 2084 10:06
+sat 3: Ecl start: 22 Feb 2084 12:05
+sat 3: Ecl end  : 22 Feb 2084 14:37
+sat 1: Occ start: 23 Feb 2084  3:44
+sat 1: Ecl end  : 23 Feb 2084  7:14
+sat 2: Occ start: 23 Feb 2084 11:09
+sat 2: Occ end  : 23 Feb 2084 13:39
+sat 2: Ecl start: 23 Feb 2084 13:50
+sat 2: Ecl end  : 23 Feb 2084 16:21
+sat 1: Tra start: 24 Feb 2084  1:04
+sat 1: Sha start: 24 Feb 2084  2:24
+sat 1: Tra end  : 24 Feb 2084  3:15
+sat 1: Sha end  : 24 Feb 2084  4:35
+sat 1: Occ start: 24 Feb 2084 22:13
+sat 1: Ecl end  : 25 Feb 2084  1:43
+sat 2: Tra start: 25 Feb 2084  5:21
+sat 2: Tra end  : 25 Feb 2084  7:50
+sat 2: Sha start: 25 Feb 2084  7:59
+sat 2: Sha end  : 25 Feb 2084 10:30
+sat 1: Tra start: 25 Feb 2084 19:33
+sat 3: Tra start: 25 Feb 2084 20:42
+sat 1: Sha start: 25 Feb 2084 20:53
+sat 1: Tra end  : 25 Feb 2084 21:44
+sat 1: Sha end  : 25 Feb 2084 23:04
+sat 3: Tra end  : 25 Feb 2084 23:13
+sat 3: Sha start: 26 Feb 2084  2:05
+sat 3: Sha end  : 26 Feb 2084  4:38
+sat 1: Occ start: 26 Feb 2084 16:42
+sat 1: Ecl end  : 26 Feb 2084 20:12
+sat 2: Occ start: 27 Feb 2084  0:29
+sat 2: Occ end  : 27 Feb 2084  2:59
+sat 2: Ecl start: 27 Feb 2084  3:09
+sat 2: Ecl end  : 27 Feb 2084  5:40
+sat 1: Tra start: 27 Feb 2084 14:02
+sat 1: Sha start: 27 Feb 2084 15:22
+sat 1: Tra end  : 27 Feb 2084 16:13
+sat 1: Sha end  : 27 Feb 2084 17:33
+sat 1: Occ start: 28 Feb 2084 11:11
+sat 1: Ecl end  : 28 Feb 2084 14:41
+sat 2: Tra start: 28 Feb 2084 18:40
+sat 2: Tra end  : 28 Feb 2084 21:09
+sat 2: Sha start: 28 Feb 2084 21:18
+sat 2: Sha end  : 28 Feb 2084 23:48
+sat 1: Tra start: 29 Feb 2084  8:31
+sat 1: Sha start: 29 Feb 2084  9:50
+sat 1: Tra end  : 29 Feb 2084 10:42
+sat 3: Occ start: 29 Feb 2084 10:46
+sat 1: Sha end  : 29 Feb 2084 12:02
+sat 3: Occ end  : 29 Feb 2084 13:18
+sat 3: Ecl start: 29 Feb 2084 16:05
+sat 3: Ecl end  : 29 Feb 2084 18:38
+sat 1: Occ start:  1 Mar 2084  5:40
+sat 1: Ecl end  :  1 Mar 2084  9:10
+sat 2: Occ start:  1 Mar 2084 13:48
+sat 2: Occ end  :  1 Mar 2084 16:18
+sat 2: Ecl start:  1 Mar 2084 16:27
+sat 2: Ecl end  :  1 Mar 2084 18:59
+sat 1: Tra start:  2 Mar 2084  3:00
+sat 1: Sha start:  2 Mar 2084  4:19
+sat 1: Tra end  :  2 Mar 2084  5:12
+sat 1: Sha end  :  2 Mar 2084  6:31
+sat 1: Occ start:  3 Mar 2084  0:09
+sat 1: Ecl end  :  3 Mar 2084  3:38
+sat 2: Tra start:  3 Mar 2084  7:59
+sat 2: Tra end  :  3 Mar 2084 10:29
+sat 2: Sha start:  3 Mar 2084 10:36
+sat 2: Sha end  :  3 Mar 2084 13:07
+sat 1: Tra start:  3 Mar 2084 21:29
+sat 1: Sha start:  3 Mar 2084 22:48
+sat 1: Tra end  :  3 Mar 2084 23:41
+sat 3: Tra start:  4 Mar 2084  0:48
+sat 1: Sha end  :  4 Mar 2084  1:00
+sat 3: Tra end  :  4 Mar 2084  3:21
+sat 3: Sha start:  4 Mar 2084  6:07
+sat 3: Sha end  :  4 Mar 2084  8:41
+sat 1: Occ start:  4 Mar 2084 18:38
+sat 1: Ecl end  :  4 Mar 2084 22:07
+sat 2: Occ start:  5 Mar 2084  3:09
+sat 2: Occ end  :  5 Mar 2084  5:39
+sat 2: Ecl start:  5 Mar 2084  5:46
+sat 2: Ecl end  :  5 Mar 2084  8:18
+sat 1: Tra start:  5 Mar 2084 15:59
+sat 1: Sha start:  5 Mar 2084 17:17
+sat 1: Tra end  :  5 Mar 2084 18:10
+sat 1: Sha end  :  5 Mar 2084 19:29
+sat 1: Occ start:  6 Mar 2084 13:07
+sat 1: Ecl end  :  6 Mar 2084 16:36
+sat 2: Tra start:  6 Mar 2084 21:19
+sat 2: Tra end  :  6 Mar 2084 23:49
+sat 2: Sha start:  6 Mar 2084 23:54
+sat 2: Sha end  :  7 Mar 2084  2:25
+sat 1: Tra start:  7 Mar 2084 10:28
+sat 1: Sha start:  7 Mar 2084 11:46
+sat 1: Tra end  :  7 Mar 2084 12:40
+sat 1: Sha end  :  7 Mar 2084 13:57
+sat 3: Occ start:  7 Mar 2084 14:53
+sat 3: Occ end  :  7 Mar 2084 17:26
+sat 3: Ecl start:  7 Mar 2084 20:06
+sat 3: Ecl end  :  7 Mar 2084 22:40
+sat 1: Occ start:  8 Mar 2084  7:37
+sat 1: Ecl end  :  8 Mar 2084 11:05
+sat 2: Occ start:  8 Mar 2084 16:29
+sat 2: Occ end  :  8 Mar 2084 19:00
+sat 2: Ecl start:  8 Mar 2084 19:04
+sat 2: Ecl end  :  8 Mar 2084 21:36
+sat 1: Tra start:  9 Mar 2084  4:58
+sat 1: Sha start:  9 Mar 2084  6:15
+sat 1: Tra end  :  9 Mar 2084  7:09
+sat 1: Sha end  :  9 Mar 2084  8:26
+sat 1: Occ start: 10 Mar 2084  2:06
+sat 1: Ecl end  : 10 Mar 2084  5:34
+sat 2: Tra start: 10 Mar 2084 10:40
+sat 2: Tra end  : 10 Mar 2084 13:10
+sat 2: Sha start: 10 Mar 2084 13:13
+sat 2: Sha end  : 10 Mar 2084 15:44
+sat 1: Tra start: 10 Mar 2084 23:27
+sat 1: Sha start: 11 Mar 2084  0:44
+sat 1: Tra end  : 11 Mar 2084  1:39
+sat 1: Sha end  : 11 Mar 2084  2:55
+sat 3: Tra start: 11 Mar 2084  4:57
+sat 3: Tra end  : 11 Mar 2084  7:32
+sat 3: Sha start: 11 Mar 2084 10:08
+sat 3: Sha end  : 11 Mar 2084 12:43
+sat 1: Occ start: 11 Mar 2084 20:36
+sat 1: Ecl end  : 12 Mar 2084  0:03
+sat 2: Occ start: 12 Mar 2084  5:50
+sat 2: Occ end  : 12 Mar 2084  8:21
+sat 2: Ecl start: 12 Mar 2084  8:23
+sat 2: Ecl end  : 12 Mar 2084 10:55
+sat 1: Tra start: 12 Mar 2084 17:57
+sat 1: Sha start: 12 Mar 2084 19:13
+sat 1: Tra end  : 12 Mar 2084 20:08
+sat 1: Sha end  : 12 Mar 2084 21:24
+sat 1: Occ start: 13 Mar 2084 15:05
+sat 1: Ecl end  : 13 Mar 2084 18:32
+sat 2: Tra start: 14 Mar 2084  0:00
+sat 2: Tra end  : 14 Mar 2084  2:30
+sat 2: Sha start: 14 Mar 2084  2:31
+sat 2: Sha end  : 14 Mar 2084  5:03
+sat 1: Tra start: 14 Mar 2084 12:26
+sat 1: Sha start: 14 Mar 2084 13:42
+sat 1: Tra end  : 14 Mar 2084 14:38
+sat 1: Sha end  : 14 Mar 2084 15:53
+sat 3: Occ start: 14 Mar 2084 19:04
+sat 3: Occ end  : 14 Mar 2084 21:39
+sat 3: Ecl start: 15 Mar 2084  0:07
+sat 3: Ecl end  : 15 Mar 2084  2:42
+sat 1: Occ start: 15 Mar 2084  9:35
+sat 1: Ecl end  : 15 Mar 2084 13:01
+sat 2: Occ start: 15 Mar 2084 19:11
+sat 2: Ecl end  : 16 Mar 2084  0:13
+sat 1: Tra start: 16 Mar 2084  6:56
+sat 1: Sha start: 16 Mar 2084  8:11
+sat 1: Tra end  : 16 Mar 2084  9:07
+sat 1: Sha end  : 16 Mar 2084 10:22
+sat 1: Occ start: 17 Mar 2084  4:04
+sat 1: Ecl end  : 17 Mar 2084  7:30
+sat 2: Tra start: 17 Mar 2084 13:22
+sat 2: Sha start: 17 Mar 2084 15:50
+sat 2: Tra end  : 17 Mar 2084 15:52
+sat 2: Sha end  : 17 Mar 2084 18:22
+sat 1: Tra start: 18 Mar 2084  1:25
+sat 1: Sha start: 18 Mar 2084  2:39
+sat 1: Tra end  : 18 Mar 2084  3:37
+sat 1: Sha end  : 18 Mar 2084  4:51
+sat 3: Tra start: 18 Mar 2084  9:10
+sat 3: Tra end  : 18 Mar 2084 11:45
+sat 3: Sha start: 18 Mar 2084 14:09
+sat 3: Sha end  : 18 Mar 2084 16:45
+sat 1: Occ start: 18 Mar 2084 22:34
+sat 1: Ecl end  : 19 Mar 2084  1:58
+sat 2: Occ start: 19 Mar 2084  8:33
+sat 2: Ecl end  : 19 Mar 2084 13:32
+sat 1: Tra start: 19 Mar 2084 19:55
+sat 1: Sha start: 19 Mar 2084 21:08
+sat 1: Tra end  : 19 Mar 2084 22:07
+sat 1: Sha end  : 19 Mar 2084 23:20
+sat 1: Occ start: 20 Mar 2084 17:04
+sat 1: Ecl end  : 20 Mar 2084 20:27
+sat 2: Tra start: 21 Mar 2084  2:43
+sat 2: Sha start: 21 Mar 2084  5:08
+sat 2: Tra end  : 21 Mar 2084  5:14
+sat 2: Sha end  : 21 Mar 2084  7:40
+sat 1: Tra start: 21 Mar 2084 14:25
+sat 1: Sha start: 21 Mar 2084 15:37
+sat 1: Tra end  : 21 Mar 2084 16:36
+sat 1: Sha end  : 21 Mar 2084 17:48
+sat 3: Occ start: 21 Mar 2084 23:17
+sat 3: Occ end  : 22 Mar 2084  1:54
+sat 3: Ecl start: 22 Mar 2084  4:08
+sat 3: Ecl end  : 22 Mar 2084  6:44
+sat 1: Occ start: 22 Mar 2084 11:33
+sat 1: Ecl end  : 22 Mar 2084 14:56
+sat 2: Occ start: 22 Mar 2084 21:55
+sat 2: Ecl end  : 23 Mar 2084  2:51
+sat 1: Tra start: 23 Mar 2084  8:55
+sat 1: Sha start: 23 Mar 2084 10:06
+sat 1: Tra end  : 23 Mar 2084 11:06
+sat 1: Sha end  : 23 Mar 2084 12:17
+sat 1: Occ start: 24 Mar 2084  6:03
+sat 1: Ecl end  : 24 Mar 2084  9:25
+sat 2: Tra start: 24 Mar 2084 16:05
+sat 2: Sha start: 24 Mar 2084 18:27
+sat 2: Tra end  : 24 Mar 2084 18:37
+sat 2: Sha end  : 24 Mar 2084 20:59
+sat 1: Tra start: 25 Mar 2084  3:24
+sat 1: Sha start: 25 Mar 2084  4:35
+sat 1: Tra end  : 25 Mar 2084  5:36
+sat 1: Sha end  : 25 Mar 2084  6:46
+sat 3: Tra start: 25 Mar 2084 13:25
+sat 3: Tra end  : 25 Mar 2084 16:02
+sat 3: Sha start: 25 Mar 2084 18:09
+sat 3: Sha end  : 25 Mar 2084 20:46
+sat 1: Occ start: 26 Mar 2084  0:33
+sat 1: Ecl end  : 26 Mar 2084  3:54
+sat 2: Occ start: 26 Mar 2084 11:18
+sat 2: Ecl end  : 26 Mar 2084 16:09
+sat 1: Tra start: 26 Mar 2084 21:54
+sat 1: Sha start: 26 Mar 2084 23:04
+sat 1: Tra end  : 27 Mar 2084  0:06
+sat 1: Sha end  : 27 Mar 2084  1:15
+sat 1: Occ start: 27 Mar 2084 19:03
+sat 1: Ecl end  : 27 Mar 2084 22:23
+sat 2: Tra start: 28 Mar 2084  5:28
+sat 2: Sha start: 28 Mar 2084  7:45
+sat 2: Tra end  : 28 Mar 2084  7:59
+sat 2: Sha end  : 28 Mar 2084 10:18
+sat 1: Tra start: 28 Mar 2084 16:24
+sat 1: Sha start: 28 Mar 2084 17:32
+sat 1: Tra end  : 28 Mar 2084 18:36
+sat 1: Sha end  : 28 Mar 2084 19:44
+sat 3: Occ start: 29 Mar 2084  3:35
+sat 3: Occ end  : 29 Mar 2084  6:13
+sat 3: Ecl start: 29 Mar 2084  8:09
+sat 3: Ecl end  : 29 Mar 2084 10:47
+sat 1: Occ start: 29 Mar 2084 13:33
+sat 1: Ecl end  : 29 Mar 2084 16:52
+sat 2: Occ start: 30 Mar 2084  0:40
+sat 2: Ecl end  : 30 Mar 2084  5:27
+sat 1: Tra start: 30 Mar 2084 10:54
+sat 1: Sha start: 30 Mar 2084 12:01
+sat 1: Tra end  : 30 Mar 2084 13:06
+sat 1: Sha end  : 30 Mar 2084 14:13
+sat 1: Occ start: 31 Mar 2084  8:03
+sat 1: Ecl end  : 31 Mar 2084 11:21
+sat 2: Tra start: 31 Mar 2084 18:51
+sat 2: Sha start: 31 Mar 2084 21:04
+sat 2: Tra end  : 31 Mar 2084 21:22
+sat 2: Sha end  : 31 Mar 2084 23:37
+sat 1: Tra start:  1 Apr 2084  5:24
+sat 1: Sha start:  1 Apr 2084  6:30
+sat 1: Tra end  :  1 Apr 2084  7:36
+sat 1: Sha end  :  1 Apr 2084  8:42
+sat 3: Tra start:  1 Apr 2084 17:42
+sat 3: Tra end  :  1 Apr 2084 20:21
+sat 3: Sha start:  1 Apr 2084 22:10
+sat 3: Sha end  :  2 Apr 2084  0:47
+sat 1: Occ start:  2 Apr 2084  2:32
+sat 1: Ecl end  :  2 Apr 2084  5:50
+sat 2: Occ start:  2 Apr 2084 14:03
+sat 2: Ecl end  :  2 Apr 2084 18:46
+sat 1: Tra start:  2 Apr 2084 23:54
+sat 1: Sha start:  3 Apr 2084  0:59
+sat 1: Tra end  :  3 Apr 2084  2:06
+sat 1: Sha end  :  3 Apr 2084  3:10
+sat 1: Occ start:  3 Apr 2084 21:02
+sat 1: Ecl end  :  4 Apr 2084  0:18
+sat 2: Tra start:  4 Apr 2084  8:13
+sat 2: Sha start:  4 Apr 2084 10:22
+sat 2: Tra end  :  4 Apr 2084 10:46
+sat 2: Sha end  :  4 Apr 2084 12:55
+sat 1: Tra start:  4 Apr 2084 18:24
+sat 1: Sha start:  4 Apr 2084 19:28
+sat 1: Tra end  :  4 Apr 2084 20:36
+sat 1: Sha end  :  4 Apr 2084 21:39
+sat 3: Occ start:  5 Apr 2084  7:54
+sat 3: Occ end  :  5 Apr 2084 10:33
+sat 3: Ecl start:  5 Apr 2084 12:10
+sat 3: Ecl end  :  5 Apr 2084 14:48
+sat 1: Occ start:  5 Apr 2084 15:33
+sat 1: Ecl end  :  5 Apr 2084 18:47
+sat 2: Occ start:  6 Apr 2084  3:26
+sat 2: Ecl end  :  6 Apr 2084  8:04
+sat 1: Tra start:  6 Apr 2084 12:54
+sat 1: Sha start:  6 Apr 2084 13:57
+sat 1: Tra end  :  6 Apr 2084 15:06
+sat 1: Sha end  :  6 Apr 2084 16:08
+sat 1: Occ start:  7 Apr 2084 10:03
+sat 1: Ecl end  :  7 Apr 2084 13:16
+sat 2: Tra start:  7 Apr 2084 21:37
+sat 2: Sha start:  7 Apr 2084 23:41
+sat 2: Tra end  :  8 Apr 2084  0:10
+sat 2: Sha end  :  8 Apr 2084  2:14
+sat 1: Tra start:  8 Apr 2084  7:24
+sat 1: Sha start:  8 Apr 2084  8:25
+sat 1: Tra end  :  8 Apr 2084  9:36
+sat 1: Sha end  :  8 Apr 2084 10:37
+sat 3: Tra start:  8 Apr 2084 22:03
+sat 3: Tra end  :  9 Apr 2084  0:43
+sat 3: Sha start:  9 Apr 2084  2:11
+sat 1: Occ start:  9 Apr 2084  4:33
+sat 3: Sha end  :  9 Apr 2084  4:50
+sat 1: Ecl end  :  9 Apr 2084  7:45
+sat 2: Occ start:  9 Apr 2084 16:49
+sat 2: Ecl end  :  9 Apr 2084 21:23
+sat 1: Tra start: 10 Apr 2084  1:54
+sat 1: Sha start: 10 Apr 2084  2:54
+sat 1: Tra end  : 10 Apr 2084  4:06
+sat 1: Sha end  : 10 Apr 2084  5:06
+sat 1: Occ start: 10 Apr 2084 23:03
+sat 1: Ecl end  : 11 Apr 2084  2:14
+sat 2: Tra start: 11 Apr 2084 11:01
+sat 2: Sha start: 11 Apr 2084 12:59
+sat 2: Tra end  : 11 Apr 2084 13:33
+sat 2: Sha end  : 11 Apr 2084 15:33
+sat 1: Tra start: 11 Apr 2084 20:24
+sat 1: Sha start: 11 Apr 2084 21:23
+sat 1: Tra end  : 11 Apr 2084 22:36
+sat 1: Sha end  : 11 Apr 2084 23:34
+sat 3: Occ start: 12 Apr 2084 12:15
+sat 3: Occ end  : 12 Apr 2084 14:56
+sat 3: Ecl start: 12 Apr 2084 16:10
+sat 1: Occ start: 12 Apr 2084 17:33
+sat 3: Ecl end  : 12 Apr 2084 18:50
+sat 1: Ecl end  : 12 Apr 2084 20:43
+sat 2: Occ start: 13 Apr 2084  6:13
+sat 2: Ecl end  : 13 Apr 2084 10:41
+sat 1: Tra start: 13 Apr 2084 14:54
+sat 1: Sha start: 13 Apr 2084 15:52
+sat 1: Tra end  : 13 Apr 2084 17:06
+sat 1: Sha end  : 13 Apr 2084 18:03
+sat 1: Occ start: 14 Apr 2084 12:03
+sat 1: Ecl end  : 14 Apr 2084 15:12
+sat 2: Tra start: 15 Apr 2084  0:25
+sat 2: Sha start: 15 Apr 2084  2:18
+sat 2: Tra end  : 15 Apr 2084  2:58
+sat 2: Sha end  : 15 Apr 2084  4:52
+sat 1: Tra start: 15 Apr 2084  9:25
+sat 1: Sha start: 15 Apr 2084 10:21
+sat 1: Tra end  : 15 Apr 2084 11:36
+sat 1: Sha end  : 15 Apr 2084 12:32
+sat 3: Tra start: 16 Apr 2084  2:26
+sat 3: Tra end  : 16 Apr 2084  5:07
+sat 3: Sha start: 16 Apr 2084  6:12
+sat 1: Occ start: 16 Apr 2084  6:33
+sat 3: Sha end  : 16 Apr 2084  8:51
+sat 1: Ecl end  : 16 Apr 2084  9:41
+sat 2: Occ start: 16 Apr 2084 19:37
+sat 2: Ecl end  : 16 Apr 2084 23:59
+sat 1: Tra start: 17 Apr 2084  3:55
+sat 1: Sha start: 17 Apr 2084  4:49
+sat 1: Tra end  : 17 Apr 2084  6:07
+sat 1: Sha end  : 17 Apr 2084  7:01
+sat 1: Occ start: 18 Apr 2084  1:04
+sat 1: Ecl end  : 18 Apr 2084  4:09
+sat 2: Tra start: 18 Apr 2084 13:49
+sat 2: Sha start: 18 Apr 2084 15:37
+sat 2: Tra end  : 18 Apr 2084 16:22
+sat 2: Sha end  : 18 Apr 2084 18:11
+sat 1: Tra start: 18 Apr 2084 22:25
+sat 1: Sha start: 18 Apr 2084 23:18
+sat 1: Tra end  : 19 Apr 2084  0:37
+sat 1: Sha end  : 19 Apr 2084  1:30
+sat 3: Occ start: 19 Apr 2084 16:38
+sat 3: Occ end  : 19 Apr 2084 19:20
+sat 1: Occ start: 19 Apr 2084 19:34
+sat 3: Ecl start: 19 Apr 2084 20:11
+sat 1: Ecl end  : 19 Apr 2084 22:38
+sat 3: Ecl end  : 19 Apr 2084 22:51
+sat 2: Occ start: 20 Apr 2084  9:00
+sat 2: Ecl end  : 20 Apr 2084 13:17
+sat 1: Tra start: 20 Apr 2084 16:55
+sat 1: Sha start: 20 Apr 2084 17:47
+sat 1: Tra end  : 20 Apr 2084 19:07
+sat 1: Sha end  : 20 Apr 2084 19:58
+sat 1: Occ start: 21 Apr 2084 14:04
+sat 1: Ecl end  : 21 Apr 2084 17:07
+sat 2: Tra start: 22 Apr 2084  3:14
+sat 2: Sha start: 22 Apr 2084  4:56
+sat 2: Tra end  : 22 Apr 2084  5:47
+sat 2: Sha end  : 22 Apr 2084  7:30
+sat 1: Tra start: 22 Apr 2084 11:25
+sat 1: Sha start: 22 Apr 2084 12:16
+sat 1: Tra end  : 22 Apr 2084 13:37
+sat 1: Sha end  : 22 Apr 2084 14:27
+sat 3: Tra start: 23 Apr 2084  6:51
+sat 1: Occ start: 23 Apr 2084  8:34
+sat 3: Tra end  : 23 Apr 2084  9:33
+sat 3: Sha start: 23 Apr 2084 10:13
+sat 1: Ecl end  : 23 Apr 2084 11:36
+sat 3: Sha end  : 23 Apr 2084 12:54
+sat 2: Occ start: 23 Apr 2084 22:24
+sat 2: Ecl end  : 24 Apr 2084  2:35
+sat 1: Tra start: 24 Apr 2084  5:56
+sat 1: Sha start: 24 Apr 2084  6:44
+sat 1: Tra end  : 24 Apr 2084  8:07
+sat 1: Sha end  : 24 Apr 2084  8:56
+sat 1: Occ start: 25 Apr 2084  3:05
+sat 1: Ecl end  : 25 Apr 2084  6:05
+sat 2: Tra start: 25 Apr 2084 16:38
+sat 2: Sha start: 25 Apr 2084 18:14
+sat 2: Tra end  : 25 Apr 2084 19:12
+sat 2: Sha end  : 25 Apr 2084 20:49
+sat 1: Tra start: 26 Apr 2084  0:26
+sat 1: Sha start: 26 Apr 2084  1:13
+sat 1: Tra end  : 26 Apr 2084  2:38
+sat 1: Sha end  : 26 Apr 2084  3:25
+sat 3: Occ start: 26 Apr 2084 21:02
+sat 1: Occ start: 26 Apr 2084 21:35
+sat 3: Occ end  : 26 Apr 2084 23:45
+sat 3: Ecl start: 27 Apr 2084  0:11
+sat 1: Ecl end  : 27 Apr 2084  0:34
+sat 3: Ecl end  : 27 Apr 2084  2:52
+sat 2: Occ start: 27 Apr 2084 11:48
+sat 2: Ecl end  : 27 Apr 2084 15:53
+sat 1: Tra start: 27 Apr 2084 18:56
+sat 1: Sha start: 27 Apr 2084 19:42
+sat 1: Tra end  : 27 Apr 2084 21:08
+sat 1: Sha end  : 27 Apr 2084 21:53
+sat 1: Occ start: 28 Apr 2084 16:06
+sat 1: Ecl end  : 28 Apr 2084 19:03
+sat 2: Tra start: 29 Apr 2084  6:03
+sat 2: Sha start: 29 Apr 2084  7:33
+sat 2: Tra end  : 29 Apr 2084  8:38
+sat 2: Sha end  : 29 Apr 2084 10:08
+sat 1: Tra start: 29 Apr 2084 13:27
+sat 1: Sha start: 29 Apr 2084 14:11
+sat 1: Tra end  : 29 Apr 2084 15:38
+sat 1: Sha end  : 29 Apr 2084 16:22
+sat 1: Occ start: 30 Apr 2084 10:36
+sat 3: Tra start: 30 Apr 2084 11:16
+sat 1: Ecl end  : 30 Apr 2084 13:31
+sat 3: Tra end  : 30 Apr 2084 14:00
+sat 3: Sha start: 30 Apr 2084 14:13
+sat 3: Sha end  : 30 Apr 2084 16:55
+sat 2: Occ start:  1 May 2084  1:12
+sat 2: Ecl end  :  1 May 2084  5:11
+sat 1: Tra start:  1 May 2084  7:57
+sat 1: Sha start:  1 May 2084  8:39
+sat 1: Tra end  :  1 May 2084 10:09
+sat 1: Sha end  :  1 May 2084 10:51
+sat 1: Occ start:  2 May 2084  5:06
+sat 1: Ecl end  :  2 May 2084  8:00
+sat 2: Tra start:  2 May 2084 19:28
+sat 2: Sha start:  2 May 2084 20:52
+sat 2: Tra end  :  2 May 2084 22:03
+sat 2: Sha end  :  2 May 2084 23:27
+sat 1: Tra start:  3 May 2084  2:27
+sat 1: Sha start:  3 May 2084  3:08
+sat 1: Tra end  :  3 May 2084  4:39
+sat 1: Sha end  :  3 May 2084  5:20
+sat 1: Occ start:  3 May 2084 23:37
+sat 3: Occ start:  4 May 2084  1:29
+sat 1: Ecl end  :  4 May 2084  2:29
+sat 3: Ecl end  :  4 May 2084  6:54
+sat 2: Occ start:  4 May 2084 14:36
+sat 2: Ecl end  :  4 May 2084 18:29
+sat 1: Tra start:  4 May 2084 20:57
+sat 1: Sha start:  4 May 2084 21:37
+sat 1: Tra end  :  4 May 2084 23:09
+sat 1: Sha end  :  4 May 2084 23:48
+sat 1: Occ start:  5 May 2084 18:07
+sat 1: Ecl end  :  5 May 2084 20:58
+sat 2: Tra start:  6 May 2084  8:54
+sat 2: Sha start:  6 May 2084 10:11
+sat 2: Tra end  :  6 May 2084 11:29
+sat 2: Sha end  :  6 May 2084 12:46
+sat 1: Tra start:  6 May 2084 15:28
+sat 1: Sha start:  6 May 2084 16:05
+sat 1: Tra end  :  6 May 2084 17:40
+sat 1: Sha end  :  6 May 2084 18:17
+sat 1: Occ start:  7 May 2084 12:38
+sat 1: Ecl end  :  7 May 2084 15:27
+sat 3: Tra start:  7 May 2084 15:43
+sat 3: Sha start:  7 May 2084 18:13
+sat 3: Tra end  :  7 May 2084 18:28
+sat 3: Sha end  :  7 May 2084 20:56
+sat 2: Occ start:  8 May 2084  4:01
+sat 2: Ecl end  :  8 May 2084  7:47
+sat 1: Tra start:  8 May 2084  9:58
+sat 1: Sha start:  8 May 2084 10:34
+sat 1: Tra end  :  8 May 2084 12:10
+sat 1: Sha end  :  8 May 2084 12:46
+sat 1: Occ start:  9 May 2084  7:08
+sat 1: Ecl end  :  9 May 2084  9:56
+sat 2: Tra start:  9 May 2084 22:19
+sat 2: Sha start:  9 May 2084 23:29
+sat 2: Tra end  : 10 May 2084  0:54
+sat 2: Sha end  : 10 May 2084  2:05
+sat 1: Tra start: 10 May 2084  4:28
+sat 1: Sha start: 10 May 2084  5:03
+sat 1: Tra end  : 10 May 2084  6:40
+sat 1: Sha end  : 10 May 2084  7:14
+sat 1: Occ start: 11 May 2084  1:39
+sat 1: Ecl end  : 11 May 2084  4:24
+sat 3: Occ start: 11 May 2084  5:57
+sat 3: Ecl end  : 11 May 2084 10:55
+sat 2: Occ start: 11 May 2084 17:25
+sat 2: Ecl end  : 11 May 2084 21:04
+sat 1: Tra start: 11 May 2084 22:59
+sat 1: Sha start: 11 May 2084 23:31
+sat 1: Tra end  : 12 May 2084  1:11
+sat 1: Sha end  : 12 May 2084  1:43
+sat 1: Occ start: 12 May 2084 20:09
+sat 1: Ecl end  : 12 May 2084 22:53
+sat 2: Tra start: 13 May 2084 11:45
+sat 2: Sha start: 13 May 2084 12:48
+sat 2: Tra end  : 13 May 2084 14:21
+sat 2: Sha end  : 13 May 2084 15:24
+sat 1: Tra start: 13 May 2084 17:29
+sat 1: Sha start: 13 May 2084 18:00
+sat 1: Tra end  : 13 May 2084 19:41
+sat 1: Sha end  : 13 May 2084 20:12
+sat 1: Occ start: 14 May 2084 14:40
+sat 1: Ecl end  : 14 May 2084 17:22
+sat 3: Tra start: 14 May 2084 20:10
+sat 3: Sha start: 14 May 2084 22:13
+sat 3: Tra end  : 14 May 2084 22:57
+sat 3: Sha end  : 15 May 2084  0:57
+sat 2: Occ start: 15 May 2084  6:49
+sat 2: Ecl end  : 15 May 2084 10:22
+sat 1: Tra start: 15 May 2084 12:00
+sat 1: Sha start: 15 May 2084 12:29
+sat 1: Tra end  : 15 May 2084 14:12
+sat 1: Sha end  : 15 May 2084 14:40
+sat 1: Occ start: 16 May 2084  9:10
+sat 1: Ecl end  : 16 May 2084 11:51
+sat 2: Tra start: 17 May 2084  1:10
+sat 2: Sha start: 17 May 2084  2:07
+sat 2: Tra end  : 17 May 2084  3:46
+sat 2: Sha end  : 17 May 2084  4:43
+sat 1: Tra start: 17 May 2084  6:30
+sat 1: Sha start: 17 May 2084  6:57
+sat 1: Tra end  : 17 May 2084  8:42
+sat 1: Sha end  : 17 May 2084  9:09
+sat 1: Occ start: 18 May 2084  3:41
+sat 1: Ecl end  : 18 May 2084  6:20
+sat 3: Occ start: 18 May 2084 10:26
+sat 3: Ecl end  : 18 May 2084 14:57
+sat 2: Occ start: 18 May 2084 20:14
+sat 2: Ecl end  : 18 May 2084 23:40
+sat 1: Tra start: 19 May 2084  1:00
+sat 1: Sha start: 19 May 2084  1:26
+sat 1: Tra end  : 19 May 2084  3:12
+sat 1: Sha end  : 19 May 2084  3:38
+sat 1: Occ start: 19 May 2084 22:11
+sat 1: Ecl end  : 20 May 2084  0:49
+sat 2: Tra start: 20 May 2084 14:36
+sat 2: Sha start: 20 May 2084 15:26
+sat 2: Tra end  : 20 May 2084 17:13
+sat 2: Sha end  : 20 May 2084 18:02
+sat 1: Tra start: 20 May 2084 19:31
+sat 1: Sha start: 20 May 2084 19:55
+sat 1: Tra end  : 20 May 2084 21:43
+sat 1: Sha end  : 20 May 2084 22:06
+sat 1: Occ start: 21 May 2084 16:42
+sat 1: Ecl end  : 21 May 2084 19:17
+sat 3: Tra start: 22 May 2084  0:39
+sat 3: Sha start: 22 May 2084  2:12
+sat 3: Tra end  : 22 May 2084  3:26
+sat 3: Sha end  : 22 May 2084  4:57
+sat 2: Occ start: 22 May 2084  9:38
+sat 2: Ecl end  : 22 May 2084 12:58
+sat 1: Tra start: 22 May 2084 14:01
+sat 1: Sha start: 22 May 2084 14:23
+sat 1: Tra end  : 22 May 2084 16:13
+sat 1: Sha end  : 22 May 2084 16:35
+sat 1: Occ start: 23 May 2084 11:12
+sat 1: Ecl end  : 23 May 2084 13:46
+sat 2: Tra start: 24 May 2084  4:02
+sat 2: Sha start: 24 May 2084  4:44
+sat 2: Tra end  : 24 May 2084  6:39
+sat 2: Sha end  : 24 May 2084  7:21
+sat 1: Tra start: 24 May 2084  8:32
+sat 1: Sha start: 24 May 2084  8:52
+sat 1: Tra end  : 24 May 2084 10:44
+sat 1: Sha end  : 24 May 2084 11:04
+sat 1: Occ start: 25 May 2084  5:43
+sat 1: Ecl end  : 25 May 2084  8:15
+sat 3: Occ start: 25 May 2084 14:54
+sat 3: Ecl end  : 25 May 2084 18:58
+sat 2: Occ start: 25 May 2084 23:03
+sat 2: Ecl end  : 26 May 2084  2:15
+sat 1: Tra start: 26 May 2084  3:02
+sat 1: Sha start: 26 May 2084  3:21
+sat 1: Tra end  : 26 May 2084  5:14
+sat 1: Sha end  : 26 May 2084  5:32
+sat 1: Occ start: 27 May 2084  0:13
+sat 1: Ecl end  : 27 May 2084  2:44
+sat 2: Tra start: 27 May 2084 17:28
+sat 2: Sha start: 27 May 2084 18:03
+sat 2: Tra end  : 27 May 2084 20:05
+sat 2: Sha end  : 27 May 2084 20:40
+sat 1: Tra start: 27 May 2084 21:32
+sat 1: Sha start: 27 May 2084 21:49
+sat 1: Tra end  : 27 May 2084 23:44
+sat 1: Sha end  : 28 May 2084  0:01
+sat 1: Occ start: 28 May 2084 18:44
+sat 1: Ecl end  : 28 May 2084 21:13
+sat 3: Tra start: 29 May 2084  5:08
+sat 3: Sha start: 29 May 2084  6:13
+sat 3: Tra end  : 29 May 2084  7:57
+sat 3: Sha end  : 29 May 2084  8:59
+sat 2: Occ start: 29 May 2084 12:27
+sat 2: Ecl end  : 29 May 2084 15:33
+sat 1: Tra start: 29 May 2084 16:03
+sat 1: Sha start: 29 May 2084 16:18
+sat 1: Tra end  : 29 May 2084 18:15
+sat 1: Sha end  : 29 May 2084 18:30
+sat 1: Occ start: 30 May 2084 13:14
+sat 1: Ecl end  : 30 May 2084 15:41
+sat 2: Tra start: 31 May 2084  6:54
+sat 2: Sha start: 31 May 2084  7:22
+sat 2: Tra end  : 31 May 2084  9:32
+sat 2: Sha end  : 31 May 2084  9:59
+sat 1: Tra start: 31 May 2084 10:33
+sat 1: Sha start: 31 May 2084 10:46
+sat 1: Tra end  : 31 May 2084 12:45
+sat 1: Sha end  : 31 May 2084 12:58
+sat 1: Occ start:  1 Jun 2084  7:45
+sat 1: Ecl end  :  1 Jun 2084 10:10
+sat 3: Occ start:  1 Jun 2084 19:23
+sat 3: Ecl end  :  1 Jun 2084 22:59
+sat 2: Occ start:  2 Jun 2084  1:52
+sat 2: Ecl end  :  2 Jun 2084  4:50
+sat 1: Tra start:  2 Jun 2084  5:03
+sat 1: Sha start:  2 Jun 2084  5:15
+sat 1: Tra end  :  2 Jun 2084  7:16
+sat 1: Sha end  :  2 Jun 2084  7:27
+sat 1: Occ start:  3 Jun 2084  2:15
+sat 1: Ecl end  :  3 Jun 2084  4:39
+sat 2: Tra start:  3 Jun 2084 20:20
+sat 2: Sha start:  3 Jun 2084 20:41
+sat 2: Tra end  :  3 Jun 2084 22:58
+sat 2: Sha end  :  3 Jun 2084 23:18
+sat 1: Tra start:  3 Jun 2084 23:34
+sat 1: Sha start:  3 Jun 2084 23:44
+sat 1: Tra end  :  4 Jun 2084  1:46
+sat 1: Sha end  :  4 Jun 2084  1:55
+sat 1: Occ start:  4 Jun 2084 20:46
+sat 1: Ecl end  :  4 Jun 2084 23:08
+sat 3: Tra start:  5 Jun 2084  9:37
+sat 3: Sha start:  5 Jun 2084 10:13
+sat 3: Tra end  :  5 Jun 2084 12:28
+sat 3: Sha end  :  5 Jun 2084 13:00
+sat 2: Occ start:  5 Jun 2084 15:16
+sat 1: Tra start:  5 Jun 2084 18:04
+sat 2: Ecl end  :  5 Jun 2084 18:08
+sat 1: Sha start:  5 Jun 2084 18:12
+sat 1: Tra end  :  5 Jun 2084 20:16
+sat 1: Sha end  :  5 Jun 2084 20:24
+sat 1: Occ start:  6 Jun 2084 15:17
+sat 1: Ecl end  :  6 Jun 2084 17:36
+sat 2: Tra start:  7 Jun 2084  9:46
+sat 2: Sha start:  7 Jun 2084  9:59
+sat 2: Tra end  :  7 Jun 2084 12:25
+sat 1: Tra start:  7 Jun 2084 12:35
+sat 2: Sha end  :  7 Jun 2084 12:37
+sat 1: Sha start:  7 Jun 2084 12:41
+sat 1: Tra end  :  7 Jun 2084 14:47
+sat 1: Sha end  :  7 Jun 2084 14:53
+sat 1: Occ start:  8 Jun 2084  9:47
+sat 1: Ecl end  :  8 Jun 2084 12:05
+sat 3: Occ start:  8 Jun 2084 23:52
+sat 3: Ecl end  :  9 Jun 2084  3:00
+sat 2: Occ start:  9 Jun 2084  4:41
+sat 1: Tra start:  9 Jun 2084  7:05
+sat 1: Sha start:  9 Jun 2084  7:09
+sat 2: Ecl end  :  9 Jun 2084  7:25
+sat 1: Tra end  :  9 Jun 2084  9:17
+sat 1: Sha end  :  9 Jun 2084  9:21
+sat 1: Occ start: 10 Jun 2084  4:18
+sat 1: Ecl end  : 10 Jun 2084  6:34
+sat 2: Tra start: 10 Jun 2084 23:13
+sat 2: Sha start: 10 Jun 2084 23:18
+sat 1: Tra start: 11 Jun 2084  1:35
+sat 1: Sha start: 11 Jun 2084  1:38
+sat 2: Tra end  : 11 Jun 2084  1:51
+sat 2: Sha end  : 11 Jun 2084  1:56
+sat 1: Tra end  : 11 Jun 2084  3:47
+sat 1: Sha end  : 11 Jun 2084  3:50
+sat 1: Occ start: 11 Jun 2084 22:48
+sat 1: Ecl end  : 12 Jun 2084  1:03
+sat 3: Tra start: 12 Jun 2084 14:07
+sat 3: Sha start: 12 Jun 2084 14:13
+sat 3: Tra end  : 12 Jun 2084 16:59
+sat 3: Sha end  : 12 Jun 2084 17:01
+sat 2: Occ start: 12 Jun 2084 18:05
+sat 1: Tra start: 12 Jun 2084 20:06
+sat 1: Sha start: 12 Jun 2084 20:07
+sat 2: Ecl end  : 12 Jun 2084 20:43
+sat 1: Tra end  : 12 Jun 2084 22:18
+sat 1: Sha end  : 12 Jun 2084 22:18
+sat 1: Ecl start: 13 Jun 2084 17:19
+sat 1: Occ end  : 13 Jun 2084 19:32
+sat 2: Sha start: 14 Jun 2084 12:37
+sat 2: Tra start: 14 Jun 2084 12:38
+sat 1: Sha start: 14 Jun 2084 14:35
+sat 1: Tra start: 14 Jun 2084 14:36
+sat 2: Sha end  : 14 Jun 2084 15:15
+sat 2: Tra end  : 14 Jun 2084 15:18
+sat 1: Sha end  : 14 Jun 2084 16:47
+sat 1: Tra end  : 14 Jun 2084 16:48
+sat 1: Ecl start: 15 Jun 2084 11:47
+sat 1: Occ end  : 15 Jun 2084 14:02
+sat 3: Ecl start: 16 Jun 2084  4:12
+sat 3: Occ end  : 16 Jun 2084  7:14
+sat 2: Ecl start: 16 Jun 2084  7:24
+sat 1: Sha start: 16 Jun 2084  9:04
+sat 1: Tra start: 16 Jun 2084  9:06
+sat 2: Occ end  : 16 Jun 2084 10:07
+sat 1: Sha end  : 16 Jun 2084 11:15
+sat 1: Tra end  : 16 Jun 2084 11:19
+sat 1: Ecl start: 17 Jun 2084  6:16
+sat 1: Occ end  : 17 Jun 2084  8:33
+sat 2: Sha start: 18 Jun 2084  1:56
+sat 2: Tra start: 18 Jun 2084  2:05
+sat 1: Sha start: 18 Jun 2084  3:32
+sat 1: Tra start: 18 Jun 2084  3:37
+sat 2: Sha end  : 18 Jun 2084  4:34
+sat 2: Tra end  : 18 Jun 2084  4:44
+sat 1: Sha end  : 18 Jun 2084  5:44
+sat 1: Tra end  : 18 Jun 2084  5:49
+sat 1: Ecl start: 19 Jun 2084  0:45
+sat 1: Occ end  : 19 Jun 2084  3:04
+sat 3: Sha start: 19 Jun 2084 18:12
+sat 3: Tra start: 19 Jun 2084 18:36
+sat 2: Ecl start: 19 Jun 2084 20:42
+sat 3: Sha end  : 19 Jun 2084 21:02
+sat 3: Tra end  : 19 Jun 2084 21:30
+sat 1: Sha start: 19 Jun 2084 22:01
+sat 1: Tra start: 19 Jun 2084 22:07
+sat 2: Occ end  : 19 Jun 2084 23:31
+sat 1: Sha end  : 20 Jun 2084  0:13
+sat 1: Tra end  : 20 Jun 2084  0:19
+sat 1: Ecl start: 20 Jun 2084 19:13
+sat 1: Occ end  : 20 Jun 2084 21:34
+sat 2: Sha start: 21 Jun 2084 15:14
+sat 2: Tra start: 21 Jun 2084 15:31
+sat 1: Sha start: 21 Jun 2084 16:29
+sat 1: Tra start: 21 Jun 2084 16:37
+sat 2: Sha end  : 21 Jun 2084 17:53
+sat 2: Tra end  : 21 Jun 2084 18:10
+sat 1: Sha end  : 21 Jun 2084 18:41
+sat 1: Tra end  : 21 Jun 2084 18:50
+sat 1: Ecl start: 22 Jun 2084 13:42
+sat 1: Occ end  : 22 Jun 2084 16:05
+sat 3: Ecl start: 23 Jun 2084  8:12
+sat 2: Ecl start: 23 Jun 2084  9:59
+sat 1: Sha start: 23 Jun 2084 10:58
+sat 1: Tra start: 23 Jun 2084 11:08
+sat 3: Occ end  : 23 Jun 2084 11:45
+sat 2: Occ end  : 23 Jun 2084 12:56
+sat 1: Sha end  : 23 Jun 2084 13:10
+sat 1: Tra end  : 23 Jun 2084 13:20
+sat 1: Ecl start: 24 Jun 2084  8:11
+sat 1: Occ end  : 24 Jun 2084 10:35
+sat 2: Sha start: 25 Jun 2084  4:33
+sat 2: Tra start: 25 Jun 2084  4:57
+sat 1: Sha start: 25 Jun 2084  5:26
+sat 1: Tra start: 25 Jun 2084  5:38
+sat 2: Sha end  : 25 Jun 2084  7:12
+sat 2: Tra end  : 25 Jun 2084  7:37
+sat 1: Sha end  : 25 Jun 2084  7:38
+sat 1: Tra end  : 25 Jun 2084  7:50
+sat 1: Ecl start: 26 Jun 2084  2:40
+sat 1: Occ end  : 26 Jun 2084  5:06
+sat 3: Sha start: 26 Jun 2084 22:12
+sat 3: Tra start: 26 Jun 2084 23:05
+sat 2: Ecl start: 26 Jun 2084 23:16
+sat 1: Sha start: 26 Jun 2084 23:55
+sat 1: Tra start: 27 Jun 2084  0:08
+sat 3: Sha end  : 27 Jun 2084  1:02
+sat 3: Tra end  : 27 Jun 2084  2:00
+sat 1: Sha end  : 27 Jun 2084  2:07
+sat 2: Occ end  : 27 Jun 2084  2:20
+sat 1: Tra end  : 27 Jun 2084  2:21
+sat 1: Ecl start: 27 Jun 2084 21:08
+sat 1: Occ end  : 27 Jun 2084 23:36
+sat 2: Sha start: 28 Jun 2084 17:52
+sat 2: Tra start: 28 Jun 2084 18:23
+sat 1: Sha start: 28 Jun 2084 18:23
+sat 1: Tra start: 28 Jun 2084 18:38
+sat 2: Sha end  : 28 Jun 2084 20:30
+sat 1: Sha end  : 28 Jun 2084 20:35
+sat 1: Tra end  : 28 Jun 2084 20:51
+sat 2: Tra end  : 28 Jun 2084 21:03
+sat 1: Ecl start: 29 Jun 2084 15:37
+sat 1: Occ end  : 29 Jun 2084 18:07
+sat 3: Ecl start: 30 Jun 2084 12:12
+sat 2: Ecl start: 30 Jun 2084 12:33
+sat 1: Sha start: 30 Jun 2084 12:52
+sat 1: Tra start: 30 Jun 2084 13:09
+sat 1: Sha end  : 30 Jun 2084 15:04
+sat 1: Tra end  : 30 Jun 2084 15:21
+sat 2: Occ end  : 30 Jun 2084 15:45
+sat 3: Occ end  : 30 Jun 2084 16:15
+sat 1: Ecl start:  1 Jul 2084 10:06
+sat 1: Occ end  :  1 Jul 2084 12:37
+sat 2: Sha start:  2 Jul 2084  7:11
+sat 1: Sha start:  2 Jul 2084  7:20
+sat 1: Tra start:  2 Jul 2084  7:39
+sat 2: Tra start:  2 Jul 2084  7:49
+sat 1: Sha end  :  2 Jul 2084  9:32
+sat 2: Sha end  :  2 Jul 2084  9:50
+sat 1: Tra end  :  2 Jul 2084  9:51
+sat 2: Tra end  :  2 Jul 2084 10:30
+sat 1: Ecl start:  3 Jul 2084  4:34
+sat 1: Occ end  :  3 Jul 2084  7:08
+sat 1: Sha start:  4 Jul 2084  1:49
+sat 2: Ecl start:  4 Jul 2084  1:50
+sat 1: Tra start:  4 Jul 2084  2:09
+sat 3: Sha start:  4 Jul 2084  2:11
+sat 3: Tra start:  4 Jul 2084  3:33
+sat 1: Sha end  :  4 Jul 2084  4:01
+sat 1: Tra end  :  4 Jul 2084  4:22
+sat 3: Sha end  :  4 Jul 2084  5:02
+sat 2: Occ end  :  4 Jul 2084  5:09
+sat 3: Tra end  :  4 Jul 2084  6:29
+sat 1: Ecl start:  4 Jul 2084 23:03
+sat 1: Occ end  :  5 Jul 2084  1:38
+sat 1: Sha start:  5 Jul 2084 20:17
+sat 2: Sha start:  5 Jul 2084 20:29
+sat 1: Tra start:  5 Jul 2084 20:39
+sat 2: Tra start:  5 Jul 2084 21:14
+sat 1: Sha end  :  5 Jul 2084 22:29
+sat 1: Tra end  :  5 Jul 2084 22:52
+sat 2: Sha end  :  5 Jul 2084 23:08
+sat 2: Tra end  :  5 Jul 2084 23:56
+sat 1: Ecl start:  6 Jul 2084 17:32
+sat 1: Occ end  :  6 Jul 2084 20:09
+sat 1: Sha start:  7 Jul 2084 14:46
+sat 2: Ecl start:  7 Jul 2084 15:08
+sat 1: Tra start:  7 Jul 2084 15:10
+sat 3: Ecl start:  7 Jul 2084 16:13
+sat 1: Sha end  :  7 Jul 2084 16:58
+sat 1: Tra end  :  7 Jul 2084 17:22
+sat 2: Occ end  :  7 Jul 2084 18:33
+sat 3: Occ end  :  7 Jul 2084 20:46
+sat 1: Ecl start:  8 Jul 2084 12:00
+sat 1: Occ end  :  8 Jul 2084 14:39
+sat 1: Sha start:  9 Jul 2084  9:14
+sat 1: Tra start:  9 Jul 2084  9:40
+sat 2: Sha start:  9 Jul 2084  9:48
+sat 2: Tra start:  9 Jul 2084 10:40
+sat 1: Sha end  :  9 Jul 2084 11:26
+sat 1: Tra end  :  9 Jul 2084 11:52
+sat 2: Sha end  :  9 Jul 2084 12:27
+sat 2: Tra end  :  9 Jul 2084 13:22
+sat 1: Ecl start: 10 Jul 2084  6:29
+sat 1: Occ end  : 10 Jul 2084  9:09
+sat 1: Sha start: 11 Jul 2084  3:43
+sat 1: Tra start: 11 Jul 2084  4:10
+sat 2: Ecl start: 11 Jul 2084  4:25
+sat 1: Sha end  : 11 Jul 2084  5:55
+sat 3: Sha start: 11 Jul 2084  6:10
+sat 1: Tra end  : 11 Jul 2084  6:23
+sat 2: Occ end  : 11 Jul 2084  7:57
+sat 3: Tra start: 11 Jul 2084  8:00
+sat 3: Sha end  : 11 Jul 2084  9:02
+sat 3: Tra end  : 11 Jul 2084 10:58
+sat 1: Ecl start: 12 Jul 2084  0:57
+sat 1: Occ end  : 12 Jul 2084  3:40
+sat 1: Sha start: 12 Jul 2084 22:11
+sat 1: Tra start: 12 Jul 2084 22:40
+sat 2: Sha start: 12 Jul 2084 23:06
+sat 2: Tra start: 13 Jul 2084  0:06
+sat 1: Sha end  : 13 Jul 2084  0:23
+sat 1: Tra end  : 13 Jul 2084  0:53
+sat 2: Sha end  : 13 Jul 2084  1:46
+sat 2: Tra end  : 13 Jul 2084  2:48
+sat 4: Occ start: 13 Jul 2084 15:13
+sat 4: Occ end  : 13 Jul 2084 16:17
+sat 1: Ecl start: 13 Jul 2084 19:26
+sat 1: Occ end  : 13 Jul 2084 22:10
+sat 1: Sha start: 14 Jul 2084 16:40
+sat 1: Tra start: 14 Jul 2084 17:10
+sat 2: Ecl start: 14 Jul 2084 17:42
+sat 1: Sha end  : 14 Jul 2084 18:52
+sat 1: Tra end  : 14 Jul 2084 19:23
+sat 3: Ecl start: 14 Jul 2084 20:12
+sat 2: Occ end  : 14 Jul 2084 21:22
+sat 3: Occ end  : 15 Jul 2084  1:14
+sat 1: Ecl start: 15 Jul 2084 13:55
+sat 1: Occ end  : 15 Jul 2084 16:40
+sat 1: Sha start: 16 Jul 2084 11:08
+sat 1: Tra start: 16 Jul 2084 11:40
+sat 2: Sha start: 16 Jul 2084 12:25
+sat 1: Sha end  : 16 Jul 2084 13:20
+sat 2: Tra start: 16 Jul 2084 13:31
+sat 1: Tra end  : 16 Jul 2084 13:53
+sat 2: Sha end  : 16 Jul 2084 15:05
+sat 2: Tra end  : 16 Jul 2084 16:14
+sat 1: Ecl start: 17 Jul 2084  8:23
+sat 1: Occ end  : 17 Jul 2084 11:11
+sat 1: Sha start: 18 Jul 2084  5:37
+sat 1: Tra start: 18 Jul 2084  6:11
+sat 2: Ecl start: 18 Jul 2084  6:59
+sat 1: Sha end  : 18 Jul 2084  7:49
+sat 1: Tra end  : 18 Jul 2084  8:23
+sat 3: Sha start: 18 Jul 2084 10:09
+sat 2: Occ end  : 18 Jul 2084 10:45
+sat 3: Tra start: 18 Jul 2084 12:28
+sat 3: Sha end  : 18 Jul 2084 13:03
+sat 3: Tra end  : 18 Jul 2084 15:27
+sat 1: Ecl start: 19 Jul 2084  2:52
+sat 1: Occ end  : 19 Jul 2084  5:41
+sat 1: Sha start: 20 Jul 2084  0:05
+sat 1: Tra start: 20 Jul 2084  0:41
+sat 2: Sha start: 20 Jul 2084  1:43
+sat 1: Sha end  : 20 Jul 2084  2:17
+sat 1: Tra end  : 20 Jul 2084  2:53
+sat 2: Tra start: 20 Jul 2084  2:56
+sat 2: Sha end  : 20 Jul 2084  4:23
+sat 2: Tra end  : 20 Jul 2084  5:39
+sat 1: Ecl start: 20 Jul 2084 21:21
+sat 1: Occ end  : 21 Jul 2084  0:11
+sat 1: Sha start: 21 Jul 2084 18:33
+sat 1: Tra start: 21 Jul 2084 19:11
+sat 2: Ecl start: 21 Jul 2084 20:16
+sat 1: Sha end  : 21 Jul 2084 20:46
+sat 1: Tra end  : 21 Jul 2084 21:23
+sat 2: Occ end  : 22 Jul 2084  0:09
+sat 3: Ecl start: 22 Jul 2084  0:11
+sat 4: Tra start: 22 Jul 2084  2:44
+sat 4: Tra end  : 22 Jul 2084  3:58
+sat 3: Occ end  : 22 Jul 2084  5:41
+sat 1: Ecl start: 22 Jul 2084 15:49
+sat 1: Occ end  : 22 Jul 2084 18:42
+sat 1: Sha start: 23 Jul 2084 13:02
+sat 1: Tra start: 23 Jul 2084 13:41
+sat 2: Sha start: 23 Jul 2084 15:02
+sat 1: Sha end  : 23 Jul 2084 15:14
+sat 1: Tra end  : 23 Jul 2084 15:54
+sat 2: Tra start: 23 Jul 2084 16:22
+sat 2: Sha end  : 23 Jul 2084 17:42
+sat 2: Tra end  : 23 Jul 2084 19:05
+sat 1: Ecl start: 24 Jul 2084 10:18
+sat 1: Occ end  : 24 Jul 2084 13:12
+sat 1: Sha start: 25 Jul 2084  7:30
+sat 1: Tra start: 25 Jul 2084  8:11
+sat 2: Ecl start: 25 Jul 2084  9:33
+sat 1: Sha end  : 25 Jul 2084  9:43
+sat 1: Tra end  : 25 Jul 2084 10:24
+sat 2: Occ end  : 25 Jul 2084 13:33
+sat 3: Sha start: 25 Jul 2084 14:09
+sat 3: Tra start: 25 Jul 2084 16:54
+sat 3: Sha end  : 25 Jul 2084 17:03
+sat 3: Tra end  : 25 Jul 2084 19:54
+sat 1: Ecl start: 26 Jul 2084  4:46
+sat 1: Occ end  : 26 Jul 2084  7:42
+sat 1: Sha start: 27 Jul 2084  1:59
+sat 1: Tra start: 27 Jul 2084  2:41
+sat 1: Sha end  : 27 Jul 2084  4:11
+sat 2: Sha start: 27 Jul 2084  4:20
+sat 1: Tra end  : 27 Jul 2084  4:54
+sat 2: Tra start: 27 Jul 2084  5:47
+sat 2: Sha end  : 27 Jul 2084  7:01
+sat 2: Tra end  : 27 Jul 2084  8:30
+sat 1: Ecl start: 27 Jul 2084 23:15
+sat 1: Occ end  : 28 Jul 2084  2:12
+sat 1: Sha start: 28 Jul 2084 20:27
+sat 1: Tra start: 28 Jul 2084 21:11
+sat 1: Sha end  : 28 Jul 2084 22:39
+sat 2: Ecl start: 28 Jul 2084 22:50
+sat 1: Tra end  : 28 Jul 2084 23:24
+sat 2: Occ end  : 29 Jul 2084  2:56
+sat 3: Ecl start: 29 Jul 2084  4:10
+sat 3: Ecl end  : 29 Jul 2084  7:05
+sat 3: Occ start: 29 Jul 2084  7:07
+sat 3: Occ end  : 29 Jul 2084 10:08
+sat 1: Ecl start: 29 Jul 2084 17:44
+sat 1: Occ end  : 29 Jul 2084 20:42
+sat 4: Occ start: 30 Jul 2084 11:26
+sat 4: Occ end  : 30 Jul 2084 13:06
+sat 1: Sha start: 30 Jul 2084 14:56
+sat 1: Tra start: 30 Jul 2084 15:41
+sat 1: Sha end  : 30 Jul 2084 17:08
+sat 2: Sha start: 30 Jul 2084 17:39
+sat 1: Tra end  : 30 Jul 2084 17:54
+sat 2: Tra start: 30 Jul 2084 19:12
+sat 2: Sha end  : 30 Jul 2084 20:20
+sat 2: Tra end  : 30 Jul 2084 21:55
+sat 1: Ecl start: 31 Jul 2084 12:12
+sat 1: Occ end  : 31 Jul 2084 15:13
+sat 1: Sha start:  1 Aug 2084  9:24
+sat 1: Tra start:  1 Aug 2084 10:11
+sat 1: Sha end  :  1 Aug 2084 11:36
+sat 2: Ecl start:  1 Aug 2084 12:07
+sat 1: Tra end  :  1 Aug 2084 12:24
+sat 2: Occ end  :  1 Aug 2084 16:20
+sat 3: Sha start:  1 Aug 2084 18:08
+sat 3: Sha end  :  1 Aug 2084 21:04
+sat 3: Tra start:  1 Aug 2084 21:18
+sat 3: Tra end  :  2 Aug 2084  0:20
+sat 1: Ecl start:  2 Aug 2084  6:41
+sat 1: Occ end  :  2 Aug 2084  9:43
+sat 1: Sha start:  3 Aug 2084  3:52
+sat 1: Tra start:  3 Aug 2084  4:41
+sat 1: Sha end  :  3 Aug 2084  6:05
+sat 1: Tra end  :  3 Aug 2084  6:54
+sat 2: Sha start:  3 Aug 2084  6:57
+sat 2: Tra start:  3 Aug 2084  8:36
+sat 2: Sha end  :  3 Aug 2084  9:38
+sat 2: Tra end  :  3 Aug 2084 11:19
+sat 1: Ecl start:  4 Aug 2084  1:09
+sat 1: Occ end  :  4 Aug 2084  4:13
+sat 1: Sha start:  4 Aug 2084 22:21
+sat 1: Tra start:  4 Aug 2084 23:10
+sat 1: Sha end  :  5 Aug 2084  0:33
+sat 1: Tra end  :  5 Aug 2084  1:23
+sat 2: Ecl start:  5 Aug 2084  1:24
+sat 2: Occ end  :  5 Aug 2084  5:43
+sat 3: Ecl start:  5 Aug 2084  8:09
+sat 3: Ecl end  :  5 Aug 2084 11:04
+sat 3: Occ start:  5 Aug 2084 11:30
+sat 3: Occ end  :  5 Aug 2084 14:32
+sat 1: Ecl start:  5 Aug 2084 19:38
+sat 1: Occ end  :  5 Aug 2084 22:43
+sat 1: Sha start:  6 Aug 2084 16:49
+sat 1: Tra start:  6 Aug 2084 17:40
+sat 1: Sha end  :  6 Aug 2084 19:02
+sat 1: Tra end  :  6 Aug 2084 19:53
+sat 2: Sha start:  6 Aug 2084 20:16
+sat 2: Tra start:  6 Aug 2084 22:00
+sat 2: Sha end  :  6 Aug 2084 22:57
+sat 2: Tra end  :  7 Aug 2084  0:44
+sat 1: Ecl start:  7 Aug 2084 14:06
+sat 1: Occ end  :  7 Aug 2084 17:13
+sat 4: Tra start:  7 Aug 2084 22:54
+sat 4: Tra end  :  8 Aug 2084  0:41
+sat 1: Sha start:  8 Aug 2084 11:18
+sat 1: Tra start:  8 Aug 2084 12:10
+sat 1: Sha end  :  8 Aug 2084 13:30
+sat 1: Tra end  :  8 Aug 2084 14:23
+sat 2: Ecl start:  8 Aug 2084 14:41
+sat 2: Occ end  :  8 Aug 2084 19:06
+sat 3: Sha start:  8 Aug 2084 22:07
+sat 3: Sha end  :  9 Aug 2084  1:03
+sat 3: Tra start:  9 Aug 2084  1:41
+sat 3: Tra end  :  9 Aug 2084  4:44
+sat 1: Ecl start:  9 Aug 2084  8:35
+sat 1: Occ end  :  9 Aug 2084 11:43
+sat 1: Sha start: 10 Aug 2084  5:46
+sat 1: Tra start: 10 Aug 2084  6:40
+sat 1: Sha end  : 10 Aug 2084  7:58
+sat 1: Tra end  : 10 Aug 2084  8:53
+sat 2: Sha start: 10 Aug 2084  9:34
+sat 2: Tra start: 10 Aug 2084 11:24
+sat 2: Sha end  : 10 Aug 2084 12:15
+sat 2: Tra end  : 10 Aug 2084 14:08
+sat 1: Ecl start: 11 Aug 2084  3:03
+sat 1: Occ end  : 11 Aug 2084  6:13
+sat 1: Sha start: 12 Aug 2084  0:14
+sat 1: Tra start: 12 Aug 2084  1:10
+sat 1: Sha end  : 12 Aug 2084  2:27
+sat 1: Tra end  : 12 Aug 2084  3:23
+sat 2: Ecl start: 12 Aug 2084  3:58
+sat 2: Occ end  : 12 Aug 2084  8:29
+sat 3: Ecl start: 12 Aug 2084 12:09
+sat 3: Ecl end  : 12 Aug 2084 15:05
+sat 3: Occ start: 12 Aug 2084 15:53
+sat 3: Occ end  : 12 Aug 2084 18:56
+sat 1: Ecl start: 12 Aug 2084 21:32
+sat 1: Occ end  : 13 Aug 2084  0:43
+sat 1: Sha start: 13 Aug 2084 18:43
+sat 1: Tra start: 13 Aug 2084 19:39
+sat 1: Sha end  : 13 Aug 2084 20:55
+sat 1: Tra end  : 13 Aug 2084 21:53
+sat 2: Sha start: 13 Aug 2084 22:53
+sat 2: Tra start: 14 Aug 2084  0:48
+sat 2: Sha end  : 14 Aug 2084  1:34
+sat 2: Tra end  : 14 Aug 2084  3:32
+sat 1: Ecl start: 14 Aug 2084 16:01
+sat 1: Occ end  : 14 Aug 2084 19:13
+sat 1: Sha start: 15 Aug 2084 13:11
+sat 1: Tra start: 15 Aug 2084 14:09
+sat 1: Sha end  : 15 Aug 2084 15:24
+sat 1: Tra end  : 15 Aug 2084 16:22
+sat 2: Ecl start: 15 Aug 2084 17:15
+sat 2: Occ end  : 15 Aug 2084 21:51
+sat 4: Ecl start: 15 Aug 2084 22:45
+sat 4: Ecl end  : 15 Aug 2084 23:46
+sat 3: Sha start: 16 Aug 2084  2:06
+sat 3: Sha end  : 16 Aug 2084  5:03
+sat 3: Tra start: 16 Aug 2084  6:02
+sat 4: Occ start: 16 Aug 2084  7:26
+sat 3: Tra end  : 16 Aug 2084  9:06
+sat 4: Occ end  : 16 Aug 2084  9:31
+sat 1: Ecl start: 16 Aug 2084 10:29
+sat 1: Occ end  : 16 Aug 2084 13:42
+sat 1: Sha start: 17 Aug 2084  7:40
+sat 1: Tra start: 17 Aug 2084  8:39
+sat 1: Sha end  : 17 Aug 2084  9:52
+sat 1: Tra end  : 17 Aug 2084 10:52
+sat 2: Sha start: 17 Aug 2084 12:11
+sat 2: Tra start: 17 Aug 2084 14:11
+sat 2: Sha end  : 17 Aug 2084 14:52
+sat 2: Tra end  : 17 Aug 2084 16:56
+sat 1: Ecl start: 18 Aug 2084  4:58
+sat 1: Occ end  : 18 Aug 2084  8:12
+sat 1: Sha start: 19 Aug 2084  2:08
+sat 1: Tra start: 19 Aug 2084  3:08
+sat 1: Sha end  : 19 Aug 2084  4:21
+sat 1: Tra end  : 19 Aug 2084  5:22
+sat 2: Ecl start: 19 Aug 2084  6:32
+sat 2: Occ end  : 19 Aug 2084 11:14
+sat 3: Ecl start: 19 Aug 2084 16:08
+sat 3: Ecl end  : 19 Aug 2084 19:05
+sat 3: Occ start: 19 Aug 2084 20:13
+sat 3: Occ end  : 19 Aug 2084 23:18
+sat 1: Ecl start: 19 Aug 2084 23:26
+sat 1: Occ end  : 20 Aug 2084  2:42
+sat 1: Sha start: 20 Aug 2084 20:36
+sat 1: Tra start: 20 Aug 2084 21:38
+sat 1: Sha end  : 20 Aug 2084 22:49
+sat 1: Tra end  : 20 Aug 2084 23:51
+sat 2: Sha start: 21 Aug 2084  1:29
+sat 2: Tra start: 21 Aug 2084  3:35
+sat 2: Sha end  : 21 Aug 2084  4:11
+sat 2: Tra end  : 21 Aug 2084  6:20
+sat 1: Ecl start: 21 Aug 2084 17:55
+sat 1: Occ end  : 21 Aug 2084 21:12
+sat 1: Sha start: 22 Aug 2084 15:05
+sat 1: Tra start: 22 Aug 2084 16:08
+sat 1: Sha end  : 22 Aug 2084 17:17
+sat 1: Tra end  : 22 Aug 2084 18:21
+sat 2: Ecl start: 22 Aug 2084 19:49
+sat 2: Occ end  : 23 Aug 2084  0:36
+sat 3: Sha start: 23 Aug 2084  6:04
+sat 3: Sha end  : 23 Aug 2084  9:02
+sat 3: Tra start: 23 Aug 2084 10:20
+sat 1: Ecl start: 23 Aug 2084 12:23
+sat 3: Tra end  : 23 Aug 2084 13:26
+sat 1: Occ end  : 23 Aug 2084 15:41
+sat 4: Sha start: 24 Aug 2084  9:01
+sat 1: Sha start: 24 Aug 2084  9:33
+sat 4: Sha end  : 24 Aug 2084 10:01
+sat 1: Tra start: 24 Aug 2084 10:37
+sat 1: Sha end  : 24 Aug 2084 11:46
+sat 1: Tra end  : 24 Aug 2084 12:50
+sat 2: Sha start: 24 Aug 2084 14:47
+sat 2: Tra start: 24 Aug 2084 16:57
+sat 2: Sha end  : 24 Aug 2084 17:29
+sat 4: Tra start: 24 Aug 2084 18:47
+sat 2: Tra end  : 24 Aug 2084 19:42
+sat 4: Tra end  : 24 Aug 2084 20:58
+sat 1: Ecl start: 25 Aug 2084  6:52
+sat 1: Occ end  : 25 Aug 2084 10:11
+sat 1: Sha start: 26 Aug 2084  4:01
+sat 1: Tra start: 26 Aug 2084  5:07
+sat 1: Sha end  : 26 Aug 2084  6:14
+sat 1: Tra end  : 26 Aug 2084  7:20
+sat 2: Ecl start: 26 Aug 2084  9:06
+sat 2: Occ end  : 26 Aug 2084 13:58
+sat 3: Ecl start: 26 Aug 2084 20:07
+sat 3: Ecl end  : 26 Aug 2084 23:06
+sat 3: Occ start: 27 Aug 2084  0:31
+sat 1: Ecl start: 27 Aug 2084  1:20
+sat 3: Occ end  : 27 Aug 2084  3:37
+sat 1: Occ end  : 27 Aug 2084  4:41
+sat 1: Sha start: 27 Aug 2084 22:30
+sat 1: Tra start: 27 Aug 2084 23:36
+sat 1: Sha end  : 28 Aug 2084  0:43
+sat 1: Tra end  : 28 Aug 2084  1:50
+sat 2: Sha start: 28 Aug 2084  4:06
+sat 2: Tra start: 28 Aug 2084  6:20
+sat 2: Sha end  : 28 Aug 2084  6:48
+sat 2: Tra end  : 28 Aug 2084  9:05
+sat 1: Ecl start: 28 Aug 2084 19:49
+sat 1: Occ end  : 28 Aug 2084 23:10
+sat 1: Sha start: 29 Aug 2084 16:58
+sat 1: Tra start: 29 Aug 2084 18:05
+sat 1: Sha end  : 29 Aug 2084 19:11
+sat 1: Tra end  : 29 Aug 2084 20:19
+sat 2: Ecl start: 29 Aug 2084 22:23
+sat 2: Occ end  : 30 Aug 2084  3:19
+sat 3: Sha start: 30 Aug 2084 10:03
+sat 3: Sha end  : 30 Aug 2084 13:02
+sat 1: Ecl start: 30 Aug 2084 14:17
+sat 3: Tra start: 30 Aug 2084 14:36
+sat 1: Occ end  : 30 Aug 2084 17:40
+sat 3: Tra end  : 30 Aug 2084 17:44
+sat 1: Sha start: 31 Aug 2084 11:27
+sat 1: Tra start: 31 Aug 2084 12:35
+sat 1: Sha end  : 31 Aug 2084 13:39
+sat 1: Tra end  : 31 Aug 2084 14:48
+sat 2: Sha start: 31 Aug 2084 17:23
+sat 2: Tra start: 31 Aug 2084 19:42
+sat 2: Sha end  : 31 Aug 2084 20:05
+sat 2: Tra end  : 31 Aug 2084 22:28
+sat 1: Ecl start:  1 Sep 2084  8:46
+sat 1: Occ end  :  1 Sep 2084 12:09
+sat 4: Ecl start:  1 Sep 2084 16:37
+sat 4: Ecl end  :  1 Sep 2084 18:04
+sat 4: Occ start:  2 Sep 2084  3:02
+sat 4: Occ end  :  2 Sep 2084  5:27
+sat 1: Sha start:  2 Sep 2084  5:55
+sat 1: Tra start:  2 Sep 2084  7:04
+sat 1: Sha end  :  2 Sep 2084  8:08
+sat 1: Tra end  :  2 Sep 2084  9:18
+sat 2: Ecl start:  2 Sep 2084 11:40
+sat 2: Occ end  :  2 Sep 2084 16:41
+sat 3: Ecl start:  3 Sep 2084  0:06
+sat 3: Ecl end  :  3 Sep 2084  3:05
+sat 1: Ecl start:  3 Sep 2084  3:14
+sat 3: Occ start:  3 Sep 2084  4:46
+sat 1: Occ end  :  3 Sep 2084  6:39
+sat 3: Occ end  :  3 Sep 2084  7:54
+sat 1: Sha start:  4 Sep 2084  0:23
+sat 1: Tra start:  4 Sep 2084  1:33
+sat 1: Sha end  :  4 Sep 2084  2:36
+sat 1: Tra end  :  4 Sep 2084  3:47
+sat 2: Sha start:  4 Sep 2084  6:42
+sat 2: Tra start:  4 Sep 2084  9:04
+sat 2: Sha end  :  4 Sep 2084  9:24
+sat 2: Tra end  :  4 Sep 2084 11:50
+sat 1: Ecl start:  4 Sep 2084 21:43
+sat 1: Occ end  :  5 Sep 2084  1:08
+sat 1: Sha start:  5 Sep 2084 18:52
+sat 1: Tra start:  5 Sep 2084 20:03
+sat 1: Sha end  :  5 Sep 2084 21:05
+sat 1: Tra end  :  5 Sep 2084 22:16
+sat 2: Ecl start:  6 Sep 2084  0:57
+sat 2: Occ end  :  6 Sep 2084  6:02
+sat 3: Sha start:  6 Sep 2084 14:02
+sat 1: Ecl start:  6 Sep 2084 16:11
+sat 3: Sha end  :  6 Sep 2084 17:02
+sat 3: Tra start:  6 Sep 2084 18:51
+sat 1: Occ end  :  6 Sep 2084 19:37
+sat 3: Tra end  :  6 Sep 2084 21:59
+sat 1: Sha start:  7 Sep 2084 13:20
+sat 1: Tra start:  7 Sep 2084 14:32
+sat 1: Sha end  :  7 Sep 2084 15:33
+sat 1: Tra end  :  7 Sep 2084 16:46
+sat 2: Sha start:  7 Sep 2084 19:59
+sat 2: Tra start:  7 Sep 2084 22:26
+sat 2: Sha end  :  7 Sep 2084 22:42
+sat 2: Tra end  :  8 Sep 2084  1:11
+sat 1: Ecl start:  8 Sep 2084 10:39
+sat 1: Occ end  :  8 Sep 2084 14:07
+sat 1: Sha start:  9 Sep 2084  7:48
+sat 1: Tra start:  9 Sep 2084  9:01
+sat 1: Sha end  :  9 Sep 2084 10:01
+sat 1: Tra end  :  9 Sep 2084 11:15
+sat 2: Ecl start:  9 Sep 2084 14:14
+sat 2: Occ end  :  9 Sep 2084 19:23
+sat 4: Sha start: 10 Sep 2084  2:54
+sat 3: Ecl start: 10 Sep 2084  4:05
+sat 4: Sha end  : 10 Sep 2084  4:22
+sat 1: Ecl start: 10 Sep 2084  5:08
+sat 3: Ecl end  : 10 Sep 2084  7:05
+sat 1: Occ end  : 10 Sep 2084  8:36
+sat 3: Occ start: 10 Sep 2084  8:58
+sat 3: Occ end  : 10 Sep 2084 12:07
+sat 4: Tra start: 10 Sep 2084 14:11
+sat 4: Tra end  : 10 Sep 2084 16:40
+sat 1: Sha start: 11 Sep 2084  2:17
+sat 1: Tra start: 11 Sep 2084  3:30
+sat 1: Sha end  : 11 Sep 2084  4:30
+sat 1: Tra end  : 11 Sep 2084  5:44
+sat 2: Sha start: 11 Sep 2084  9:18
+sat 2: Tra start: 11 Sep 2084 11:47
+sat 2: Sha end  : 11 Sep 2084 12:00
+sat 2: Tra end  : 11 Sep 2084 14:32
+sat 1: Ecl start: 11 Sep 2084 23:36
+sat 1: Occ end  : 12 Sep 2084  3:05
+sat 1: Sha start: 12 Sep 2084 20:45
+sat 1: Tra start: 12 Sep 2084 21:59
+sat 1: Sha end  : 12 Sep 2084 22:58
+sat 1: Tra end  : 13 Sep 2084  0:13
+sat 2: Ecl start: 13 Sep 2084  3:31
+sat 2: Occ end  : 13 Sep 2084  8:43
+sat 3: Sha start: 13 Sep 2084 18:01
+sat 1: Ecl start: 13 Sep 2084 18:05
+sat 3: Sha end  : 13 Sep 2084 21:02
+sat 1: Occ end  : 13 Sep 2084 21:34
+sat 3: Tra start: 13 Sep 2084 23:02
+sat 3: Tra end  : 14 Sep 2084  2:12
+sat 1: Sha start: 14 Sep 2084 15:13
+sat 1: Tra start: 14 Sep 2084 16:28
+sat 1: Sha end  : 14 Sep 2084 17:27
+sat 1: Tra end  : 14 Sep 2084 18:42
+sat 2: Sha start: 14 Sep 2084 22:35
+sat 2: Tra start: 15 Sep 2084  1:07
+sat 2: Sha end  : 15 Sep 2084  1:18
+sat 2: Tra end  : 15 Sep 2084  3:53
+sat 1: Ecl start: 15 Sep 2084 12:33
+sat 1: Occ end  : 15 Sep 2084 16:03
+sat 1: Sha start: 16 Sep 2084  9:42
+sat 1: Tra start: 16 Sep 2084 10:57
+sat 1: Sha end  : 16 Sep 2084 11:55
+sat 1: Tra end  : 16 Sep 2084 13:11
+sat 2: Ecl start: 16 Sep 2084 16:49
+sat 2: Occ end  : 16 Sep 2084 22:03
+sat 1: Ecl start: 17 Sep 2084  7:02
+sat 3: Ecl start: 17 Sep 2084  8:03
+sat 1: Occ end  : 17 Sep 2084 10:32
+sat 3: Ecl end  : 17 Sep 2084 11:04
+sat 3: Occ start: 17 Sep 2084 13:08
+sat 3: Occ end  : 17 Sep 2084 16:17
+sat 1: Sha start: 18 Sep 2084  4:10
+sat 1: Tra start: 18 Sep 2084  5:26
+sat 1: Sha end  : 18 Sep 2084  6:23
+sat 1: Tra end  : 18 Sep 2084  7:40
+sat 4: Ecl start: 18 Sep 2084 10:31
+sat 2: Sha start: 18 Sep 2084 11:54
+sat 4: Ecl end  : 18 Sep 2084 12:19
+sat 2: Tra start: 18 Sep 2084 14:28
+sat 2: Sha end  : 18 Sep 2084 14:36
+sat 2: Tra end  : 18 Sep 2084 17:13
+sat 4: Occ start: 18 Sep 2084 22:07
+sat 4: Occ end  : 19 Sep 2084  0:47
+sat 1: Ecl start: 19 Sep 2084  1:30
+sat 1: Occ end  : 19 Sep 2084  5:01
+sat 1: Sha start: 19 Sep 2084 22:39
+sat 1: Tra start: 19 Sep 2084 23:55
+sat 1: Sha end  : 20 Sep 2084  0:52
+sat 1: Tra end  : 20 Sep 2084  2:09
+sat 2: Ecl start: 20 Sep 2084  6:06
+sat 2: Occ end  : 20 Sep 2084 11:23
+sat 1: Ecl start: 20 Sep 2084 19:59
+sat 3: Sha start: 20 Sep 2084 22:00
+sat 1: Occ end  : 20 Sep 2084 23:30
+sat 3: Sha end  : 21 Sep 2084  1:02
+sat 3: Tra start: 21 Sep 2084  3:11
+sat 3: Tra end  : 21 Sep 2084  6:21
+sat 1: Sha start: 21 Sep 2084 17:07
+sat 1: Tra start: 21 Sep 2084 18:24
+sat 1: Sha end  : 21 Sep 2084 19:20
+sat 1: Tra end  : 21 Sep 2084 20:38
+sat 2: Sha start: 22 Sep 2084  1:11
+sat 2: Tra start: 22 Sep 2084  3:47
+sat 2: Sha end  : 22 Sep 2084  3:54
+sat 2: Tra end  : 22 Sep 2084  6:33
+sat 1: Ecl start: 22 Sep 2084 14:27
+sat 1: Occ end  : 22 Sep 2084 17:59
+sat 1: Sha start: 23 Sep 2084 11:35
+sat 1: Tra start: 23 Sep 2084 12:53
+sat 1: Sha end  : 23 Sep 2084 13:48
+sat 1: Tra end  : 23 Sep 2084 15:07
+sat 2: Ecl start: 23 Sep 2084 19:23
+sat 2: Occ end  : 24 Sep 2084  0:42
+sat 1: Ecl start: 24 Sep 2084  8:55
+sat 3: Ecl start: 24 Sep 2084 12:01
+sat 1: Occ end  : 24 Sep 2084 12:28
+sat 3: Ecl end  : 24 Sep 2084 15:04
+sat 3: Occ start: 24 Sep 2084 17:14
+sat 3: Occ end  : 24 Sep 2084 20:24
+sat 1: Sha start: 25 Sep 2084  6:04
+sat 1: Tra start: 25 Sep 2084  7:22
+sat 1: Sha end  : 25 Sep 2084  8:17
+sat 1: Tra end  : 25 Sep 2084  9:36
+sat 2: Sha start: 25 Sep 2084 14:29
+sat 2: Tra start: 25 Sep 2084 17:06
+sat 2: Sha end  : 25 Sep 2084 17:12
+sat 2: Tra end  : 25 Sep 2084 19:52
+sat 1: Ecl start: 26 Sep 2084  3:24
+sat 1: Occ end  : 26 Sep 2084  6:57
+sat 4: Sha start: 26 Sep 2084 20:50
+sat 4: Sha end  : 26 Sep 2084 22:39
+sat 1: Sha start: 27 Sep 2084  0:32
+sat 1: Tra start: 27 Sep 2084  1:50
+sat 1: Sha end  : 27 Sep 2084  2:45
+sat 1: Tra end  : 27 Sep 2084  4:04
+sat 2: Ecl start: 27 Sep 2084  8:40
+sat 4: Tra start: 27 Sep 2084  8:57
+sat 4: Tra end  : 27 Sep 2084 11:40
+sat 2: Occ end  : 27 Sep 2084 14:01
+sat 1: Ecl start: 27 Sep 2084 21:52
+sat 1: Occ end  : 28 Sep 2084  1:26
+sat 3: Sha start: 28 Sep 2084  1:58
+sat 3: Sha end  : 28 Sep 2084  5:01
+sat 3: Tra start: 28 Sep 2084  7:15
+sat 3: Tra end  : 28 Sep 2084 10:26
+sat 1: Sha start: 28 Sep 2084 19:00
+sat 1: Tra start: 28 Sep 2084 20:19
+sat 1: Sha end  : 28 Sep 2084 21:14
+sat 1: Tra end  : 28 Sep 2084 22:33
+sat 2: Sha start: 29 Sep 2084  3:47
+sat 2: Tra start: 29 Sep 2084  6:25
+sat 2: Sha end  : 29 Sep 2084  6:30
+sat 2: Tra end  : 29 Sep 2084  9:11
+sat 1: Ecl start: 29 Sep 2084 16:21
+sat 1: Occ end  : 29 Sep 2084 19:54
+sat 1: Sha start: 30 Sep 2084 13:29
+sat 1: Tra start: 30 Sep 2084 14:47
+sat 1: Sha end  : 30 Sep 2084 15:42
+sat 1: Tra end  : 30 Sep 2084 17:02
+sat 2: Ecl start: 30 Sep 2084 21:57
+sat 2: Occ end  :  1 Oct 2084  3:19
+sat 1: Ecl start:  1 Oct 2084 10:49
+sat 1: Occ end  :  1 Oct 2084 14:23
+sat 3: Ecl start:  1 Oct 2084 16:00
+sat 3: Ecl end  :  1 Oct 2084 19:04
+sat 3: Occ start:  1 Oct 2084 21:17
+sat 3: Occ end  :  2 Oct 2084  0:28
+sat 1: Sha start:  2 Oct 2084  7:57
+sat 1: Tra start:  2 Oct 2084  9:16
+sat 1: Sha end  :  2 Oct 2084 10:10
+sat 1: Tra end  :  2 Oct 2084 11:30
+sat 2: Sha start:  2 Oct 2084 17:05
+sat 2: Tra start:  2 Oct 2084 19:43
+sat 2: Sha end  :  2 Oct 2084 19:48
+sat 2: Tra end  :  2 Oct 2084 22:29
+sat 1: Ecl start:  3 Oct 2084  5:18
+sat 1: Occ end  :  3 Oct 2084  8:51
+sat 1: Sha start:  4 Oct 2084  2:25
+sat 1: Tra start:  4 Oct 2084  3:44
+sat 1: Sha end  :  4 Oct 2084  4:39
+sat 1: Tra end  :  4 Oct 2084  5:59
+sat 2: Ecl start:  4 Oct 2084 11:14
+sat 2: Occ end  :  4 Oct 2084 16:37
+sat 1: Ecl start:  4 Oct 2084 23:46
+sat 1: Occ end  :  5 Oct 2084  3:20
+sat 4: Ecl start:  5 Oct 2084  4:27
+sat 3: Sha start:  5 Oct 2084  5:57
+sat 4: Ecl end  :  5 Oct 2084  6:32
+sat 3: Sha end  :  5 Oct 2084  9:01
+sat 3: Tra start:  5 Oct 2084 11:15
+sat 3: Tra end  :  5 Oct 2084 14:27
+sat 4: Occ start:  5 Oct 2084 16:29
+sat 4: Occ end  :  5 Oct 2084 19:21
+sat 1: Sha start:  5 Oct 2084 20:54
+sat 1: Tra start:  5 Oct 2084 22:13
+sat 1: Sha end  :  5 Oct 2084 23:07
+sat 1: Tra end  :  6 Oct 2084  0:27
+sat 2: Sha start:  6 Oct 2084  6:22
+sat 2: Tra start:  6 Oct 2084  9:01
+sat 2: Sha end  :  6 Oct 2084  9:05
+sat 2: Tra end  :  6 Oct 2084 11:47
+sat 1: Ecl start:  6 Oct 2084 18:14
+sat 1: Occ end  :  6 Oct 2084 21:48
+sat 1: Sha start:  7 Oct 2084 15:22
+sat 1: Tra start:  7 Oct 2084 16:41
+sat 1: Sha end  :  7 Oct 2084 17:36
+sat 1: Tra end  :  7 Oct 2084 18:55
+sat 2: Ecl start:  8 Oct 2084  0:32
+sat 2: Occ end  :  8 Oct 2084  5:55
+sat 1: Ecl start:  8 Oct 2084 12:43
+sat 1: Occ end  :  8 Oct 2084 16:16
+sat 3: Ecl start:  8 Oct 2084 19:59
+sat 3: Ecl end  :  8 Oct 2084 23:03
+sat 3: Occ start:  9 Oct 2084  1:16
+sat 3: Occ end  :  9 Oct 2084  4:27
+sat 1: Sha start:  9 Oct 2084  9:51
+sat 1: Tra start:  9 Oct 2084 11:09
+sat 1: Sha end  :  9 Oct 2084 12:04
+sat 1: Tra end  :  9 Oct 2084 13:24
+sat 2: Sha start:  9 Oct 2084 19:40
+sat 2: Tra start:  9 Oct 2084 22:18
+sat 2: Sha end  :  9 Oct 2084 22:23
+sat 2: Tra end  : 10 Oct 2084  1:04
+sat 1: Ecl start: 10 Oct 2084  7:11
+sat 1: Occ end  : 10 Oct 2084 10:45
+sat 1: Sha start: 11 Oct 2084  4:19
+sat 1: Tra start: 11 Oct 2084  5:38
+sat 1: Sha end  : 11 Oct 2084  6:32
+sat 1: Tra end  : 11 Oct 2084  7:52
+sat 2: Ecl start: 11 Oct 2084 13:49
+sat 2: Occ end  : 11 Oct 2084 19:12
+sat 1: Ecl start: 12 Oct 2084  1:40
+sat 1: Occ end  : 12 Oct 2084  5:13
+sat 3: Sha start: 12 Oct 2084  9:55
+sat 3: Sha end  : 12 Oct 2084 13:00
+sat 3: Tra start: 12 Oct 2084 15:12
+sat 3: Tra end  : 12 Oct 2084 18:25
+sat 1: Sha start: 12 Oct 2084 22:47
+sat 1: Tra start: 13 Oct 2084  0:06
+sat 1: Sha end  : 13 Oct 2084  1:01
+sat 1: Tra end  : 13 Oct 2084  2:20
+sat 2: Sha start: 13 Oct 2084  8:57
+sat 2: Tra start: 13 Oct 2084 11:34
+sat 2: Sha end  : 13 Oct 2084 11:41
+sat 2: Tra end  : 13 Oct 2084 14:20
+sat 4: Sha start: 13 Oct 2084 14:47
+sat 4: Sha end  : 13 Oct 2084 16:54
+sat 1: Ecl start: 13 Oct 2084 20:08
+sat 1: Occ end  : 13 Oct 2084 23:41
+sat 4: Tra start: 14 Oct 2084  2:56
+sat 4: Tra end  : 14 Oct 2084  5:49
+sat 1: Sha start: 14 Oct 2084 17:16
+sat 1: Tra start: 14 Oct 2084 18:34
+sat 1: Sha end  : 14 Oct 2084 19:29
+sat 1: Tra end  : 14 Oct 2084 20:48
+sat 2: Ecl start: 15 Oct 2084  3:07
+sat 2: Occ end  : 15 Oct 2084  8:28
+sat 1: Ecl start: 15 Oct 2084 14:36
+sat 1: Occ end  : 15 Oct 2084 18:09
+sat 3: Ecl start: 15 Oct 2084 23:58
+sat 3: Ecl end  : 16 Oct 2084  3:04
+sat 3: Occ start: 16 Oct 2084  5:10
+sat 3: Occ end  : 16 Oct 2084  8:23
+sat 1: Sha start: 16 Oct 2084 11:44
+sat 1: Tra start: 16 Oct 2084 13:02
+sat 1: Sha end  : 16 Oct 2084 13:58
+sat 1: Tra end  : 16 Oct 2084 15:16
+sat 2: Sha start: 16 Oct 2084 22:15
+sat 2: Tra start: 17 Oct 2084  0:50
+sat 2: Sha end  : 17 Oct 2084  0:59
+sat 2: Tra end  : 17 Oct 2084  3:37
+sat 1: Ecl start: 17 Oct 2084  9:05
+sat 1: Occ end  : 17 Oct 2084 12:37
+sat 1: Sha start: 18 Oct 2084  6:12
+sat 1: Tra start: 18 Oct 2084  7:30
+sat 1: Sha end  : 18 Oct 2084  8:26
+sat 1: Tra end  : 18 Oct 2084  9:44
+sat 2: Ecl start: 18 Oct 2084 16:24
+sat 2: Occ end  : 18 Oct 2084 21:44
+sat 1: Ecl start: 19 Oct 2084  3:33
+sat 1: Occ end  : 19 Oct 2084  7:05
+sat 3: Sha start: 19 Oct 2084 13:53
+sat 3: Sha end  : 19 Oct 2084 16:59
+sat 3: Tra start: 19 Oct 2084 19:04
+sat 3: Tra end  : 19 Oct 2084 22:17
+sat 1: Sha start: 20 Oct 2084  0:41
+sat 1: Tra start: 20 Oct 2084  1:58
+sat 1: Sha end  : 20 Oct 2084  2:54
+sat 1: Tra end  : 20 Oct 2084  4:12
+sat 2: Sha start: 20 Oct 2084 11:32
+sat 2: Tra start: 20 Oct 2084 14:06
+sat 2: Sha end  : 20 Oct 2084 14:16
+sat 2: Tra end  : 20 Oct 2084 16:52
+sat 1: Ecl start: 20 Oct 2084 22:02
+sat 1: Occ end  : 21 Oct 2084  1:33
+sat 1: Sha start: 21 Oct 2084 19:09
+sat 1: Tra start: 21 Oct 2084 20:26
+sat 1: Sha end  : 21 Oct 2084 21:23
+sat 4: Ecl start: 21 Oct 2084 22:24
+sat 1: Tra end  : 21 Oct 2084 22:40
+sat 4: Ecl end  : 22 Oct 2084  0:44
+sat 2: Ecl start: 22 Oct 2084  5:41
+sat 4: Occ start: 22 Oct 2084 10:01
+sat 2: Occ end  : 22 Oct 2084 11:00
+sat 4: Occ end  : 22 Oct 2084 13:00
+sat 1: Ecl start: 22 Oct 2084 16:30
+sat 1: Occ end  : 22 Oct 2084 20:00
+sat 3: Ecl start: 23 Oct 2084  3:57
+sat 3: Ecl end  : 23 Oct 2084  7:03
+sat 3: Occ start: 23 Oct 2084  9:00
+sat 3: Occ end  : 23 Oct 2084 12:13
+sat 1: Sha start: 23 Oct 2084 13:38
+sat 1: Tra start: 23 Oct 2084 14:53
+sat 1: Sha end  : 23 Oct 2084 15:51
+sat 1: Tra end  : 23 Oct 2084 17:08
+sat 2: Sha start: 24 Oct 2084  0:50
+sat 2: Tra start: 24 Oct 2084  3:21
+sat 2: Sha end  : 24 Oct 2084  3:34
+sat 2: Tra end  : 24 Oct 2084  6:07
+sat 1: Ecl start: 24 Oct 2084 10:58
+sat 1: Occ end  : 24 Oct 2084 14:28
+sat 1: Sha start: 25 Oct 2084  8:06
+sat 1: Tra start: 25 Oct 2084  9:21
+sat 1: Sha end  : 25 Oct 2084 10:20
+sat 1: Tra end  : 25 Oct 2084 11:36
+sat 2: Ecl start: 25 Oct 2084 18:59
+sat 2: Occ end  : 26 Oct 2084  0:15
+sat 1: Ecl start: 26 Oct 2084  5:27
+sat 1: Occ end  : 26 Oct 2084  8:56
+sat 3: Sha start: 26 Oct 2084 17:52
+sat 3: Sha end  : 26 Oct 2084 20:59
+sat 3: Tra start: 26 Oct 2084 22:52
+sat 3: Tra end  : 27 Oct 2084  2:06
+sat 1: Sha start: 27 Oct 2084  2:34
+sat 1: Tra start: 27 Oct 2084  3:49
+sat 1: Sha end  : 27 Oct 2084  4:48
+sat 1: Tra end  : 27 Oct 2084  6:03
+sat 2: Sha start: 27 Oct 2084 14:07
+sat 2: Tra start: 27 Oct 2084 16:34
+sat 2: Sha end  : 27 Oct 2084 16:51
+sat 2: Tra end  : 27 Oct 2084 19:21
+sat 1: Ecl start: 27 Oct 2084 23:55
+sat 1: Occ end  : 28 Oct 2084  3:23
+sat 1: Sha start: 28 Oct 2084 21:03
+sat 1: Tra start: 28 Oct 2084 22:16
+sat 1: Sha end  : 28 Oct 2084 23:17
+sat 1: Tra end  : 29 Oct 2084  0:31
+sat 2: Ecl start: 29 Oct 2084  8:16
+sat 2: Occ end  : 29 Oct 2084 13:29
+sat 1: Ecl start: 29 Oct 2084 18:24
+sat 1: Occ end  : 29 Oct 2084 21:51
+sat 3: Ecl start: 30 Oct 2084  7:55
+sat 4: Sha start: 30 Oct 2084  8:45
+sat 3: Ecl end  : 30 Oct 2084 11:02
+sat 4: Sha end  : 30 Oct 2084 11:08
+sat 3: Occ start: 30 Oct 2084 12:45
+sat 1: Sha start: 30 Oct 2084 15:31
+sat 3: Occ end  : 30 Oct 2084 15:58
+sat 1: Tra start: 30 Oct 2084 16:44
+sat 1: Sha end  : 30 Oct 2084 17:45
+sat 1: Tra end  : 30 Oct 2084 18:58
+sat 4: Tra start: 30 Oct 2084 20:00
+sat 4: Tra end  : 30 Oct 2084 23:00
+sat 2: Sha start: 31 Oct 2084  3:25
+sat 2: Tra start: 31 Oct 2084  5:48
+sat 2: Sha end  : 31 Oct 2084  6:09
+sat 2: Tra end  : 31 Oct 2084  8:34
+sat 1: Ecl start: 31 Oct 2084 12:52
+sat 1: Occ end  : 31 Oct 2084 16:18
+sat 1: Sha start:  1 Nov 2084 10:00
+sat 1: Tra start:  1 Nov 2084 11:11
+sat 1: Sha end  :  1 Nov 2084 12:14
+sat 1: Tra end  :  1 Nov 2084 13:26
+sat 2: Ecl start:  1 Nov 2084 21:34
+sat 2: Occ end  :  2 Nov 2084  2:43
+sat 1: Ecl start:  2 Nov 2084  7:20
+sat 1: Occ end  :  2 Nov 2084 10:45
+sat 3: Sha start:  2 Nov 2084 21:51
+sat 3: Sha end  :  3 Nov 2084  0:59
+sat 3: Tra start:  3 Nov 2084  2:35
+sat 1: Sha start:  3 Nov 2084  4:28
+sat 1: Tra start:  3 Nov 2084  5:38
+sat 3: Tra end  :  3 Nov 2084  5:49
+sat 1: Sha end  :  3 Nov 2084  6:42
+sat 1: Tra end  :  3 Nov 2084  7:53
+sat 2: Sha start:  3 Nov 2084 16:42
+sat 2: Tra start:  3 Nov 2084 19:01
+sat 2: Sha end  :  3 Nov 2084 19:26
+sat 2: Tra end  :  3 Nov 2084 21:47
+sat 1: Ecl start:  4 Nov 2084  1:49
+sat 1: Occ end  :  4 Nov 2084  5:13
+sat 1: Sha start:  4 Nov 2084 22:56
+sat 1: Tra start:  5 Nov 2084  0:06
+sat 1: Sha end  :  5 Nov 2084  1:10
+sat 1: Tra end  :  5 Nov 2084  2:20
+sat 2: Ecl start:  5 Nov 2084 10:52
+sat 2: Occ end  :  5 Nov 2084 15:56
+sat 1: Ecl start:  5 Nov 2084 20:17
+sat 1: Occ end  :  5 Nov 2084 23:40
+sat 3: Ecl start:  6 Nov 2084 11:53
+sat 3: Ecl end  :  6 Nov 2084 15:01
+sat 3: Occ start:  6 Nov 2084 16:25
+sat 1: Sha start:  6 Nov 2084 17:25
+sat 1: Tra start:  6 Nov 2084 18:33
+sat 3: Occ end  :  6 Nov 2084 19:39
+sat 1: Sha end  :  6 Nov 2084 19:39
+sat 1: Tra end  :  6 Nov 2084 20:48
+sat 2: Sha start:  7 Nov 2084  6:00
+sat 2: Tra start:  7 Nov 2084  8:13
+sat 2: Sha end  :  7 Nov 2084  8:44
+sat 2: Tra end  :  7 Nov 2084 11:00
+sat 1: Ecl start:  7 Nov 2084 14:46
+sat 4: Ecl start:  7 Nov 2084 16:22
+sat 1: Occ end  :  7 Nov 2084 18:07
+sat 4: Ecl end  :  7 Nov 2084 18:55
+sat 4: Occ start:  8 Nov 2084  2:36
+sat 4: Occ end  :  8 Nov 2084  5:40
+sat 1: Sha start:  8 Nov 2084 11:53
+sat 1: Tra start:  8 Nov 2084 13:00
+sat 1: Sha end  :  8 Nov 2084 14:07
+sat 1: Tra end  :  8 Nov 2084 15:15
+sat 2: Ecl start:  9 Nov 2084  0:09
+sat 2: Occ end  :  9 Nov 2084  5:09
+sat 1: Ecl start:  9 Nov 2084  9:14
+sat 1: Occ end  :  9 Nov 2084 12:34
+sat 3: Sha start: 10 Nov 2084  1:51
+sat 3: Sha end  : 10 Nov 2084  4:59
+sat 3: Tra start: 10 Nov 2084  6:14
+sat 1: Sha start: 10 Nov 2084  6:22
+sat 1: Tra start: 10 Nov 2084  7:27
+sat 1: Sha end  : 10 Nov 2084  8:36
+sat 3: Tra end  : 10 Nov 2084  9:28
+sat 1: Tra end  : 10 Nov 2084  9:42
+sat 2: Sha start: 10 Nov 2084 19:17
+sat 2: Tra start: 10 Nov 2084 21:25
+sat 2: Sha end  : 10 Nov 2084 22:01
+sat 2: Tra end  : 11 Nov 2084  0:11
+sat 1: Ecl start: 11 Nov 2084  3:42
+sat 1: Occ end  : 11 Nov 2084  7:01
+sat 1: Sha start: 12 Nov 2084  0:50
+sat 1: Tra start: 12 Nov 2084  1:54
+sat 1: Sha end  : 12 Nov 2084  3:04
+sat 1: Tra end  : 12 Nov 2084  4:09
+sat 2: Ecl start: 12 Nov 2084 13:27
+sat 2: Occ end  : 12 Nov 2084 18:21
+sat 1: Ecl start: 12 Nov 2084 22:11
+sat 1: Occ end  : 13 Nov 2084  1:28
+sat 3: Ecl start: 13 Nov 2084 15:51
+sat 3: Ecl end  : 13 Nov 2084 19:00
+sat 1: Sha start: 13 Nov 2084 19:19
+sat 3: Occ start: 13 Nov 2084 20:01
+sat 1: Tra start: 13 Nov 2084 20:21
+sat 1: Sha end  : 13 Nov 2084 21:33
+sat 1: Tra end  : 13 Nov 2084 22:36
+sat 3: Occ end  : 13 Nov 2084 23:14
+sat 2: Sha start: 14 Nov 2084  8:34
+sat 2: Tra start: 14 Nov 2084 10:36
+sat 2: Sha end  : 14 Nov 2084 11:18
+sat 2: Tra end  : 14 Nov 2084 13:22
+sat 1: Ecl start: 14 Nov 2084 16:39
+sat 1: Occ end  : 14 Nov 2084 19:55
+sat 1: Sha start: 15 Nov 2084 13:47
+sat 1: Tra start: 15 Nov 2084 14:48
+sat 1: Sha end  : 15 Nov 2084 16:01
+sat 1: Tra end  : 15 Nov 2084 17:03
+sat 2: Ecl start: 16 Nov 2084  2:45
+sat 4: Sha start: 16 Nov 2084  2:45
+sat 4: Sha end  : 16 Nov 2084  5:20
+sat 2: Occ end  : 16 Nov 2084  7:32
+sat 1: Ecl start: 16 Nov 2084 11:08
+sat 4: Tra start: 16 Nov 2084 12:03
+sat 1: Occ end  : 16 Nov 2084 14:21
+sat 4: Tra end  : 16 Nov 2084 15:07
+sat 3: Sha start: 17 Nov 2084  5:49
+sat 1: Sha start: 17 Nov 2084  8:16
+sat 3: Sha end  : 17 Nov 2084  8:59
+sat 1: Tra start: 17 Nov 2084  9:15
+sat 3: Tra start: 17 Nov 2084  9:47
+sat 1: Sha end  : 17 Nov 2084 10:30
+sat 1: Tra end  : 17 Nov 2084 11:29
+sat 3: Tra end  : 17 Nov 2084 13:02
+sat 2: Sha start: 17 Nov 2084 21:51
+sat 2: Tra start: 17 Nov 2084 23:47
+sat 2: Sha end  : 18 Nov 2084  0:36
+sat 2: Tra end  : 18 Nov 2084  2:33
+sat 1: Ecl start: 18 Nov 2084  5:36
+sat 1: Occ end  : 18 Nov 2084  8:48
+sat 1: Sha start: 19 Nov 2084  2:44
+sat 1: Tra start: 19 Nov 2084  3:41
+sat 1: Sha end  : 19 Nov 2084  4:58
+sat 1: Tra end  : 19 Nov 2084  5:56
+sat 2: Ecl start: 19 Nov 2084 16:03
+sat 2: Occ end  : 19 Nov 2084 20:44
+sat 1: Ecl start: 20 Nov 2084  0:04
+sat 1: Occ end  : 20 Nov 2084  3:15
+sat 3: Ecl start: 20 Nov 2084 19:51
+sat 1: Sha start: 20 Nov 2084 21:12
+sat 1: Tra start: 20 Nov 2084 22:08
+sat 3: Ecl end  : 20 Nov 2084 23:00
+sat 1: Sha end  : 20 Nov 2084 23:27
+sat 3: Occ start: 20 Nov 2084 23:32
+sat 1: Tra end  : 21 Nov 2084  0:23
+sat 3: Occ end  : 21 Nov 2084  2:46
+sat 2: Sha start: 21 Nov 2084 11:08
+sat 2: Tra start: 21 Nov 2084 12:57
+sat 2: Sha end  : 21 Nov 2084 13:53
+sat 2: Tra end  : 21 Nov 2084 15:43
+sat 1: Ecl start: 21 Nov 2084 18:33
+sat 1: Occ end  : 21 Nov 2084 21:41
+sat 1: Sha start: 22 Nov 2084 15:41
+sat 1: Tra start: 22 Nov 2084 16:35
+sat 1: Sha end  : 22 Nov 2084 17:55
+sat 1: Tra end  : 22 Nov 2084 18:49
+sat 2: Ecl start: 23 Nov 2084  5:20
+sat 2: Occ end  : 23 Nov 2084  9:54
+sat 1: Ecl start: 23 Nov 2084 13:01
+sat 1: Occ end  : 23 Nov 2084 16:08
+sat 3: Sha start: 24 Nov 2084  9:48
+sat 1: Sha start: 24 Nov 2084 10:09
+sat 4: Ecl start: 24 Nov 2084 10:20
+sat 1: Tra start: 24 Nov 2084 11:01
+sat 1: Sha end  : 24 Nov 2084 12:24
+sat 3: Sha end  : 24 Nov 2084 12:58
+sat 4: Ecl end  : 24 Nov 2084 13:05
+sat 3: Tra start: 24 Nov 2084 13:16
+sat 1: Tra end  : 24 Nov 2084 13:16
+sat 3: Tra end  : 24 Nov 2084 16:30
+sat 4: Occ start: 24 Nov 2084 18:12
+sat 4: Occ end  : 24 Nov 2084 21:18
+sat 2: Sha start: 25 Nov 2084  0:25
+sat 2: Tra start: 25 Nov 2084  2:06
+sat 2: Sha end  : 25 Nov 2084  3:10
+sat 2: Tra end  : 25 Nov 2084  4:52
+sat 1: Ecl start: 25 Nov 2084  7:30
+sat 1: Occ end  : 25 Nov 2084 10:34
+sat 1: Sha start: 26 Nov 2084  4:38
+sat 1: Tra start: 26 Nov 2084  5:28
+sat 1: Sha end  : 26 Nov 2084  6:52
+sat 1: Tra end  : 26 Nov 2084  7:43
+sat 2: Ecl start: 26 Nov 2084 18:38
+sat 2: Occ end  : 26 Nov 2084 23:04
+sat 1: Ecl start: 27 Nov 2084  1:58
+sat 1: Occ end  : 27 Nov 2084  5:01
+sat 1: Sha start: 27 Nov 2084 23:06
+sat 3: Ecl start: 27 Nov 2084 23:49
+sat 1: Tra start: 27 Nov 2084 23:54
+sat 1: Sha end  : 28 Nov 2084  1:21
+sat 1: Tra end  : 28 Nov 2084  2:09
+sat 3: Occ end  : 28 Nov 2084  6:13
+sat 2: Sha start: 28 Nov 2084 13:43
+sat 2: Tra start: 28 Nov 2084 15:15
+sat 2: Sha end  : 28 Nov 2084 16:28
+sat 2: Tra end  : 28 Nov 2084 18:01
+sat 1: Ecl start: 28 Nov 2084 20:26
+sat 1: Occ end  : 28 Nov 2084 23:27
+sat 1: Sha start: 29 Nov 2084 17:35
+sat 1: Tra start: 29 Nov 2084 18:21
+sat 1: Sha end  : 29 Nov 2084 19:49
+sat 1: Tra end  : 29 Nov 2084 20:35
+sat 2: Ecl start: 30 Nov 2084  7:56
+sat 2: Occ end  : 30 Nov 2084 12:13
+sat 1: Ecl start: 30 Nov 2084 14:55
+sat 1: Occ end  : 30 Nov 2084 17:53
+sat 1: Sha start:  1 Dec 2084 12:04
+sat 1: Tra start:  1 Dec 2084 12:47
+sat 3: Sha start:  1 Dec 2084 13:47
+sat 1: Sha end  :  1 Dec 2084 14:18
+sat 1: Tra end  :  1 Dec 2084 15:02
+sat 3: Tra start:  1 Dec 2084 16:40
+sat 3: Sha end  :  1 Dec 2084 16:58
+sat 3: Tra end  :  1 Dec 2084 19:55
+sat 2: Sha start:  2 Dec 2084  3:00
+sat 2: Tra start:  2 Dec 2084  4:24
+sat 2: Sha end  :  2 Dec 2084  5:45
+sat 2: Tra end  :  2 Dec 2084  7:10
+sat 1: Ecl start:  2 Dec 2084  9:23
+sat 1: Occ end  :  2 Dec 2084 12:19
+sat 4: Sha start:  2 Dec 2084 20:45
+sat 4: Sha end  :  2 Dec 2084 23:33
+sat 4: Tra start:  3 Dec 2084  3:10
+sat 4: Tra end  :  3 Dec 2084  6:15
+sat 1: Sha start:  3 Dec 2084  6:32
+sat 1: Tra start:  3 Dec 2084  7:13
+sat 1: Sha end  :  3 Dec 2084  8:47
+sat 1: Tra end  :  3 Dec 2084  9:28
+sat 2: Ecl start:  3 Dec 2084 21:14
+sat 2: Occ end  :  4 Dec 2084  1:23
+sat 1: Ecl start:  4 Dec 2084  3:52
+sat 1: Occ end  :  4 Dec 2084  6:46
+sat 1: Sha start:  5 Dec 2084  1:01
+sat 1: Tra start:  5 Dec 2084  1:39
+sat 1: Sha end  :  5 Dec 2084  3:15
+sat 3: Ecl start:  5 Dec 2084  3:49
+sat 1: Tra end  :  5 Dec 2084  3:54
+sat 3: Occ end  :  5 Dec 2084  9:36
+sat 2: Sha start:  5 Dec 2084 16:17
+sat 2: Tra start:  5 Dec 2084 17:32
+sat 2: Sha end  :  5 Dec 2084 19:02
+sat 2: Tra end  :  5 Dec 2084 20:18
+sat 1: Ecl start:  5 Dec 2084 22:20
+sat 1: Occ end  :  6 Dec 2084  1:12
+sat 1: Sha start:  6 Dec 2084 19:29
+sat 1: Tra start:  6 Dec 2084 20:06
+sat 1: Sha end  :  6 Dec 2084 21:44
+sat 1: Tra end  :  6 Dec 2084 22:20
+sat 2: Ecl start:  7 Dec 2084 10:32
+sat 2: Occ end  :  7 Dec 2084 14:31
+sat 1: Ecl start:  7 Dec 2084 16:49
+sat 1: Occ end  :  7 Dec 2084 19:38
+sat 1: Sha start:  8 Dec 2084 13:58
+sat 1: Tra start:  8 Dec 2084 14:32
+sat 1: Sha end  :  8 Dec 2084 16:12
+sat 1: Tra end  :  8 Dec 2084 16:47
+sat 3: Sha start:  8 Dec 2084 17:46
+sat 3: Tra start:  8 Dec 2084 20:01
+sat 3: Sha end  :  8 Dec 2084 20:58
+sat 3: Tra end  :  8 Dec 2084 23:16
+sat 2: Sha start:  9 Dec 2084  5:34
+sat 2: Tra start:  9 Dec 2084  6:39
+sat 2: Sha end  :  9 Dec 2084  8:19
+sat 2: Tra end  :  9 Dec 2084  9:25
+sat 1: Ecl start:  9 Dec 2084 11:17
+sat 1: Occ end  :  9 Dec 2084 14:04
+sat 1: Sha start: 10 Dec 2084  8:26
+sat 1: Tra start: 10 Dec 2084  8:58
+sat 1: Sha end  : 10 Dec 2084 10:41
+sat 1: Tra end  : 10 Dec 2084 11:13
+sat 2: Ecl start: 10 Dec 2084 23:51
+sat 2: Occ end  : 11 Dec 2084  3:40
+sat 4: Ecl start: 11 Dec 2084  4:19
+sat 1: Ecl start: 11 Dec 2084  5:46
+sat 4: Ecl end  : 11 Dec 2084  7:15
+sat 1: Occ end  : 11 Dec 2084  8:30
+sat 4: Occ start: 11 Dec 2084  8:56
+sat 4: Occ end  : 11 Dec 2084 12:02
+sat 1: Sha start: 12 Dec 2084  2:55
+sat 1: Tra start: 12 Dec 2084  3:24
+sat 1: Sha end  : 12 Dec 2084  5:10
+sat 1: Tra end  : 12 Dec 2084  5:39
+sat 3: Ecl start: 12 Dec 2084  7:47
+sat 3: Occ end  : 12 Dec 2084 12:55
+sat 2: Sha start: 12 Dec 2084 18:52
+sat 2: Tra start: 12 Dec 2084 19:47
+sat 2: Sha end  : 12 Dec 2084 21:37
+sat 2: Tra end  : 12 Dec 2084 22:32
+sat 1: Ecl start: 13 Dec 2084  0:14
+sat 1: Occ end  : 13 Dec 2084  2:56
+sat 1: Sha start: 13 Dec 2084 21:23
+sat 1: Tra start: 13 Dec 2084 21:50
+sat 1: Sha end  : 13 Dec 2084 23:38
+sat 1: Tra end  : 14 Dec 2084  0:05
+sat 2: Ecl start: 14 Dec 2084 13:09
+sat 2: Occ end  : 14 Dec 2084 16:47
+sat 1: Ecl start: 14 Dec 2084 18:43
+sat 1: Occ end  : 14 Dec 2084 21:22
+sat 1: Sha start: 15 Dec 2084 15:52
+sat 1: Tra start: 15 Dec 2084 16:16
+sat 1: Sha end  : 15 Dec 2084 18:07
+sat 1: Tra end  : 15 Dec 2084 18:31
+sat 3: Sha start: 15 Dec 2084 21:45
+sat 3: Tra start: 15 Dec 2084 23:20
+sat 3: Sha end  : 16 Dec 2084  0:59
+sat 3: Tra end  : 16 Dec 2084  2:34
+sat 2: Sha start: 16 Dec 2084  8:09
+sat 2: Tra start: 16 Dec 2084  8:54
+sat 2: Sha end  : 16 Dec 2084 10:54
+sat 2: Tra end  : 16 Dec 2084 11:39
+sat 1: Ecl start: 16 Dec 2084 13:11
+sat 1: Occ end  : 16 Dec 2084 15:48
+sat 1: Sha start: 17 Dec 2084 10:21
+sat 1: Tra start: 17 Dec 2084 10:42
+sat 1: Sha end  : 17 Dec 2084 12:35
+sat 1: Tra end  : 17 Dec 2084 12:57
+sat 2: Ecl start: 18 Dec 2084  2:27
+sat 2: Occ end  : 18 Dec 2084  5:55
+sat 1: Ecl start: 18 Dec 2084  7:40
+sat 1: Occ end  : 18 Dec 2084 10:13
+sat 1: Sha start: 19 Dec 2084  4:49
+sat 1: Tra start: 19 Dec 2084  5:08
+sat 1: Sha end  : 19 Dec 2084  7:04
+sat 1: Tra end  : 19 Dec 2084  7:23
+sat 3: Ecl start: 19 Dec 2084 11:46
+sat 4: Sha start: 19 Dec 2084 14:46
+sat 3: Occ end  : 19 Dec 2084 16:12
+sat 4: Tra start: 19 Dec 2084 17:33
+sat 4: Sha end  : 19 Dec 2084 17:45
+sat 4: Tra end  : 19 Dec 2084 20:37
+sat 2: Sha start: 19 Dec 2084 21:26
+sat 2: Tra start: 19 Dec 2084 22:01
+sat 2: Sha end  : 20 Dec 2084  0:11
+sat 2: Tra end  : 20 Dec 2084  0:46
+sat 1: Ecl start: 20 Dec 2084  2:08
+sat 1: Occ end  : 20 Dec 2084  4:39
+sat 1: Sha start: 20 Dec 2084 23:18
+sat 1: Tra start: 20 Dec 2084 23:34
+sat 1: Sha end  : 21 Dec 2084  1:33
+sat 1: Tra end  : 21 Dec 2084  1:49
+sat 2: Ecl start: 21 Dec 2084 15:45
+sat 2: Occ end  : 21 Dec 2084 19:02
+sat 1: Ecl start: 21 Dec 2084 20:37
+sat 1: Occ end  : 21 Dec 2084 23:05
+sat 1: Sha start: 22 Dec 2084 17:46
+sat 1: Tra start: 22 Dec 2084 18:00
+sat 1: Sha end  : 22 Dec 2084 20:01
+sat 1: Tra end  : 22 Dec 2084 20:15
+sat 3: Sha start: 23 Dec 2084  1:45
+sat 3: Tra start: 23 Dec 2084  2:36
+sat 3: Sha end  : 23 Dec 2084  4:59
+sat 3: Tra end  : 23 Dec 2084  5:51
+sat 2: Sha start: 23 Dec 2084 10:43
+sat 2: Tra start: 23 Dec 2084 11:07
+sat 2: Sha end  : 23 Dec 2084 13:28
+sat 2: Tra end  : 23 Dec 2084 13:52
+sat 1: Ecl start: 23 Dec 2084 15:05
+sat 1: Occ end  : 23 Dec 2084 17:31
+sat 1: Sha start: 24 Dec 2084 12:15
+sat 1: Tra start: 24 Dec 2084 12:26
+sat 1: Sha end  : 24 Dec 2084 14:30
+sat 1: Tra end  : 24 Dec 2084 14:41
+sat 2: Ecl start: 25 Dec 2084  5:04
+sat 2: Occ end  : 25 Dec 2084  8:10
+sat 1: Ecl start: 25 Dec 2084  9:34
+sat 1: Occ end  : 25 Dec 2084 11:57
+sat 1: Sha start: 26 Dec 2084  6:44
+sat 1: Tra start: 26 Dec 2084  6:52
+sat 1: Sha end  : 26 Dec 2084  8:59
+sat 1: Tra end  : 26 Dec 2084  9:06
+sat 3: Ecl start: 26 Dec 2084 15:45
+sat 3: Occ end  : 26 Dec 2084 19:27
+sat 2: Sha start: 27 Dec 2084  0:00
+sat 2: Tra start: 27 Dec 2084  0:14
+sat 2: Sha end  : 27 Dec 2084  2:46
+sat 2: Tra end  : 27 Dec 2084  2:59
+sat 1: Ecl start: 27 Dec 2084  4:02
+sat 1: Occ end  : 27 Dec 2084  6:23
+sat 4: Ecl start: 27 Dec 2084 22:19
+sat 1: Sha start: 28 Dec 2084  1:12
+sat 1: Tra start: 28 Dec 2084  1:18
+sat 4: Occ end  : 28 Dec 2084  2:13
+sat 1: Sha end  : 28 Dec 2084  3:27
+sat 1: Tra end  : 28 Dec 2084  3:32
+sat 2: Ecl start: 28 Dec 2084 18:22
+sat 2: Occ end  : 28 Dec 2084 21:17
+sat 1: Ecl start: 28 Dec 2084 22:31
+sat 1: Occ end  : 29 Dec 2084  0:48
+sat 1: Sha start: 29 Dec 2084 19:41
+sat 1: Tra start: 29 Dec 2084 19:43
+sat 1: Sha end  : 29 Dec 2084 21:56
+sat 1: Tra end  : 29 Dec 2084 21:58
+sat 3: Sha start: 30 Dec 2084  5:45
+sat 3: Tra start: 30 Dec 2084  5:52
+sat 3: Sha end  : 30 Dec 2084  9:00
+sat 3: Tra end  : 30 Dec 2084  9:06
+sat 2: Sha start: 30 Dec 2084 13:17
+sat 2: Tra start: 30 Dec 2084 13:20
+sat 2: Sha end  : 30 Dec 2084 16:03
+sat 2: Tra end  : 30 Dec 2084 16:05
+sat 1: Ecl start: 30 Dec 2084 16:59
+sat 1: Occ end  : 30 Dec 2084 19:14
+sat 1: Tra start: 31 Dec 2084 14:09
+sat 1: Sha start: 31 Dec 2084 14:10
+sat 1: Tra end  : 31 Dec 2084 16:24
+sat 1: Sha end  : 31 Dec 2084 16:25
+sat 2: Occ start:  1 Jan 2085  7:38
+sat 2: Ecl end  :  1 Jan 2085 10:28
+sat 1: Occ start:  1 Jan 2085 11:26
+sat 1: Ecl end  :  1 Jan 2085 13:42
+sat 1: Tra start:  2 Jan 2085  8:35
+sat 1: Sha start:  2 Jan 2085  8:38
+sat 1: Tra end  :  2 Jan 2085 10:50
+sat 1: Sha end  :  2 Jan 2085 10:54
+sat 3: Occ start:  2 Jan 2085 19:28
+sat 3: Ecl end  :  2 Jan 2085 22:58

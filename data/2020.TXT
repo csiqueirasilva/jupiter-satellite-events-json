@@ -1,5 +1,9 @@
-JD 2458848.500000 to 2459218.500000
+JD 2458847.500000 to 2459217.500000
 Sat 1 from sun
+sat 1: Sha start: 29 Dec 2019  2:24
+sat 1: Sha end  : 29 Dec 2019  4:37
+sat 1: Ecl start: 29 Dec 2019 23:42
+sat 1: Ecl end  : 30 Dec 2019  1:57
 sat 1: Sha start: 30 Dec 2019 20:52
 sat 1: Sha end  : 30 Dec 2019 23:06
 sat 1: Ecl start: 31 Dec 2019 18:11
@@ -838,9 +842,11 @@ sat 1: Ecl start:  2 Jan 2021 21:16
 sat 1: Ecl end  :  2 Jan 2021 23:34
 sat 1: Sha start:  3 Jan 2021 18:32
 sat 1: Sha end  :  3 Jan 2021 20:49
-sat 1: Ecl start:  4 Jan 2021 15:45
-sat 1: Ecl end  :  4 Jan 2021 18:03
 Sat 1 from earth
+sat 1: Tra start: 29 Dec 2019  2:25
+sat 1: Tra end  : 29 Dec 2019  4:39
+sat 1: Occ start: 29 Dec 2019 23:45
+sat 1: Occ end  : 30 Dec 2019  1:59
 sat 1: Tra start: 30 Dec 2019 20:55
 sat 1: Tra end  : 30 Dec 2019 23:09
 sat 1: Occ start: 31 Dec 2019 18:15
@@ -1679,10 +1685,10 @@ sat 1: Occ start:  2 Jan 2021 20:49
 sat 1: Occ end  :  2 Jan 2021 23:07
 sat 1: Tra start:  3 Jan 2021 18:06
 sat 1: Tra end  :  3 Jan 2021 20:23
-sat 1: Occ start:  4 Jan 2021 15:19
-sat 1: Occ end  :  4 Jan 2021 17:37
 Finding hidden events
 Sat 2 from sun
+sat 2: Ecl start: 29 Dec 2019  7:44
+sat 2: Ecl end  : 29 Dec 2019 10:22
 sat 2: Sha start: 31 Dec 2019  2:44
 sat 2: Sha end  : 31 Dec 2019  5:24
 sat 2: Ecl start:  1 Jan 2020 21:01
@@ -2102,8 +2108,10 @@ sat 2: Ecl end  :  2 Jan 2021  1:47
 sat 2: Sha start:  3 Jan 2021 17:29
 sat 2: Sha end  :  3 Jan 2021 20:24
 Sat 2 from earth
+sat 2: Occ start: 29 Dec 2019  7:47
+sat 2: Occ end  : 29 Dec 2019 10:26
 sat 2: Tra start: 31 Dec 2019  2:51
-sat 2: Tra end  : 31 Dec 2019  5:31
+sat 2: Tra end  : 31 Dec 2019  5:32
 sat 2: Occ start:  1 Jan 2020 21:12
 sat 2: Occ end  :  1 Jan 2020 23:51
 sat 2: Tra start:  3 Jan 2020 16:17
@@ -2522,9 +2530,11 @@ sat 2: Tra start:  3 Jan 2021 16:35
 sat 2: Tra end  :  3 Jan 2021 19:29
 Finding hidden events
 Sat 3 from sun
+sat 3: Sha start: 29 Dec 2019 19:09
+sat 3: Sha end  : 29 Dec 2019 22:02
 sat 3: Ecl start:  2 Jan 2020  9:20
 sat 3: Ecl end  :  2 Jan 2020 12:14
-sat 3: Sha start:  5 Jan 2020 23:07
+sat 3: Sha start:  5 Jan 2020 23:06
 sat 3: Sha end  :  6 Jan 2020  2:01
 sat 3: Ecl start:  9 Jan 2020 13:19
 sat 3: Ecl end  :  9 Jan 2020 16:14
@@ -2729,6 +2739,8 @@ sat 3: Sha end  : 29 Dec 2020 10:17
 sat 3: Ecl start:  1 Jan 2021 20:46
 sat 3: Ecl end  :  2 Jan 2021  0:21
 Sat 3 from earth
+sat 3: Tra start: 29 Dec 2019 19:17
+sat 3: Tra end  : 29 Dec 2019 22:12
 sat 3: Occ start:  2 Jan 2020  9:43
 sat 3: Occ end  :  2 Jan 2020 12:39
 sat 3: Tra start:  5 Jan 2020 23:45
@@ -2937,8 +2949,10 @@ sat 3: Occ start:  1 Jan 2021 18:52
 sat 3: Occ end  :  1 Jan 2021 22:25
 Finding hidden events
 Sat 4 from sun
+sat 4: Ecl start: 29 Dec 2019 17:38
+sat 4: Ecl end  : 29 Dec 2019 19:44
 sat 4: Sha start:  7 Jan 2020  0:45
-sat 4: Sha end  :  7 Jan 2020  3:00
+sat 4: Sha end  :  7 Jan 2020  2:59
 sat 4: Ecl start: 15 Jan 2020 11:35
 sat 4: Ecl end  : 15 Jan 2020 13:55
 sat 4: Sha start: 23 Jan 2020 18:41
@@ -3026,8 +3040,10 @@ sat 4: Sha end  : 24 Dec 2020  0:35
 sat 4: Ecl start:  1 Jan 2021  6:31
 sat 4: Ecl end  :  1 Jan 2021 11:17
 Sat 4 from earth
-sat 4: Tra start:  7 Jan 2020  2:22
-sat 4: Tra end  :  7 Jan 2020  4:48
+sat 4: Occ start: 29 Dec 2019 17:54
+sat 4: Occ end  : 29 Dec 2019 20:07
+sat 4: Tra start:  7 Jan 2020  2:21
+sat 4: Tra end  :  7 Jan 2020  4:47
 sat 4: Occ start: 15 Jan 2020 14:33
 sat 4: Occ end  : 15 Jan 2020 17:10
 sat 4: Tra start: 23 Jan 2020 22:57
@@ -3115,12 +3131,17 @@ sat 4: Tra end  : 23 Dec 2020 18:34
 sat 4: Occ start:  1 Jan 2021  2:00
 sat 4: Occ end  :  1 Jan 2021  6:40
 Finding hidden events
-Sorting 3104 events
+Sorting 3120 events
 Final results:
+sat 1: Occ end  : 30 Dec 2019  1:59
+sat 1: Sha start: 30 Dec 2019 20:52
+sat 1: Tra start: 30 Dec 2019 20:55
+sat 1: Sha end  : 30 Dec 2019 23:06
+sat 1: Tra end  : 30 Dec 2019 23:09
 sat 2: Sha start: 31 Dec 2019  2:44
 sat 2: Tra start: 31 Dec 2019  2:51
 sat 2: Sha end  : 31 Dec 2019  5:24
-sat 2: Tra end  : 31 Dec 2019  5:31
+sat 2: Tra end  : 31 Dec 2019  5:32
 sat 1: Ecl start: 31 Dec 2019 18:11
 sat 1: Occ end  : 31 Dec 2019 20:30
 sat 1: Sha start:  1 Jan 2020 15:21
@@ -3149,7 +3170,7 @@ sat 1: Sha end  :  5 Jan 2020  6:31
 sat 1: Tra end  :  5 Jan 2020  6:40
 sat 2: Ecl start:  5 Jan 2020 10:19
 sat 2: Occ end  :  5 Jan 2020 13:15
-sat 3: Sha start:  5 Jan 2020 23:07
+sat 3: Sha start:  5 Jan 2020 23:06
 sat 3: Tra start:  5 Jan 2020 23:45
 sat 1: Ecl start:  6 Jan 2020  1:37
 sat 3: Sha end  :  6 Jan 2020  2:01
@@ -3160,9 +3181,9 @@ sat 1: Tra start:  6 Jan 2020 22:57
 sat 4: Sha start:  7 Jan 2020  0:45
 sat 1: Sha end  :  7 Jan 2020  1:00
 sat 1: Tra end  :  7 Jan 2020  1:10
-sat 4: Tra start:  7 Jan 2020  2:22
-sat 4: Sha end  :  7 Jan 2020  3:00
-sat 4: Tra end  :  7 Jan 2020  4:48
+sat 4: Tra start:  7 Jan 2020  2:21
+sat 4: Sha end  :  7 Jan 2020  2:59
+sat 4: Tra end  :  7 Jan 2020  4:47
 sat 2: Sha start:  7 Jan 2020  5:20
 sat 2: Tra start:  7 Jan 2020  5:42
 sat 2: Sha end  :  7 Jan 2020  8:01
@@ -5533,11 +5554,3 @@ sat 1: Tra end  :  2 Jan 2021  1:52
 sat 1: Sha end  :  2 Jan 2021  2:20
 sat 1: Occ start:  2 Jan 2021 20:49
 sat 1: Ecl end  :  2 Jan 2021 23:34
-sat 2: Tra start:  3 Jan 2021 16:35
-sat 2: Sha start:  3 Jan 2021 17:29
-sat 1: Tra start:  3 Jan 2021 18:06
-sat 1: Sha start:  3 Jan 2021 18:32
-sat 2: Tra end  :  3 Jan 2021 19:29
-sat 1: Tra end  :  3 Jan 2021 20:23
-sat 2: Sha end  :  3 Jan 2021 20:24
-sat 1: Sha end  :  3 Jan 2021 20:49

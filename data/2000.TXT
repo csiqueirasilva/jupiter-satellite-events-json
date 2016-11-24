@@ -1,5 +1,9 @@
-JD 2451543.500000 to 2451911.500000
+JD 2451542.500000 to 2451912.500000
 Sat 1 from sun
+sat 1: Ecl start: 29 Dec 1999  0:45
+sat 1: Ecl end  : 29 Dec 1999  2:54
+sat 1: Sha start: 29 Dec 1999 21:57
+sat 1: Sha end  : 30 Dec 1999  0:07
 sat 1: Ecl start: 30 Dec 1999 19:14
 sat 1: Ecl end  : 30 Dec 1999 21:23
 sat 1: Sha start: 31 Dec 1999 16:26
@@ -836,7 +840,11 @@ sat 1: Ecl start:  1 Jan 2001 22:39
 sat 1: Ecl end  :  2 Jan 2001  0:50
 sat 1: Sha start:  2 Jan 2001 19:47
 sat 1: Sha end  :  2 Jan 2001 21:58
+sat 1: Ecl start:  3 Jan 2001 17:08
+sat 1: Ecl end  :  3 Jan 2001 19:18
 Sat 1 from earth
+sat 1: Tra start: 29 Dec 1999 20:39
+sat 1: Tra end  : 29 Dec 1999 22:50
 sat 1: Occ start: 30 Dec 1999 17:56
 sat 1: Occ end  : 30 Dec 1999 20:06
 sat 1: Tra start: 31 Dec 1999 15:07
@@ -1673,6 +1681,8 @@ sat 1: Occ start:  1 Jan 2001 21:49
 sat 1: Occ end  :  1 Jan 2001 23:59
 sat 1: Tra start:  2 Jan 2001 18:56
 sat 1: Tra end  :  2 Jan 2001 21:06
+sat 1: Occ start:  3 Jan 2001 16:16
+sat 1: Occ end  :  3 Jan 2001 18:26
 Finding hidden events
 Sat 2 from sun
 sat 2: Ecl start: 30 Dec 1999 17:29
@@ -2091,6 +2101,8 @@ sat 2: Ecl start: 30 Dec 2000 19:31
 sat 2: Ecl end  : 30 Dec 2000 22:09
 sat 2: Sha start:  1 Jan 2001 14:40
 sat 2: Sha end  :  1 Jan 2001 17:17
+sat 2: Ecl start:  3 Jan 2001  8:50
+sat 2: Ecl end  :  3 Jan 2001 11:28
 Sat 2 from earth
 sat 2: Occ start: 30 Dec 1999 14:50
 sat 2: Occ end  : 30 Dec 1999 17:24
@@ -2508,6 +2520,8 @@ sat 2: Occ start: 30 Dec 2000 17:56
 sat 2: Occ end  : 30 Dec 2000 20:31
 sat 2: Tra start:  1 Jan 2001 13:01
 sat 2: Tra end  :  1 Jan 2001 15:36
+sat 2: Occ start:  3 Jan 2001  7:06
+sat 2: Occ end  :  3 Jan 2001  9:42
 Finding hidden events
 Sat 3 from sun
 sat 3: Sha start:  1 Jan 2000  9:53
@@ -2927,8 +2941,15 @@ Finding hidden events
 Sat 4 from sun
 Sat 4 from earth
 Finding hidden events
-Sorting 2916 events
+Sorting 2930 events
 Final results:
+sat 1: Sha end  : 30 Dec 1999  0:07
+sat 2: Occ start: 30 Dec 1999 14:50
+sat 2: Occ end  : 30 Dec 1999 17:24
+sat 2: Ecl start: 30 Dec 1999 17:29
+sat 1: Occ start: 30 Dec 1999 17:56
+sat 2: Ecl end  : 30 Dec 1999 20:02
+sat 1: Ecl end  : 30 Dec 1999 21:23
 sat 1: Tra start: 31 Dec 1999 15:07
 sat 1: Sha start: 31 Dec 1999 16:26
 sat 1: Tra end  : 31 Dec 1999 17:18
@@ -5232,3 +5253,8 @@ sat 2: Sha start:  1 Jan 2001 14:40
 sat 2: Tra end  :  1 Jan 2001 15:36
 sat 2: Sha end  :  1 Jan 2001 17:17
 sat 1: Occ start:  1 Jan 2001 21:49
+sat 1: Ecl end  :  2 Jan 2001  0:50
+sat 1: Tra start:  2 Jan 2001 18:56
+sat 1: Sha start:  2 Jan 2001 19:47
+sat 1: Tra end  :  2 Jan 2001 21:06
+sat 1: Sha end  :  2 Jan 2001 21:58
